@@ -1,0 +1,27 @@
+# Streamlit Community Cloud puts an app to sleep after 12 hours without visitors.
+# This job visits the app every 6 hours (and presses the wake-up button if it ever fell asleep),
+# so the jury always finds it running. Put your app's address on the APP_URL line below.
+name: Keep the demo awake
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  visit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      APP_URL: "https://YOUR-APP-NAME.streamlit.app"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install a headless browser
+        run: |
+          pip install playwright==1.47.0
+          python -m playwright install --with-deps chromium
+      - name: Visit the app
+        run: python .github/keep_awake.py

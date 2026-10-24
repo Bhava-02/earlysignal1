@@ -1,0 +1,1095 @@
+Roll No,Student Name,Gender,Dept,Batch,Year,Sec,Residence,First Graduate,Mentor,HSC %,Official Email
+24EC090,Mohammed S,M,ECE,2024,3,C,Day Scholar,No,Dr. C. Venkatesh,81.4,24ec090@college.edu.in
+23CS092,Divya J,F,CSE,2023,4,C,Day Scholar,No,Prof. S. Karthikeyan,77.4,23cs092@college.edu.in
+24EC060,Meena J,F,ECE,2024,3,B,Day Scholar,No,Dr. C. Venkatesh,73.1,24ec060@college.edu.in
+23CS068,Dinesh M,M,CSE,2023,4,B,Hostel,No,Prof. S. Karthikeyan,96.7,23cs068@college.edu.in
+23EC084,Rahul T,M,ECE,2023,4,C,Day Scholar,No,Prof. D. Uma,70.6,23ec084@college.edu.in
+23ME016,Madhan M,M,MECH,2023,4,A,Day Scholar,No,Dr. S. Murugan,65.3,23me016@college.edu.in
+23IT080,Nandhini L,F,IT,2023,4,C,Hostel,Yes,Dr. B. Prakash,79.0,23it080@college.edu.in
+24ME057,Gayathri C,F,MECH,2024,3,B,Hostel,No,Dr. P. Selvi,81.9,24me057@college.edu.in
+23EC077,Yamini Pillai,F,ECE,2023,4,C,Day Scholar,No,Prof. L. Revathi,67.3,23ec077@college.edu.in
+23ME004,Ayesha B,F,MECH,2023,4,A,Day Scholar,No,Dr. S. Murugan,75.0,23me004@college.edu.in
+24CS105,Bharath Nair,M,CSE,2024,3,C,Hostel,No,Dr. M. Fathima,85.4,24cs105@college.edu.in
+25ME023,Nikita G,F,MECH,2025,2,A,Day Scholar,Yes,Prof. R. Balaji,76.7,25me023@college.edu.in
+25ME006,Madhumitha D,F,MECH,2025,2,A,Hostel,No,Dr. P. Selvi,74.0,25me006@college.edu.in
+23EC072,Shreya Singh,F,ECE,2023,4,C,Hostel,No,Prof. L. Revathi,78.3,23ec072@college.edu.in
+24CS004,Hari C,M,CSE,2024,3,A,Day Scholar,No,Prof. V. Anand,79.3,24cs004@college.edu.in
+23EC003,Nikita Patel,F,ECE,2023,4,A,Day Scholar,No,Dr. H. Mohan,66.7,23ec003@college.edu.in
+24ME021,Arjun Singh,M,MECH,2024,3,A,Day Scholar,Yes,Dr. P. Selvi,82.5,24me021@college.edu.in
+24CS059,Imran J,M,CSE,2024,3,B,Day Scholar,No,Dr. K. Meenakshi,97.2,24cs059@college.edu.in
+24IT002,Ishita M,F,IT,2024,3,A,Day Scholar,No,Prof. N. Kavitha,79.8,24it002@college.edu.in
+25CS018,Priya L,F,CSE,2025,2,A,Day Scholar,No,Prof. P. Rajesh,59.5,25cs018@college.edu.in
+24IT072,Janani Singh,F,it,2024,3,C,Hostel,No,Prof. N. Kavitha,75.7,24it072@college.edu.in
+24CS006,Rohan D,M,CSE,2024,3,A,Hostel,Yes,Prof. P. Rajesh,79.9,24cs006@college.edu.in
+25EC048,Jeevan Joseph,M,ECE,2025,2,B,Day Scholar,No,Dr. H. Mohan,99.0,25ec048@college.edu.in
+24CS058,Rohan E,M,CSE,2024,3,B,Day Scholar,No,Prof. V. Anand,62.1,24cs058@college.edu.in
+25ME050,Abishek A,M,MECH,2025,2,B,Day Scholar,No,Prof. R. Balaji,72.4,25me050@college.edu.in
+24IT017,Praveen Das,M,IT,2024,3,A,Hostel,Yes,Prof. N. Kavitha,94.0,24it017@college.edu.in
+23CS069,Bhavana M,F,CSE,2023,4,B,Hostel,No,Dr. M. Fathima,68.4,23cs069@college.edu.in
+24CS088,Yamini N,F,CSE,2024,3,C,Day Scholar,Yes,Prof. V. Anand,66.2,24cs088@college.edu.in
+23ME057,Hari T,M,MECH,2023,4,B,Day Scholar,Yes,Dr. P. Selvi,74.3,23me057@college.edu.in
+24ME004,Karthik M,M,MECH,2024,3,A,Day Scholar,No,Dr. S. Murugan,78.7,24me004@college.edu.in
+24CS111,Sabari Patel,M,CSE,2024,3,C,Day Scholar,Yes,Dr. M. Fathima,87.7,24cs111@college.edu.in
+23ME048,Vijay Kumar,M,MECH,2023,4,B,Day Scholar,Yes,Dr. P. Selvi,72.1,23me048@college.edu.in
+25IT042,Kishore V,M,IT,2025,2,B,Day Scholar,No,Prof. N. Kavitha,85.6,25it042@college.edu.in
+25EC052,Vijay T,M,ECE,2025,2,B,Day Scholar,No,Prof. L. Revathi,61.9,25ec052@college.edu.in
+24IT043,Dhanush Joseph,M,IT,2024,3,B,Day Scholar,No,Dr. T. Ramesh,63.8,24it043@college.edu.in
+24CS020,Sushmitha S,F,CSE,2024,3,A,Hostel,No,Prof. S. Karthikeyan,73.7,24cs020@college.edu.in
+24CS041,Vishal B,M,CSE,2024,3,B,Hostel,No,Dr. K. Meenakshi,78.2,24cs041@college.edu.in
+24IT040,Vignesh Iyer,M,IT,2024,3,B,Hostel,No,Dr. B. Prakash,80.3,24it040@college.edu.in
+25CS100,Priya N,F,CSE,2025,2,C,Hostel,No,Prof. V. Anand,81.5,25cs100@college.edu.in
+24ME026,Ashwin S,M,MECH,2024,3,A,Day Scholar,No,Prof. R. Balaji,70.1,24me026@college.edu.in
+23IT074,Sahana Kumar,F,IT,2023,4,C,Hostel,No,Prof. G. Shalini,85.9,23it074@college.edu.in
+23CS059,Arjun Joseph,M,CSE,2023,4,B,Day Scholar,No,Dr. K. Meenakshi,97.3,23cs059@college.edu.in
+23EC032,Manoj N,M,ECE,2023,4,B,Hostel,No,Prof. L. Revathi,85.9,23ec032@college.edu.in
+24CS017,Bharath Nair,M,CSE,2024,3,A,Hostel,No,Dr. K. Meenakshi,75.8,24cs017@college.edu.in
+25IT090,Sahana S,F,IT,2025,2,C,Day Scholar,No,Dr. B. Prakash,73.7,25it090@college.edu.in
+24CS099,Ramya T,F,CSE,2024,3,C,Day Scholar,Yes,Dr. M. Fathima,68.9,24cs099@college.edu.in
+24ME023,Vignesh G,M,MECH,2024,3,A,Day Scholar,No,Prof. R. Balaji,79.7,24me023@college.edu.in
+24CS078,Tanvi G,F,CSE,2024,3,B,Hostel,No,Prof. P. Rajesh,80.0,24cs078@college.edu.in
+25ME019,Mukesh Iyer,M,MECH,2025,2,A,Day Scholar,No,Dr. S. Murugan,89.1,25me019@college.edu.in
+23EC004,Bhavana K,F,ECE,2023,4,A,Hostel,No,Prof. D. Uma,96.8,23ec004@college.edu.in
+23EC042,Ashwin B,M,ECE,2023,4,B,Day Scholar,No,Prof. L. Revathi,78.6,23ec042@college.edu.in
+25CS069,NIKITA R  ,F,CSE,2025,2,B,Day Scholar,Yes,Dr. M. Fathima,74.4,25cs069@college.edu.in
+25IT061,Varsha R,F,IT,2025,2,C,Hostel,No,Dr. A. Sundar,76.2,25it061@college.edu.in
+24CS112,NIKITA DAS  ,F,CSE,2024,3,C,Day Scholar,No,Prof. V. Anand,96.2,24cs112@college.edu.in
+24EC027,Praveen T,M,ECE,2024,3,A,Day Scholar,No,Prof. L. Revathi,81.8,24ec027@college.edu.in
+25ME012,Ashwin P,M,MECH,2025,2,A,Hostel,Yes,Dr. P. Selvi,64.7,25me012@college.edu.in
+24CS106,VARSHA T  ,F,CS,2024,3,C,Day Scholar,No,Prof. V. Anand,85.0,24cs106@college.edu.in
+25CS099,Lakshmi E,F,CSE,2025,2,C,Day Scholar,No,Dr. M. Fathima,91.8,25cs099@college.edu.in
+24CS026,Vijay Rao,M,CSE,2024,3,A,Hostel,No,Prof. S. Karthikeyan,81.3,24cs026@college.edu.in
+23CS008,Arjun Sharma,M,CSE,2023,4,A,Day Scholar,No,Prof. S. Karthikeyan,72.6,23cs008@college.edu.in
+23EC076,Revathi Pillai,F,ECE,2023,4,C,Day Scholar,No,Dr. J. Srinivasan,74.7,23ec076@college.edu.in
+24IT066,Pooja Rao,F,IT,2024,3,C,Hostel,No,Dr. A. Sundar,65.8,24it066@college.edu.in
+25EC047,Anjali A,F,ECE,2025,2,B,Hostel,No,Prof. L. Revathi,84.2,25ec047@college.edu.in
+24EC085,Hema Nair,F,ECE,2024,3,C,Day Scholar,No,Dr. C. Venkatesh,90.4,24ec085@college.edu.in
+25ME045,Ramya T,F,MECH,2025,2,B,Day Scholar,No,Dr. P. Selvi,74.0,25me045@college.edu.in
+25EC040,Bharath B,M,ece,2025,2,B,Day Scholar,Yes,Dr. C. Venkatesh,94.9,25ec040@college.edu.in
+24EC015,Sruthi M,F,ECE,2024,3,A,Hostel,Yes,Dr. C. Venkatesh,67.3,24ec015@college.edu.in
+24IT078,Vishal V,M,IT,2024,3,C,Hostel,No,Dr. T. Ramesh,86.3,24it078@college.edu.in
+23CS038,Kishore Menon,M,CSE,2023,4,A,Day Scholar,No,Prof. S. Karthikeyan,78.6,23cs038@college.edu.in
+24CS109,Ayesha B,F,CSE,2024,3,C,Day Scholar,No,Dr. R. Lakshmi,94.7,24cs109@college.edu.in
+24CS118,Surya N,M,CSE,2024,3,C,Day Scholar,No,Prof. V. Anand,83.7,24cs118@college.edu.in
+24EC070,Deepika Joseph,F,ECE,2024,3,C,Hostel,Yes,Dr. C. Venkatesh,83.5,24ec070@college.edu.in
+24CS117,Praveen S,M,CSE,2024,3,C,Day Scholar,No,Dr. M. Fathima,76.3,24cs117@college.edu.in
+25EC072,Dinesh S,M,Electronics & Comm,2025,2,C,Day Scholar,Yes,Prof. L. Revathi,87.8,25ec072@college.edu.in
+24ME047,Janani M,F,MECH,2024,3,B,Day Scholar,No,Prof. R. Balaji,70.9,24me047@college.edu.in
+24ME014,Pranav N,M,MECH,2024,3,A,Day Scholar,No,Prof. R. Balaji,93.2,24me014@college.edu.in
+25IT041,Sneha R,F,IT,2025,2,B,Day Scholar,No,Dr. A. Sundar,83.5,25it041@college.edu.in
+24CS038,Yash T,M,CSE,2024,3,A,Hostel,No,Prof. S. Karthikeyan,91.4,24cs038@college.edu.in
+23EC023,Bharath E,M,ECE,2023,4,A,Day Scholar,No,Dr. H. Mohan,75.4,23ec023@college.edu.in
+24EC028,Sabari P,M,ECE,2024,3,A,Day Scholar,No,Dr. H. Mohan,93.0,24ec028@college.edu.in
+25IT013,SOWMYA S  ,F,IT,2025,2,A,Day Scholar,No,Dr. T. Ramesh,57.3,25it013@college.edu.in
+24ME012,PRANAV PATEL  ,M,MECH,2024,3,A,Day Scholar,No,Dr. P. Selvi,88.1,24me012@college.edu.in
+25IT069,Ishita V,F,IT,2025,2,C,Day Scholar,No,Prof. G. Shalini,80.1,25it069@college.edu.in
+24CS097,Sneha V,F,CSE,2024,3,C,Day Scholar,No,Dr. R. Lakshmi,63.4,24cs097@college.edu.in
+24ME035,Imran Singh,M,MECH,2024,3,B,Day Scholar,No,Prof. R. Balaji,81.1,24me035@college.edu.in
+23IT027,Imran Patel,M,IT,2023,4,A,Day Scholar,No,Prof. N. Kavitha,62.7,23it027@college.edu.in
+24EC026,Ayesha Singh,F,ECE,2024,3,A,Hostel,No,Dr. J. Srinivasan,88.0,24ec026@college.edu.in
+25IT027,DINESH A  ,M,IT,2025,2,A,Day Scholar,No,Prof. N. Kavitha,85.2,25it027@college.edu.in
+25IT037,Ganesh N,M,IT,2025,2,B,Day Scholar,No,Prof. N. Kavitha,81.7,25it037@college.edu.in
+24ME037,Naveen Das,M,MECH,2024,3,B,Day Scholar,No,Dr. S. Murugan,90.7,24me037@college.edu.in
+25IT050,Sneha M,F,IT,2025,2,B,Day Scholar,No,Dr. B. Prakash,85.6,25it050@college.edu.in
+23EC056,Karthik Pillai,M,ECE,2023,4,B,Hostel,No,Dr. J. Srinivasan,96.0,23ec056@college.edu.in
+25CS002,Swathi J,F,CSE,2025,2,A,Day Scholar,Yes,Prof. S. Karthikeyan,71.9,25cs002@college.edu.in
+23ME013,Sruthi C,F,MECH,2023,4,A,Day Scholar,No,Dr. S. Murugan,79.9,23me013@college.edu.in
+24EC074,Priya Patel,F,ECE,2024,3,C,Day Scholar,No,Prof. D. Uma,74.6,24ec074@college.edu.in
+24IT045,Kavin E,M,IT,2024,3,B,Hostel,No,Dr. B. Prakash,67.7,24it045@college.edu.in
+25EC036,Ananya P,F,EC,2025,2,B,Day Scholar,Yes,Dr. J. Srinivasan,65.2,25ec036@college.edu.in
+23ME036,Ritika N,F,MECH,2023,4,B,Hostel,Yes,Dr. P. Selvi,78.7,23me036@college.edu.in
+23CS061,Madhumitha Kumar,F,CSE,2023,4,B,Hostel,No,Dr. R. Lakshmi,68.7,23cs061@college.edu.in
+25IT010,Deepak Joseph,M,IT,2025,2,A,Day Scholar,No,Dr. B. Prakash,99.5,25it010@college.edu.in
+24EC006,Kavya Nair,F,ECE,2024,3,A,Day Scholar,No,Dr. J. Srinivasan,90.2,24ec006@college.edu.in
+23EC063,Ananya M,F,EC,2023,4,C,Day Scholar,No,Dr. H. Mohan,75.4,23ec063@college.edu.in
+23ME020,Swathi V,F,MECH,2023,4,A,Day Scholar,No,Prof. R. Balaji,67.6,23me020@college.edu.in
+23IT063,Pavithra Sharma,F,IT,2023,4,C,Day Scholar,No,Dr. T. Ramesh,86.6,23it063@college.edu.in
+25EC078,Sandhya D,F,ECE,2025,2,C,Day Scholar,No,Dr. H. Mohan,81.6,25ec078@college.edu.in
+25CS044,Rohan Sharma,M,CSE,2025,2,B,Day Scholar,No,Prof. S. Karthikeyan,74.0,25cs044@college.edu.in
+25CS028,Kavya Nair,F,CSE,2025,2,A,Day Scholar,No,Prof. V. Anand,65.1,25cs028@college.edu.in
+25CS079,Kavya K,F,Computer Science,2025,2,B,Day Scholar,Yes,Dr. R. Lakshmi,75.2,25cs079@college.edu.in
+25EC037,Surya Reddy,M,ece,2025,2,B,Hostel,No,Prof. L. Revathi,80.0,25ec037@college.edu.in
+25CS093,Monisha L,F,CSE,2025,2,C,Day Scholar,Yes,Dr. M. Fathima,97.5,25cs093@college.edu.in
+23ME029,Lakshmi Menon,F,MECH,2023,4,A,Day Scholar,No,Prof. R. Balaji,73.1,23me029@college.edu.in
+24CS025,Pranav E,M,C.S.E,2024,3,A,Hostel,Yes,Dr. R. Lakshmi,91.5,24cs025@college.edu.in
+25CS076,Arun Das,M,CSE,2025,2,B,Day Scholar,Yes,Prof. V. Anand,63.1,25cs076@college.edu.in
+25EC011,Madhan R,M,ECE,2025,2,A,Day Scholar,No,Dr. J. Srinivasan,84.9,25ec011@college.edu.in
+25CS014,Pranav Iyer,M,CSE,2025,2,A,Hostel,No,Prof. S. Karthikeyan,80.7,25cs014@college.edu.in
+24IT064,Rahul Sharma,M,it,2024,3,C,Hostel,Yes,Prof. G. Shalini,80.6,24it064@college.edu.in
+25CS105,Naveen C,M,CSE,2025,2,C,Day Scholar,No,Dr. M. Fathima,87.6,25cs105@college.edu.in
+25ME049,Ramya Singh,F,MECH,2025,2,B,Day Scholar,No,Dr. S. Murugan,81.7,25me049@college.edu.in
+25EC038,Vijay Menon,M,ECE,2025,2,B,Hostel,No,Dr. H. Mohan,83.4,25ec038@college.edu.in
+24IT056,Sahana M,F,IT,2024,3,B,Day Scholar,Yes,Dr. A. Sundar,92.5,24it056@college.edu.in
+24ME033,Pranav Rao,M,MECH,2024,3,B,Day Scholar,No,Dr. P. Selvi,85.4,24me033@college.edu.in
+24EC063,Deepak S,M,ECE,2024,3,C,Day Scholar,No,Dr. H. Mohan,70.7,24ec063@college.edu.in
+23IT018,Lokesh Das,M,IT,2023,4,A,Hostel,Yes,Dr. T. Ramesh,76.5,23it018@college.edu.in
+23CS067,Nikita P,F,CSE,2023,4,B,Day Scholar,No,Dr. R. Lakshmi,93.3,23cs067@college.edu.in
+25EC055,Monisha L,F,ECE,2025,2,B,Day Scholar,No,Dr. C. Venkatesh,99.5,25ec055@college.edu.in
+25IT055,KAVIN E  ,M,IT,2025,2,B,Day Scholar,No,Dr. B. Prakash,79.6,25it055@college.edu.in
+25CS029,Hema D,F,CSE,2025,2,A,Hostel,No,Dr. K. Meenakshi,79.3,25cs029@college.edu.in
+24EC064,Sanjay Nair,M,Electronics & Comm,2024,3,C,Hostel,No,Prof. D. Uma,74.5,24ec064@college.edu.in
+24CS082,Mohammed N,M,CSE,2024,3,C,Hostel,No,Prof. V. Anand,74.3,24cs082@college.edu.in
+23ME019,Ganesh G,M,MECH,2023,4,A,Hostel,No,Dr. S. Murugan,75.9,23me019@college.edu.in
+24IT063,Sowmya Pillai,F,IT,2024,3,C,Hostel,Yes,Dr. T. Ramesh,82.5,24it063@college.edu.in
+23ME023,Vaishnavi J,F,MECH,2023,4,A,Day Scholar,No,Prof. R. Balaji,80.8,23me023@college.edu.in
+25CS092,Priya A,F,CSE,2025,2,C,Day Scholar,No,Prof. S. Karthikeyan,81.0,25cs092@college.edu.in
+23EC026,Sowmya S,F,ECE,2023,4,A,Day Scholar,No,Dr. J. Srinivasan,85.0,23ec026@college.edu.in
+23CS021,Dhanush S,M,CSE,2023,4,A,Hostel,Yes,Dr. M. Fathima,55.0,23cs021@college.edu.in
+24ME006,LOKESH D  ,M,MECH,2024,3,A,Hostel,No,Dr. P. Selvi,72.8,24me006@college.edu.in
+23IT081,Arjun P,M,IT,2023,4,C,Day Scholar,No,Dr. A. Sundar,84.7,23it081@college.edu.in
+23EC021,Ragul Kumar,M,ECE,2023,4,A,Day Scholar,No,Dr. J. Srinivasan,77.3,23ec021@college.edu.in
+24IT031,Lokesh C,M,IT,2024,3,B,Day Scholar,No,Dr. A. Sundar,80.7,24it031@college.edu.in
+24IT036,Ragul Reddy,M,IT,2024,3,B,Hostel,Yes,Dr. A. Sundar,90.2,24it036@college.edu.in
+24CS098,Meena G,F,CSE,2024,3,C,Day Scholar,No,Prof. S. Karthikeyan,93.8,24cs098@college.edu.in
+24CS073,Nithish A,M,CSE,2024,3,B,Day Scholar,No,Dr. R. Lakshmi,75.1,24cs073@college.edu.in
+25EC008,Meena N,F,ECE,2025,2,A,Day Scholar,No,Dr. H. Mohan,66.7,25ec008@college.edu.in
+23IT009,Aditya K,M,IT,2023,4,A,Day Scholar,No,Prof. G. Shalini,69.2,23it009@college.edu.in
+24IT086,Nithish Patel,M,IT,2024,3,C,Day Scholar,No,Dr. A. Sundar,91.7,24it086@college.edu.in
+25EC083,Praveen D,M,ECE,2025,2,C,Day Scholar,No,Dr. H. Mohan,69.6,25ec083@college.edu.in
+24CS093,Sabari D,M,CSE,2024,3,C,Day Scholar,No,Dr. M. Fathima,85.7,24cs093@college.edu.in
+24CS077,Sruthi B,F,CSE,2024,3,B,Day Scholar,No,Dr. K. Meenakshi,81.2,24cs077@college.edu.in
+25CS087,Monisha J,F,CSE,2025,2,C,Day Scholar,Yes,Dr. M. Fathima,70.7,25cs087@college.edu.in
+24CS032,Siddharth Iyer,M,CSE,2024,3,A,Hostel,No,Prof. S. Karthikeyan,67.3,24cs032@college.edu.in
+25EC039,Jeevan Patel,M,ECE,2025,2,B,Day Scholar,No,Prof. D. Uma,76.1,25ec039@college.edu.in
+25EC066,Fathima Das,F,ECE,2025,2,C,Hostel,No,Dr. J. Srinivasan,72.2,25ec066@college.edu.in
+23IT064,Sahana K,F,IT,2023,4,C,Hostel,No,Prof. G. Shalini,89.5,23it064@college.edu.in
+25EC087,Dinesh E,M,ECE,2025,2,C,Day Scholar,Yes,Prof. L. Revathi,81.4,25ec087@college.edu.in
+23IT022,Ashwin T,M,IT,2023,4,A,Day Scholar,No,Prof. N. Kavitha,85.0,23it022@college.edu.in
+25CS023,Sruthi Rao,F,CSE,2025,2,A,Hostel,No,Dr. K. Meenakshi,98.7,25cs023@college.edu.in
+23CS072,Bharath B,M,CSE,2023,4,B,Day Scholar,Yes,Prof. P. Rajesh,91.1,23cs072@college.edu.in
+23EC014,Bharath T,M,ECE,2023,4,A,Hostel,No,Prof. D. Uma,84.7,23ec014@college.edu.in
+23ME006,Hema Rao,F,MECH,2023,4,A,Day Scholar,No,Dr. P. Selvi,89.0,23me006@college.edu.in
+24EC051,Surya C,M,ECE,2024,3,B,Day Scholar,No,Dr. J. Srinivasan,73.1,24ec051@college.edu.in
+23EC054,Kishore B,M,ECE,2023,4,B,Day Scholar,No,Prof. D. Uma,78.7,23ec054@college.edu.in
+23CS016,Hema Sharma,F,CSE,2023,4,A,Hostel,No,Prof. V. Anand,70.1,23cs016@college.edu.in
+23IT024,Mohammed R,M,IT,2023,4,A,Hostel,Yes,Prof. G. Shalini,67.5,23it024@college.edu.in
+25IT084,Santhosh E,M,IT,2025,2,C,Hostel,Yes,Prof. G. Shalini,78.6,25it084@college.edu.in
+24CS042,VAISHNAVI N  ,F,CSE,2024,3,B,Hostel,Yes,Prof. P. Rajesh,73.2,24cs042@college.edu.in
+24IT032,Fathima P,F,IT,2024,3,B,Day Scholar,Yes,Prof. N. Kavitha,70.3,24it032@college.edu.in
+25IT043,Arun A,M,IT,2025,2,B,Hostel,No,Dr. T. Ramesh,98.2,25it043@college.edu.in
+23CS048,Sanjay Singh,M,CSE,2023,4,B,Hostel,No,Prof. P. Rajesh,78.9,23cs048@college.edu.in
+25EC027,Anjali A,F,ECE,2025,2,A,Day Scholar,Yes,Prof. L. Revathi,64.8,25ec027@college.edu.in
+23IT045,Nikita N,F,IT,2023,4,B,Hostel,No,Dr. B. Prakash,66.8,23it045@college.edu.in
+23CS100,Lokesh E,M,CSE,2023,4,C,Day Scholar,No,Prof. V. Anand,96.3,23cs100@college.edu.in
+24EC007,Ajith Patel,M,ECE,2024,3,A,Day Scholar,No,Prof. L. Revathi,82.5,24ec007@college.edu.in
+25IT031,Siddharth M,M,IT,2025,2,B,Day Scholar,No,Dr. A. Sundar,81.8,25it031@college.edu.in
+23IT078,Surya B,M,IT,2023,4,C,Day Scholar,No,Dr. T. Ramesh,76.8,23it078@college.edu.in
+24IT059,Nithish Nair,M,IT,2024,3,B,Hostel,No,Prof. G. Shalini,73.3,24it059@college.edu.in
+25ME009,Aditya Menon,M,MECH,2025,2,A,Day Scholar,Yes,Dr. P. Selvi,79.5,25me009@college.edu.in
+24IT079,Rahul L,M,IT,2024,3,C,Day Scholar,No,Prof. G. Shalini,62.8,24it079@college.edu.in
+23CS071,Sabari Rao,M,Computer Science,2023,4,B,Hostel,No,Dr. K. Meenakshi,86.5,23cs071@college.edu.in
+23ME052,Sanjay Menon,M,MECH,2023,4,B,Day Scholar,No,Dr. S. Murugan,62.2,23me052@college.edu.in
+25CS097,Arjun T,M,CSE,2025,2,C,Hostel,No,Dr. R. Lakshmi,64.5,25cs097@college.edu.in
+24CS029,Ritika K,F,CSE,2024,3,A,Hostel,No,Dr. K. Meenakshi,87.5,24cs029@college.edu.in
+23IT052,Vishal V,M,IT,2023,4,B,Hostel,Yes,Prof. N. Kavitha,66.6,23it052@college.edu.in
+23EC017,Keerthana R,F,ECE,2023,4,A,Day Scholar,Yes,Prof. L. Revathi,82.0,23ec017@college.edu.in
+23EC030,Sanjay Sharma,M,ECE,2023,4,A,Hostel,No,Dr. C. Venkatesh,92.3,23ec030@college.edu.in
+23IT036,Sahana P,F,IT,2023,4,B,Hostel,Yes,Dr. A. Sundar,72.3,23it036@college.edu.in
+25CS083,Meena Singh,F,CSE,2025,2,C,Day Scholar,No,Dr. K. Meenakshi,85.9,25cs083@college.edu.in
+25EC042,Dinesh Reddy,M,ECE,2025,2,B,Day Scholar,No,Prof. L. Revathi,77.2,25ec042@college.edu.in
+23ME010,Janani Nair,F,MECH,2023,4,A,Hostel,No,Dr. S. Murugan,69.7,23me010@college.edu.in
+24EC045,Sahana D,F,Electronics & Comm,2024,3,B,Day Scholar,No,Dr. C. Venkatesh,68.3,24ec045@college.edu.in
+24IT051,Aishwarya P,F,IT,2024,3,B,Day Scholar,No,Dr. A. Sundar,55.7,24it051@college.edu.in
+24CS053,Keerthana D,F,CSE,2024,3,B,Hostel,No,Dr. K. Meenakshi,71.3,24cs053@college.edu.in
+24EC012,Lakshmi Pillai,F,ECE,2024,3,A,Day Scholar,No,Prof. L. Revathi,79.3,24ec012@college.edu.in
+25CS098,Sneha Sharma,F,CSE,2025,2,C,Day Scholar,Yes,Prof. S. Karthikeyan,64.8,25cs098@college.edu.in
+25EC045,Ragul E,M,ECE,2025,2,B,Hostel,Yes,Dr. C. Venkatesh,69.3,25ec045@college.edu.in
+25CS037,Ananya J,F,CSE,2025,2,A,Day Scholar,No,Dr. R. Lakshmi,76.9,25cs037@college.edu.in
+24CS080,Vijay Rao,M,CSE,2024,3,B,Day Scholar,No,Prof. S. Karthikeyan,72.3,24cs080@college.edu.in
+24EC020,Swathi Patel,F,ECE,2024,3,A,Day Scholar,No,Dr. C. Venkatesh,57.7,24ec020@college.edu.in
+23EC062,Hari Menon,M,E.C.E,2023,4,C,Day Scholar,No,Prof. L. Revathi,59.6,23ec062@college.edu.in
+25EC070,Mukesh Kumar,M,ECE,2025,2,C,Day Scholar,Yes,Dr. C. Venkatesh,91.2,25ec070@college.edu.in
+25ME026,Tanvi C,F,MECH,2025,2,A,Day Scholar,No,Prof. R. Balaji,79.4,25me026@college.edu.in
+25CS051,Santhosh Kumar,M,CSE,2025,2,B,Day Scholar,No,Dr. M. Fathima,77.3,25cs051@college.edu.in
+25CS019,Ashwin L,M,CSE,2025,2,A,Hostel,No,Dr. R. Lakshmi,87.4,25cs019@college.edu.in
+25ME021,Vijay Singh,M,ME,2025,2,A,Day Scholar,No,Dr. P. Selvi,94.4,25me021@college.edu.in
+23CS102,SIDDHARTH REDDY  ,M,CSE,2023,4,C,Hostel,Yes,Prof. P. Rajesh,85.2,23cs102@college.edu.in
+25IT014,Madhumitha N,F,IT,2025,2,A,Hostel,No,Prof. G. Shalini,77.0,25it014@college.edu.in
+24IT033,Karthik C,M,IT,2024,3,B,Hostel,No,Dr. T. Ramesh,80.0,24it033@college.edu.in
+24CS039,Imran J,M,CSE,2024,3,A,Day Scholar,No,Dr. M. Fathima,69.5,24cs039@college.edu.in
+25IT033,Pooja R,F,IT,2025,2,B,Hostel,No,Dr. T. Ramesh,73.2,25it033@college.edu.in
+24EC084,Lakshmi D,F,ECE,2024,3,C,Hostel,No,Prof. D. Uma,69.2,24ec084@college.edu.in
+23IT076,Vishal N,M,IT,2023,4,C,Day Scholar,No,Dr. A. Sundar,79.0,23it076@college.edu.in
+24IT089,Madhan Pillai,M,IT,2024,3,C,Day Scholar,No,Prof. G. Shalini,57.4,24it089@college.edu.in
+25EC085,Madhan Iyer,M,ECE,2025,2,C,Day Scholar,Yes,Dr. C. Venkatesh,61.8,25ec085@college.edu.in
+25CS008,Arun B,M,CSE,2025,2,A,Hostel,No,Prof. S. Karthikeyan,77.6,25cs008@college.edu.in
+23ME022,Tarun P,M,MECH,2023,4,A,Hostel,No,Dr. S. Murugan,66.9,23me022@college.edu.in
+23CS066,Dharshini A,F,CSE,2023,4,B,Hostel,Yes,Prof. P. Rajesh,77.4,23cs066@college.edu.in
+24EC072,Mukesh C,M,ECE,2024,3,C,Day Scholar,No,Prof. L. Revathi,83.7,24ec072@college.edu.in
+25CS107,Sabari P,M,CSE,2025,2,C,Day Scholar,No,Dr. K. Meenakshi,78.0,25cs107@college.edu.in
+24ME056,Ritika R,F,MECH,2024,3,B,Hostel,No,Prof. R. Balaji,80.3,24me056@college.edu.in
+24EC055,Bhavana V,F,ECE,2024,3,B,Day Scholar,No,Dr. C. Venkatesh,76.8,24ec055@college.edu.in
+25CS077,Manoj Joseph,M,CSE,2025,2,B,Day Scholar,No,Dr. K. Meenakshi,84.1,25cs077@college.edu.in
+23ME056,Abishek Pillai,M,MECH,2023,4,B,Hostel,No,Prof. R. Balaji,83.4,23me056@college.edu.in
+23EC075,Madhan A,M,ECE,2023,4,C,Day Scholar,No,Dr. C. Venkatesh,75.9,23ec075@college.edu.in
+23IT050,Ajith A,M,IT,2023,4,B,Day Scholar,No,Dr. B. Prakash,67.6,23it050@college.edu.in
+24EC003,Karthik K,M,ECE,2024,3,A,Day Scholar,No,Dr. H. Mohan,73.9,24ec003@college.edu.in
+24EC068,Gokul R,M,ECE,2024,3,C,Day Scholar,No,Dr. H. Mohan,82.6,24ec068@college.edu.in
+23CS090,Hari R,M,CSE,2023,4,C,Day Scholar,Yes,Prof. P. Rajesh,73.9,23cs090@college.edu.in
+23CS019,Bharath Nair,M,CSE,2023,4,A,Hostel,No,Dr. R. Lakshmi,83.3,23cs019@college.edu.in
+23CS062,Karthik G,M,CSE,2023,4,B,Day Scholar,No,Prof. S. Karthikeyan,77.4,23cs062@college.edu.in
+23EC086,Jeevan J,M,ECE,2023,4,C,Day Scholar,No,Dr. J. Srinivasan,78.6,23ec086@college.edu.in
+25CS022,Yash Singh,M,CSE,2025,2,A,Hostel,No,Prof. V. Anand,61.8,25cs022@college.edu.in
+25EC086,Rohan J,M,ECE,2025,2,C,Hostel,No,Dr. J. Srinivasan,83.3,25ec086@college.edu.in
+25IT073,Ajith Singh,M,IT,2025,2,C,Hostel,No,Dr. T. Ramesh,64.2,25it073@college.edu.in
+23IT039,Dhanush V,M,IT,2023,4,B,Hostel,No,Prof. G. Shalini,81.8,23it039@college.edu.in
+24IT026,Deepika V,F,IT,2024,3,A,Hostel,No,Dr. A. Sundar,75.8,24it026@college.edu.in
+24CS068,Gokul N,M,CSE,2024,3,B,Day Scholar,No,Prof. S. Karthikeyan,78.8,24cs068@college.edu.in
+25CS070,Bhavana Kumar,F,CSE,2025,2,B,Hostel,Yes,Prof. V. Anand,73.5,25cs070@college.edu.in
+25CS015,Tanvi E,F,CSE,2025,2,A,Hostel,No,Dr. M. Fathima,58.8,25cs015@college.edu.in
+25CS001,Sahana Rao,F,CSE,2025,2,A,Day Scholar,No,Dr. R. Lakshmi,86.3,25cs001@college.edu.in
+23ME012,Fathima Das,F,MECH,2023,4,A,Hostel,No,Dr. P. Selvi,95.2,23me012@college.edu.in
+23IT075,ANANYA L  ,F,IT,2023,4,C,Day Scholar,No,Dr. B. Prakash,71.3,23it075@college.edu.in
+25CS116,Pranav G,M,CSE,2025,2,C,Day Scholar,No,Prof. S. Karthikeyan,88.9,25cs116@college.edu.in
+25ME057,Manoj Nair,M,MECH,2025,2,B,Day Scholar,No,Dr. P. Selvi,78.4,25me057@college.edu.in
+25EC033,Sushmitha Menon,F,ECE,2025,2,B,Day Scholar,No,Dr. H. Mohan,55.0,25ec033@college.edu.in
+24CS072,ISHITA M  ,F,CSE,2024,3,B,Hostel,No,Prof. P. Rajesh,77.2,24cs072@college.edu.in
+25IT006,Sruthi E,F,IT,2025,2,A,Day Scholar,No,Dr. A. Sundar,80.7,25it006@college.edu.in
+23EC064,Meena A,F,EC,2023,4,C,Day Scholar,No,Prof. D. Uma,77.9,23ec064@college.edu.in
+24ME010,Gokul M,M,MECH,2024,3,A,Day Scholar,No,Dr. S. Murugan,63.4,24me010@college.edu.in
+23EC071,Karthik Das,M,ECE,2023,4,C,Day Scholar,No,Dr. J. Srinivasan,75.0,23ec071@college.edu.in
+23CS103,Gayathri G,F,CSE,2023,4,C,Day Scholar,Yes,Dr. R. Lakshmi,80.9,23cs103@college.edu.in
+25EC068,Ajith M,M,ECE,2025,2,C,Day Scholar,Yes,Dr. H. Mohan,89.2,25ec068@college.edu.in
+25CS054,Santhosh Patel,M,CSE,2025,2,B,Day Scholar,Yes,Prof. P. Rajesh,83.4,25cs054@college.edu.in
+25ME017,Imran J,M,MECH,2025,2,A,Day Scholar,No,Prof. R. Balaji,99.5,25me017@college.edu.in
+24IT085,Nandhini G,F,IT,2024,3,C,Hostel,Yes,Dr. B. Prakash,66.5,24it085@college.edu.in
+24CS060,Harini V,F,CSE,2024,3,B,Day Scholar,No,Prof. P. Rajesh,70.8,24cs060@college.edu.in
+24CS055,Sanjay M,M,CSE,2024,3,B,Day Scholar,Yes,Dr. R. Lakshmi,69.1,24cs055@college.edu.in
+23ME031,Varsha Reddy,F,MECH,2023,4,B,Hostel,No,Dr. S. Murugan,69.4,23me031@college.edu.in
+25ME044,Priya Rao,F,MECH,2025,2,B,Day Scholar,Yes,Prof. R. Balaji,87.8,25me044@college.edu.in
+24IT061,Lokesh Singh,M,IT,2024,3,C,Day Scholar,No,Dr. A. Sundar,65.4,24it061@college.edu.in
+23ME044,Madhan Menon,M,MECH,2023,4,B,Day Scholar,No,Prof. R. Balaji,74.9,23me044@college.edu.in
+23ME024,Hari Patel,M,MECH,2023,4,A,Hostel,No,Dr. P. Selvi,67.0,23me024@college.edu.in
+25EC030,Gokul C,M,ECE,2025,2,A,Hostel,No,Dr. C. Venkatesh,72.1,25ec030@college.edu.in
+24EC080,Deepika Rao,F,ECE,2024,3,C,Day Scholar,No,Dr. C. Venkatesh,55.7,24ec080@college.edu.in
+24CS028,Shreya C,F,CSE,2024,3,A,Day Scholar,Yes,Prof. V. Anand,95.9,24cs028@college.edu.in
+24CS048,Kishore Reddy,M,CSE,2024,3,B,Hostel,No,Prof. P. Rajesh,68.7,24cs048@college.edu.in
+24IT050,Bharath M,M,IT,2024,3,B,Day Scholar,No,Dr. B. Prakash,96.4,24it050@college.edu.in
+24IT067,Pavithra S,F,IT,2024,3,C,Hostel,No,Prof. N. Kavitha,68.8,24it067@college.edu.in
+23EC041,Vishal A,M,ECE,2023,4,B,Day Scholar,No,Dr. J. Srinivasan,68.5,23ec041@college.edu.in
+24CS015,Pavithra V,F,CSE,2024,3,A,Day Scholar,No,Dr. M. Fathima,80.2,24cs015@college.edu.in
+25EC012,Deepika Kumar,F,ECE,2025,2,A,Hostel,Yes,Prof. L. Revathi,82.3,25ec012@college.edu.in
+24EC043,Rohan Das,M,ECE,2024,3,B,Day Scholar,Yes,Dr. H. Mohan,81.7,24ec043@college.edu.in
+24EC052,Sowmya Das,F,ECE,2024,3,B,Hostel,Yes,Prof. L. Revathi,87.3,24ec052@college.edu.in
+23IT001,Surya L,M,IT,2023,4,A,Hostel,No,Dr. A. Sundar,65.8,23it001@college.edu.in
+24CS040,Sanjay C,M,CSE,2024,3,A,Day Scholar,No,Prof. V. Anand,74.8,24cs040@college.edu.in
+25EC060,Rahul R,M,ECE,2025,2,B,Day Scholar,Yes,Dr. C. Venkatesh,73.2,25ec060@college.edu.in
+23EC078,Naveen M,M,ECE,2023,4,C,Day Scholar,No,Dr. H. Mohan,65.0,23ec078@college.edu.in
+23IT073,Mohammed K,M,IT,2023,4,C,Hostel,No,Dr. T. Ramesh,87.6,23it073@college.edu.in
+23IT061,Ganesh Reddy,M,IT,2023,4,C,Day Scholar,No,Dr. A. Sundar,97.4,23it061@college.edu.in
+23IT066,Nandhini D,F,IT,2023,4,C,Day Scholar,No,Dr. A. Sundar,78.9,23it066@college.edu.in
+24IT070,Varsha T,F,IT,2024,3,C,Day Scholar,No,Dr. B. Prakash,84.1,24it070@college.edu.in
+24IT023,Gayathri L,F,IT,2024,3,A,Day Scholar,No,Dr. T. Ramesh,58.0,24it023@college.edu.in
+25CS058,Ajith L,M,CSE,2025,2,B,Day Scholar,No,Prof. V. Anand,84.2,25cs058@college.edu.in
+24CS052,JEEVAN G  ,M,CSE,2024,3,B,Hostel,No,Prof. V. Anand,81.0,24cs052@college.edu.in
+23CS075,Rahul Joseph,M,CSE,2023,4,B,Day Scholar,Yes,Dr. M. Fathima,65.9,23cs075@college.edu.in
+25CS059,Pranav L,M,CSE,2025,2,B,Hostel,No,Dr. K. Meenakshi,71.1,25cs059@college.edu.in
+25ME025,Sandhya T,F,MECH,2025,2,A,Day Scholar,No,Dr. S. Murugan,89.2,25me025@college.edu.in
+25CS052,Swathi K,F,CSE,2025,2,B,Day Scholar,No,Prof. V. Anand,85.8,25cs052@college.edu.in
+24CS079,Meena C,F,CSE,2024,3,B,Day Scholar,No,Dr. R. Lakshmi,77.2,24cs079@college.edu.in
+23EC058,Naveen Iyer,M,ECE,2023,4,B,Day Scholar,No,Dr. H. Mohan,72.3,23ec058@college.edu.in
+23CS085,Ragul Iyer,M,CSE,2023,4,C,Day Scholar,No,Dr. R. Lakshmi,69.2,23cs085@college.edu.in
+25EC028,Bharath G,M,ECE,2025,2,A,Day Scholar,No,Dr. H. Mohan,72.4,25ec028@college.edu.in
+25CS095,Tarun Kumar,M,CSE,2025,2,C,Day Scholar,No,Dr. K. Meenakshi,80.9,25cs095@college.edu.in
+24ME041,Vijay E,M,MECH,2024,3,B,Hostel,No,Prof. R. Balaji,70.3,24me041@college.edu.in
+23IT023,Siddharth A,M,IT,2023,4,A,Day Scholar,Yes,Dr. T. Ramesh,70.8,23it023@college.edu.in
+25ME027,Vignesh Pillai,M,MECH,2025,2,A,Day Scholar,No,Dr. P. Selvi,75.4,25me027@college.edu.in
+24IT057,KAVYA V  ,F,IT,2024,3,B,Hostel,Yes,Prof. N. Kavitha,86.8,24it057@college.edu.in
+23IT037,Harini Reddy,F,IT,2023,4,B,Hostel,Yes,Prof. N. Kavitha,68.6,23it037@college.edu.in
+23IT090,Deepak Kumar,M,IT,2023,4,C,Day Scholar,No,Dr. B. Prakash,83.1,23it090@college.edu.in
+25IT060,Ayesha E,F,IT,2025,2,B,Day Scholar,No,Dr. B. Prakash,71.5,25it060@college.edu.in
+25CS110,Janani B,F,CSE,2025,2,C,Day Scholar,No,Prof. S. Karthikeyan,73.7,25cs110@college.edu.in
+24IT082,Jeevan T,M,IT,2024,3,C,Hostel,No,Prof. N. Kavitha,68.9,24it082@college.edu.in
+23IT060,Karthik C,M,IT,2023,4,B,Day Scholar,No,Dr. B. Prakash,90.3,23it060@college.edu.in
+23IT015,Vaishnavi J,F,IT,2023,4,A,Day Scholar,No,Dr. B. Prakash,68.0,23it015@college.edu.in
+23CS002,Dharshini S,F,CSE,2023,4,A,Day Scholar,No,Prof. S. Karthikeyan,84.7,23cs002@college.edu.in
+23CS110,Vignesh E,M,CSE,2023,4,C,Day Scholar,No,Prof. S. Karthikeyan,79.8,23cs110@college.edu.in
+23IT041,Sneha Reddy,F,IT,2023,4,B,Day Scholar,Yes,Dr. A. Sundar,70.8,23it041@college.edu.in
+25CS118,Kavin Das,M,CSE,2025,2,C,Day Scholar,Yes,Prof. V. Anand,74.6,25cs118@college.edu.in
+23IT086,MUKESH IYER  ,M,IT,2023,4,C,Day Scholar,Yes,Dr. A. Sundar,64.4,23it086@college.edu.in
+24CS092,Tarun A,M,CSE,2024,3,C,Hostel,No,Prof. S. Karthikeyan,82.3,24cs092@college.edu.in
+23EC079,Rohan A,M,ECE,2023,4,C,Day Scholar,No,Prof. D. Uma,82.1,23ec079@college.edu.in
+23CS057,Sabari G,M,CSE,2023,4,B,Day Scholar,No,Dr. M. Fathima,88.5,23cs057@college.edu.in
+23IT053,Sowmya P,F,IT,2023,4,B,Hostel,No,Dr. T. Ramesh,77.1,23it053@college.edu.in
+24IT007,Madhumitha R,F,IT,2024,3,A,Day Scholar,No,Prof. N. Kavitha,99.5,24it007@college.edu.in
+24CS050,Vishal M,M,CSE,2024,3,B,Day Scholar,Yes,Prof. S. Karthikeyan,80.5,24cs050@college.edu.in
+23EC022,Ananya M,F,ECE,2023,4,A,Hostel,No,Prof. L. Revathi,80.2,23ec022@college.edu.in
+25IT077,Nandhini Sharma,F,IT,2025,2,C,Hostel,No,Prof. N. Kavitha,92.9,25it077@college.edu.in
+24EC011,Varsha J,F,ECE,2024,3,A,Hostel,No,Dr. J. Srinivasan,87.3,24ec011@college.edu.in
+25CS073,Lakshmi A,F,CSE,2025,2,B,Day Scholar,No,Dr. R. Lakshmi,84.0,25cs073@college.edu.in
+25CS046,Dhanush J,M,CSE,2025,2,B,Day Scholar,No,Prof. V. Anand,66.4,25cs046@college.edu.in
+23ME011,Naveen Singh,M,MECH,2023,4,A,Day Scholar,No,Prof. R. Balaji,62.5,23me011@college.edu.in
+23CS078,Pooja Nair,F,CSE,2023,4,B,Hostel,No,Prof. P. Rajesh,79.5,23cs078@college.edu.in
+25CS106,Pranav C,M,CSE,2025,2,C,Hostel,No,Prof. V. Anand,63.2,25cs106@college.edu.in
+23EC027,Sruthi B,F,ECE,2023,4,A,Day Scholar,No,Prof. L. Revathi,84.6,23ec027@college.edu.in
+24IT034,Sneha B,F,IT,2024,3,B,Day Scholar,No,Prof. G. Shalini,61.5,24it034@college.edu.in
+24ME049,Keerthana Nair,F,MECH,2024,3,B,Day Scholar,No,Dr. S. Murugan,77.1,24me049@college.edu.in
+24ME003,Mohammed T,M,MECH,2024,3,A,Day Scholar,No,Dr. P. Selvi,84.3,24me003@college.edu.in
+25EC081,Bhavana K,F,E.C.E,2025,2,C,Hostel,No,Dr. J. Srinivasan,75.5,25ec081@college.edu.in
+24EC016,Yash Pillai,M,ECE,2024,3,A,Hostel,No,Dr. J. Srinivasan,75.2,24ec016@college.edu.in
+23IT056,Ritika J,F,IT,2023,4,B,Hostel,Yes,Dr. A. Sundar,67.3,23it056@college.edu.in
+25CS078,Siddharth J,M,CSE,2025,2,B,Day Scholar,Yes,Prof. P. Rajesh,78.2,25cs078@college.edu.in
+24IT073,Sneha N,F,IT,2024,3,C,Day Scholar,No,Dr. T. Ramesh,70.4,24it073@college.edu.in
+25ME004,Ganesh C,M,MECH,2025,2,A,Hostel,No,Dr. S. Murugan,74.8,25me004@college.edu.in
+24EC076,Ramya T,F,ECE,2024,3,C,Hostel,No,Dr. J. Srinivasan,55.0,24ec076@college.edu.in
+24CS016,Rohan Kumar,M,CSE,2024,3,A,Day Scholar,Yes,Prof. V. Anand,76.8,24cs016@college.edu.in
+23ME018,Sruthi J,F,MECH,2023,4,A,Hostel,No,Dr. P. Selvi,86.2,23me018@college.edu.in
+24IT042,Kavin P,M,IT,2024,3,B,Day Scholar,No,Prof. N. Kavitha,65.3,24it042@college.edu.in
+24ME053,Sanjay Nair,M,MECH,2024,3,B,Day Scholar,Yes,Prof. R. Balaji,80.2,24me053@college.edu.in
+23IT033,Pooja N,F,IT,2023,4,B,Day Scholar,Yes,Dr. T. Ramesh,77.4,23it033@college.edu.in
+25EC053,Sabari D,M,ECE,2025,2,B,Hostel,No,Dr. H. Mohan,98.0,25ec053@college.edu.in
+25EC034,Bhavana E,F,ECE,2025,2,B,Day Scholar,No,Prof. D. Uma,76.5,25ec034@college.edu.in
+24CS101,Vaishnavi K,F,CSE,2024,3,C,Day Scholar,No,Dr. K. Meenakshi,79.0,24cs101@college.edu.in
+25IT054,Hari K,M,IT,2025,2,B,Day Scholar,No,Prof. G. Shalini,90.7,25it054@college.edu.in
+25CS094,Swathi Pillai,F,CSE,2025,2,C,Hostel,No,Prof. V. Anand,82.9,25cs094@college.edu.in
+23EC031,Surya K,M,ECE,2023,4,B,Hostel,No,Dr. J. Srinivasan,85.8,23ec031@college.edu.in
+24ME019,Ganesh N,M,MECH,2024,3,A,Hostel,No,Dr. S. Murugan,62.3,24me019@college.edu.in
+25EC015,Sahana Das,F,ECE,2025,2,A,Day Scholar,No,Dr. C. Venkatesh,67.2,25ec015@college.edu.in
+25EC007,Siddharth Singh,M,ECE,2025,2,A,Hostel,No,Prof. L. Revathi,76.5,25ec007@college.edu.in
+23CS063,Ashwin A,M,CSE,2023,4,B,Day Scholar,Yes,Dr. M. Fathima,62.7,23cs063@college.edu.in
+25IT040,NIKITA MENON  ,F,IT,2025,2,B,Day Scholar,No,Dr. B. Prakash,78.8,25it040@college.edu.in
+25CS074,Deepika Joseph,F,CSE,2025,2,B,Day Scholar,No,Prof. S. Karthikeyan,76.2,25cs074@college.edu.in
+23EC082,Abishek C,M,ECE,2023,4,C,Day Scholar,No,Prof. L. Revathi,64.3,23ec082@college.edu.in
+25IT021,Gayathri Menon,F,IT,2025,2,A,Day Scholar,Yes,Dr. A. Sundar,79.2,25it021@college.edu.in
+25IT035,Vishal K,M,IT,2025,2,B,Day Scholar,No,Dr. B. Prakash,96.9,25it035@college.edu.in
+25ME020,Vishal D,M,MECH,2025,2,A,Day Scholar,Yes,Prof. R. Balaji,74.0,25me020@college.edu.in
+24ME046,Nikita T,F,MECH,2024,3,B,Day Scholar,No,Dr. S. Murugan,59.9,24me046@college.edu.in
+25CS075,Hema T,F,CSE,2025,2,B,Day Scholar,No,Dr. M. Fathima,72.4,25cs075@college.edu.in
+23CS023,Abishek J,M,CSE,2023,4,A,Day Scholar,No,Dr. K. Meenakshi,72.2,23cs023@college.edu.in
+24ME031,Meena Iyer,F,MECH,2024,3,B,Day Scholar,No,Dr. S. Murugan,79.5,24me031@college.edu.in
+24CS043,Ishita V,F,CSE,2024,3,B,Hostel,No,Dr. R. Lakshmi,80.1,24cs043@college.edu.in
+23IT069,Priya D,F,IT,2023,4,C,Day Scholar,Yes,Prof. G. Shalini,74.9,23it069@college.edu.in
+25EC073,Hari B,M,ECE,2025,2,C,Day Scholar,No,Dr. H. Mohan,65.3,25ec073@college.edu.in
+25IT028,Hari C,M,IT,2025,2,A,Day Scholar,No,Dr. T. Ramesh,90.6,25it028@college.edu.in
+24IT001,Sabari E,M,IT,2024,3,A,Day Scholar,No,Dr. A. Sundar,80.3,24it001@college.edu.in
+23EC049,Ganesh Kumar,M,ECE,2023,4,B,Hostel,No,Prof. D. Uma,75.9,23ec049@college.edu.in
+23EC018,Mohammed Pillai,M,ECE,2023,4,A,Day Scholar,No,Dr. H. Mohan,76.6,23ec018@college.edu.in
+23ME017,Mukesh Singh,M,MECH,2023,4,A,Day Scholar,No,Prof. R. Balaji,70.5,23me017@college.edu.in
+23CS108,GAYATHRI PILLAI  ,F,CSE,2023,4,C,Day Scholar,No,Prof. P. Rajesh,94.7,23cs108@college.edu.in
+25EC054,Dinesh Das,M,ECE,2025,2,B,Hostel,No,Prof. D. Uma,68.7,25ec054@college.edu.in
+25IT089,Swathi V,F,IT,2025,2,C,Hostel,No,Prof. G. Shalini,69.2,25it089@college.edu.in
+24IT047,Priya Patel,F,IT,2024,3,B,Hostel,Yes,Prof. N. Kavitha,85.6,24it047@college.edu.in
+25IT024,Praveen C,M,IT,2025,2,A,Day Scholar,No,Prof. G. Shalini,88.5,25it024@college.edu.in
+24EC004,MUKESH C  ,M,ECE,2024,3,A,Day Scholar,No,Prof. D. Uma,64.6,24ec004@college.edu.in
+23ME046,Lokesh S,M,MECH,2023,4,B,Day Scholar,Yes,Dr. S. Murugan,79.4,23me046@college.edu.in
+23CS081,Dhanush J,M,CSE,2023,4,C,Hostel,No,Dr. M. Fathima,88.4,23cs081@college.edu.in
+25EC049,Mohammed A,M,ECE,2025,2,B,Hostel,No,Prof. D. Uma,67.0,25ec049@college.edu.in
+25ME060,Praveen A,M,MECH,2025,2,B,Day Scholar,No,Dr. P. Selvi,65.7,25me060@college.edu.in
+25CS062,SURYA SINGH  ,M,CSE,2025,2,B,Hostel,No,Prof. S. Karthikeyan,77.4,25cs062@college.edu.in
+23CS031,Gayathri G,F,CSE,2023,4,A,Hostel,No,Dr. R. Lakshmi,80.0,23cs031@college.edu.in
+23CS011,Ajith G,M,CSE,2023,4,A,Hostel,No,Dr. K. Meenakshi,89.2,23cs011@college.edu.in
+24IT029,Madhumitha J,F,IT,2024,3,A,Day Scholar,No,Prof. G. Shalini,70.7,24it029@college.edu.in
+23ME043,Karthik B,M,MECH,2023,4,B,Hostel,No,Dr. S. Murugan,83.5,23me043@college.edu.in
+25IT072,Janani J,F,IT,2025,2,C,Day Scholar,Yes,Prof. N. Kavitha,61.3,25it072@college.edu.in
+25IT051,Nithish B,M,IT,2025,2,B,Day Scholar,No,Dr. A. Sundar,85.4,25it051@college.edu.in
+23IT038,Pooja Kumar,F,IT,2023,4,B,Day Scholar,Yes,Dr. T. Ramesh,75.4,23it038@college.edu.in
+24EC077,Ajith M,M,ECE,2024,3,C,Hostel,No,Prof. L. Revathi,82.9,24ec077@college.edu.in
+24IT005,Jeevan E,M,IT,2024,3,A,Hostel,No,Dr. B. Prakash,73.0,24it005@college.edu.in
+23ME034,Meena E,F,MECH,2023,4,B,Day Scholar,No,Dr. S. Murugan,82.4,23me034@college.edu.in
+25IT044,Ashwin L,M,IT,2025,2,B,Day Scholar,No,Prof. G. Shalini,66.7,25it044@college.edu.in
+23EC048,Sahana D,F,ECE,2023,4,B,Hostel,No,Dr. H. Mohan,68.9,23ec048@college.edu.in
+25EC022,Deepika N,F,ECE,2025,2,A,Day Scholar,No,Prof. L. Revathi,85.4,25ec022@college.edu.in
+24CS081,Praveen N,M,CSE,2024,3,C,Day Scholar,No,Dr. M. Fathima,87.4,24cs081@college.edu.in
+24EC046,Anjali Menon,F,ECE,2024,3,B,Day Scholar,No,Dr. J. Srinivasan,90.9,24ec046@college.edu.in
+23CS005,Siddharth Rao,M,CSE,2023,4,A,Day Scholar,No,Dr. K. Meenakshi,84.5,23cs005@college.edu.in
+25CS102,Hema V,F,CSE,2025,2,C,Day Scholar,Yes,Prof. P. Rajesh,69.1,25cs102@college.edu.in
+23IT079,Gokul Pillai,M,IT,2023,4,C,Day Scholar,No,Prof. G. Shalini,58.3,23it079@college.edu.in
+23CS117,Aditya V,M,CSE,2023,4,C,Day Scholar,No,Dr. M. Fathima,90.8,23cs117@college.edu.in
+23EC070,HARI V  ,M,ECE,2023,4,C,Day Scholar,No,Dr. C. Venkatesh,77.9,23ec070@college.edu.in
+23IT085,Aditya L,M,IT,2023,4,C,Hostel,Yes,Dr. B. Prakash,95.9,23it085@college.edu.in
+25IT034,Yash Joseph,M,IT,2025,2,B,Hostel,Yes,Prof. G. Shalini,60.2,25it034@college.edu.in
+23IT055,Yash C,M,IT,2023,4,B,Hostel,No,Dr. B. Prakash,67.2,23it055@college.edu.in
+25EC020,Arun R,M,ECE,2025,2,A,Day Scholar,No,Dr. C. Venkatesh,94.0,25ec020@college.edu.in
+24IT071,Siddharth K,M,IT,2024,3,C,Hostel,No,Dr. A. Sundar,70.4,24it071@college.edu.in
+23ME028,Ishita D,F,MECH,2023,4,A,Hostel,No,Dr. S. Murugan,78.8,23me028@college.edu.in
+23IT083,Tarun Singh,M,IT,2023,4,C,Day Scholar,No,Dr. T. Ramesh,77.3,23it083@college.edu.in
+25IT052,Lokesh P,M,IT,2025,2,B,Day Scholar,No,Prof. N. Kavitha,66.7,25it052@college.edu.in
+23CS084,Lokesh V,M,CSE,2023,4,C,Hostel,No,Prof. P. Rajesh,70.9,23cs084@college.edu.in
+23CS120,Yash Reddy,M,CSE,2023,4,C,Day Scholar,No,Prof. P. Rajesh,79.9,23cs120@college.edu.in
+23IT058,Karthik Sharma,M,IT,2023,4,B,Hostel,No,Dr. T. Ramesh,82.5,23it058@college.edu.in
+23EC066,Sahana Patel,F,ECE,2023,4,C,Day Scholar,No,Dr. J. Srinivasan,66.5,23ec066@college.edu.in
+24CS096,Lakshmi Joseph,F,CSE,2024,3,C,Hostel,No,Prof. P. Rajesh,70.7,24cs096@college.edu.in
+23CS014,Aishwarya A,F,CSE,2023,4,A,Hostel,No,Prof. S. Karthikeyan,81.7,23cs014@college.edu.in
+23EC039,Ashwin Pillai,M,ECE,2023,4,B,Hostel,No,Prof. D. Uma,77.1,23ec039@college.edu.in
+25ME028,Shreya C,F,MECH,2025,2,A,Hostel,No,Dr. S. Murugan,78.0,25me028@college.edu.in
+24CS103,Yash Nair,M,CSE,2024,3,C,Day Scholar,Yes,Dr. R. Lakshmi,84.5,24cs103@college.edu.in
+24IT004,Siddharth P,M,Information Tech,2024,3,A,Hostel,No,Prof. G. Shalini,77.7,24it004@college.edu.in
+25CS084,Aishwarya Joseph,F,CSE,2025,2,C,Hostel,Yes,Prof. P. Rajesh,67.0,25cs084@college.edu.in
+24IT053,Tarun V,M,IT,2024,3,B,Hostel,Yes,Dr. T. Ramesh,69.8,24it053@college.edu.in
+23CS118,Nandhini J,F,CSE,2023,4,C,Hostel,No,Prof. V. Anand,86.7,23cs118@college.edu.in
+24EC059,Pavithra A,F,ECE,2024,3,B,Day Scholar,No,Prof. D. Uma,60.2,24ec059@college.edu.in
+24ME001,Nithish D,M,MECH,2024,3,A,Day Scholar,No,Dr. S. Murugan,88.5,24me001@college.edu.in
+25EC059,Ganesh A,M,ECE,2025,2,B,Day Scholar,No,Prof. D. Uma,76.1,25ec059@college.edu.in
+23IT010,Siddharth K,M,IT,2023,4,A,Day Scholar,No,Dr. B. Prakash,70.5,23it010@college.edu.in
+23CS091,Ganesh C,M,CSE,2023,4,C,Hostel,No,Dr. R. Lakshmi,86.3,23cs091@college.edu.in
+24CS067,Dhanush Patel,M,cse,2024,3,B,Hostel,Yes,Dr. R. Lakshmi,76.5,24cs067@college.edu.in
+23IT007,Kavin P,M,IT,2023,4,A,Day Scholar,No,Prof. N. Kavitha,59.9,23it007@college.edu.in
+25EC064,Gokul Iyer,M,ECE,2025,2,C,Hostel,No,Prof. D. Uma,83.6,25ec064@college.edu.in
+23IT044,Rahul Reddy,M,IT,2023,4,B,Hostel,No,Prof. G. Shalini,82.4,23it044@college.edu.in
+23CS112,Vignesh E,M,CSE,2023,4,C,Day Scholar,Yes,Prof. V. Anand,91.0,23cs112@college.edu.in
+25IT030,Ramya Pillai,F,IT,2025,2,A,Hostel,No,Dr. B. Prakash,68.6,25it030@college.edu.in
+25CS104,Priya E,F,CSE,2025,2,C,Hostel,No,Prof. S. Karthikeyan,73.2,25cs104@college.edu.in
+25EC062,Imran R,M,ECE,2025,2,C,Hostel,No,Prof. L. Revathi,80.2,25ec062@college.edu.in
+25CS061,Jeevan B,M,CSE,2025,2,B,Hostel,No,Dr. R. Lakshmi,96.9,25cs061@college.edu.in
+23IT011,Dinesh G,M,IT,2023,4,A,Hostel,No,Dr. A. Sundar,68.2,23it011@college.edu.in
+25IT003,Kavin P,M,IT,2025,2,A,Hostel,No,Dr. T. Ramesh,84.8,25it003@college.edu.in
+25IT015,Sabari R,M,IT,2025,2,A,Hostel,No,Dr. B. Prakash,91.7,25it015@college.edu.in
+23ME039,Vignesh Rao,M,MECH,2023,4,B,Day Scholar,No,Dr. P. Selvi,87.1,23me039@college.edu.in
+24CS094,Vijay S,M,CSE,2024,3,C,Hostel,No,Prof. V. Anand,85.7,24cs094@college.edu.in
+24EC023,Manoj Rao,M,ECE,2024,3,A,Hostel,No,Dr. H. Mohan,72.3,24ec023@college.edu.in
+23CS073,Rohan J,M,CSE,2023,4,B,Day Scholar,No,Dr. R. Lakshmi,98.3,23cs073@college.edu.in
+23CS003,Vishal Rao,M,CSE,2023,4,A,Hostel,No,Dr. M. Fathima,77.2,23cs003@college.edu.in
+23CS017,Varsha Pillai,F,CSE,2023,4,A,Day Scholar,Yes,Dr. K. Meenakshi,95.2,23cs017@college.edu.in
+25ME058,Revathi L,F,MECH,2025,2,B,Hostel,No,Dr. S. Murugan,86.0,25me058@college.edu.in
+24EC039,Ramya E,F,ECE,2024,3,B,Hostel,No,Prof. D. Uma,81.8,24ec039@college.edu.in
+25CS109,Hema Iyer,F,CSE,2025,2,C,Day Scholar,No,Dr. R. Lakshmi,68.4,25cs109@college.edu.in
+23CS013,Anjali Pillai,F,CSE,2023,4,A,Hostel,No,Dr. R. Lakshmi,55.0,23cs013@college.edu.in
+25ME036,Vignesh Reddy,M,MECH,2025,2,B,Day Scholar,No,Dr. P. Selvi,76.4,25me036@college.edu.in
+25EC076,Ganesh Das,M,ECE,2025,2,C,Day Scholar,No,Dr. J. Srinivasan,61.3,25ec076@college.edu.in
+25IT025,Abishek Singh,M,IT,2025,2,A,Hostel,Yes,Dr. B. Prakash,80.3,25it025@college.edu.in
+25ME001,Jeevan G,M,MECH,2025,2,A,Hostel,Yes,Dr. S. Murugan,59.7,25me001@college.edu.in
+25CS057,Mohammed D,M,CSE,2025,2,B,Day Scholar,Yes,Dr. M. Fathima,66.1,25cs057@college.edu.in
+23CS109,Vishal M,M,CSE,2023,4,C,Day Scholar,No,Dr. R. Lakshmi,64.6,23cs109@college.edu.in
+24EC002,Naveen M,M,ECE,2024,3,A,Day Scholar,No,Prof. L. Revathi,77.7,24ec002@college.edu.in
+24EC032,Karthik Kumar,M,ECE,2024,3,B,Hostel,No,Prof. L. Revathi,62.2,24ec032@college.edu.in
+24IT025,Varsha B,F,IT,2024,3,A,Hostel,Yes,Dr. B. Prakash,93.3,24it025@college.edu.in
+23IT062,Sandhya L,F,IT,2023,4,C,Day Scholar,Yes,Prof. N. Kavitha,76.2,23it062@college.edu.in
+25ME003,Dhanush D,M,MECH,2025,2,A,Day Scholar,No,Dr. P. Selvi,84.1,25me003@college.edu.in
+25IT083,Hema P,F,IT,2025,2,C,Day Scholar,Yes,Dr. T. Ramesh,71.7,25it083@college.edu.in
+25ME046,Imran B,M,MECH,2025,2,B,Hostel,Yes,Dr. S. Murugan,84.0,25me046@college.edu.in
+25IT012,Nithish T,M,IT,2025,2,A,Day Scholar,No,Prof. N. Kavitha,64.9,25it012@college.edu.in
+24CS011,Arun Menon,M,CSE,2024,3,A,Day Scholar,Yes,Dr. K. Meenakshi,81.2,24cs011@college.edu.in
+25EC050,Hema Iyer,F,ECE,2025,2,B,Hostel,No,Dr. C. Venkatesh,65.9,25ec050@college.edu.in
+25CS120,Harini V,F,CSE,2025,2,C,Hostel,No,Prof. P. Rajesh,76.5,25cs120@college.edu.in
+23ME047,Vishal R,M,MECH,2023,4,B,Hostel,No,Prof. R. Balaji,97.4,23me047@college.edu.in
+23ME009,Harini P,F,MECH,2023,4,A,Day Scholar,No,Dr. P. Selvi,83.5,23me009@college.edu.in
+25IT045,Kishore Kumar,M,IT,2025,2,B,Day Scholar,No,Dr. B. Prakash,99.5,25it045@college.edu.in
+23ME005,Monisha A,F,MECH,2023,4,A,Day Scholar,No,Prof. R. Balaji,55.0,23me005@college.edu.in
+25IT080,Ganesh S,M,IT,2025,2,C,Hostel,No,Dr. B. Prakash,61.0,25it080@college.edu.in
+24CS114,Sushmitha Joseph,F,CSE,2024,3,C,Day Scholar,Yes,Prof. P. Rajesh,75.5,24cs114@college.edu.in
+23CS043,KAVYA P  ,F,CS,2023,4,B,Day Scholar,No,Dr. R. Lakshmi,94.6,23cs043@college.edu.in
+24IT019,Swathi Patel,F,IT,2024,3,A,Hostel,Yes,Prof. G. Shalini,79.4,24it019@college.edu.in
+24EC008,Yamini V,F,ECE,2024,3,A,Hostel,Yes,Dr. H. Mohan,79.6,24ec008@college.edu.in
+25ME035,Dhanush A,M,MECH,2025,2,B,Day Scholar,No,Prof. R. Balaji,84.9,25me035@college.edu.in
+25CS021,Ramya V,F,C.S.E,2025,2,A,Hostel,No,Dr. M. Fathima,88.8,25cs021@college.edu.in
+25CS064,Pranav Reddy,M,CSE,2025,2,B,Hostel,No,Prof. V. Anand,81.2,25cs064@college.edu.in
+25CS030,Abishek K,M,CSE,2025,2,A,Day Scholar,No,Prof. P. Rajesh,67.9,25cs030@college.edu.in
+24ME013,Ramya Iyer,F,MECH,2024,3,A,Day Scholar,No,Dr. S. Murugan,98.7,24me013@college.edu.in
+24CS100,Harini Joseph,F,cse,2024,3,C,Day Scholar,No,Prof. V. Anand,87.4,24cs100@college.edu.in
+25IT068,Kishore Menon,M,IT,2025,2,C,Day Scholar,No,Dr. T. Ramesh,92.4,25it068@college.edu.in
+24CS064,Revathi T,F,CSE,2024,3,B,Day Scholar,No,Prof. V. Anand,61.1,24cs064@college.edu.in
+25ME053,Sabari V,M,MECH,2025,2,B,Hostel,Yes,Prof. R. Balaji,81.0,25me053@college.edu.in
+24IT013,Sahana R,F,IT,2024,3,A,Hostel,No,Dr. T. Ramesh,79.8,24it013@college.edu.in
+25EC025,Dinesh Joseph,M,ECE,2025,2,A,Hostel,Yes,Dr. C. Venkatesh,76.3,25ec025@college.edu.in
+23EC085,Janani G,F,ECE,2023,4,C,Day Scholar,No,Dr. C. Venkatesh,89.6,23ec085@college.edu.in
+25EC024,Nandhini Das,F,ECE,2025,2,A,Hostel,No,Prof. D. Uma,92.9,25ec024@college.edu.in
+25ME002,Nandhini J,F,MECH,2025,2,A,Hostel,Yes,Prof. R. Balaji,84.1,25me002@college.edu.in
+25ME039,Karthik Iyer,M,MECH,2025,2,B,Hostel,Yes,Dr. P. Selvi,74.9,25me039@college.edu.in
+25EC077,Arjun S,M,ECE,2025,2,C,Hostel,No,Prof. L. Revathi,71.6,25ec077@college.edu.in
+25IT020,Deepak T,M,IT,2025,2,A,Hostel,No,Dr. B. Prakash,73.4,25it020@college.edu.in
+24EC031,Gayathri Singh,F,ECE,2024,3,B,Day Scholar,Yes,Dr. J. Srinivasan,72.2,24ec031@college.edu.in
+23EC059,Deepika M,F,ECE,2023,4,B,Hostel,No,Prof. D. Uma,76.0,23ec059@college.edu.in
+24IT011,Bharath K,M,IT,2024,3,A,Day Scholar,No,Dr. A. Sundar,75.1,24it011@college.edu.in
+23ME054,Nandhini B,F,MECH,2023,4,B,Day Scholar,No,Dr. P. Selvi,66.5,23me054@college.edu.in
+23ME041,Yash N,M,MECH,2023,4,B,Day Scholar,No,Prof. R. Balaji,73.1,23me041@college.edu.in
+23CS056,Mukesh P,M,CSE,2023,4,B,Hostel,No,Prof. S. Karthikeyan,99.5,23cs056@college.edu.in
+24CS104,Arjun A,M,CSE,2024,3,C,Day Scholar,No,Prof. S. Karthikeyan,92.2,24cs104@college.edu.in
+24IT009,Santhosh Pillai,M,IT,2024,3,A,Hostel,No,Prof. G. Shalini,72.5,24it009@college.edu.in
+25IT086,Vishal Menon,M,IT,2025,2,C,Day Scholar,Yes,Dr. A. Sundar,74.9,25it086@college.edu.in
+23ME027,Lakshmi P,F,MECH,2023,4,A,Hostel,Yes,Dr. P. Selvi,70.2,23me027@college.edu.in
+23ME045,Tarun Sharma,M,MECH,2023,4,B,Day Scholar,No,Dr. P. Selvi,77.2,23me045@college.edu.in
+23EC007,Aditya Reddy,M,ECE,2023,4,A,Day Scholar,No,Prof. L. Revathi,87.8,23ec007@college.edu.in
+24ME036,Yash A,M,MECH,2024,3,B,Day Scholar,Yes,Dr. P. Selvi,77.0,24me036@college.edu.in
+23CS041,Lokesh Nair,M,CSE,2023,4,B,Day Scholar,No,Dr. K. Meenakshi,88.0,23cs041@college.edu.in
+25EC004,Madhan J,M,ECE,2025,2,A,Hostel,Yes,Prof. D. Uma,66.3,25ec004@college.edu.in
+24CS037,Pavithra L,F,CSE,2024,3,A,Day Scholar,No,Dr. R. Lakshmi,72.7,24cs037@college.edu.in
+25ME034,Pooja P,F,MECH,2025,2,B,Day Scholar,No,Dr. S. Murugan,64.9,25me034@college.edu.in
+23EC054,Kishore B,M,ECE,2023,4,B,Day Scholar,No,Prof. D. Uma,78.7,23ec054@college.edu.in
+25IT039,Harini C,F,IT,2025,2,B,Hostel,No,Prof. G. Shalini,58.7,25it039@college.edu.in
+25ME047,Anjali Nair,F,MECH,2025,2,B,Hostel,No,Prof. R. Balaji,82.1,25me047@college.edu.in
+25ME011,Ritika T,F,MECH,2025,2,A,Hostel,No,Prof. R. Balaji,76.2,25me011@college.edu.in
+25CS113,Rahul E,M,CSE,2025,2,C,Day Scholar,No,Dr. K. Meenakshi,55.0,25cs113@college.edu.in
+23IT059,Ananya E,F,IT,2023,4,B,Day Scholar,No,Prof. G. Shalini,69.1,23it059@college.edu.in
+23IT057,Divya Pillai,F,IT,2023,4,B,Day Scholar,No,Prof. N. Kavitha,83.5,23it057@college.edu.in
+24IT039,Sanjay R,M,IT,2024,3,B,Hostel,No,Prof. G. Shalini,97.5,24it039@college.edu.in
+25IT007,Swathi P,F,IT,2025,2,A,Hostel,No,Prof. N. Kavitha,69.5,25it007@college.edu.in
+25IT066,Ganesh Iyer,M,IT,2025,2,C,Day Scholar,No,Dr. A. Sundar,99.5,25it066@college.edu.in
+23ME001,Deepika Reddy,F,MECH,2023,4,A,Hostel,Yes,Dr. S. Murugan,85.7,23me001@college.edu.in
+24IT046,Bharath E,M,IT,2024,3,B,Day Scholar,Yes,Dr. A. Sundar,71.1,24it046@college.edu.in
+25IT088,Pavithra Patel,F,IT,2025,2,C,Day Scholar,No,Dr. T. Ramesh,85.5,25it088@college.edu.in
+24ME008,Hari P,M,MECH,2024,3,A,Hostel,No,Prof. R. Balaji,65.8,24me008@college.edu.in
+25CS025,Rahul Nair,M,CSE,2025,2,A,Day Scholar,No,Dr. R. Lakshmi,68.0,25cs025@college.edu.in
+24EC037,Tanvi Reddy,F,ECE,2024,3,B,Day Scholar,No,Prof. L. Revathi,79.1,24ec037@college.edu.in
+25EC035,REVATHI J  ,F,ECE,2025,2,B,Hostel,No,Dr. C. Venkatesh,63.8,25ec035@college.edu.in
+23CS030,Kavin B,M,CSE,2023,4,A,Hostel,No,Prof. P. Rajesh,85.0,23cs030@college.edu.in
+25IT075,Vishal S,M,IT,2025,2,C,Day Scholar,No,Dr. B. Prakash,79.1,25it075@college.edu.in
+24IT077,Deepika Singh,F,IT,2024,3,C,Day Scholar,No,Prof. N. Kavitha,79.8,24it077@college.edu.in
+24ME018,Yamini P,F,MECH,2024,3,A,Day Scholar,No,Dr. P. Selvi,73.8,24me018@college.edu.in
+23IT084,Ganesh N,M,IT,2023,4,C,Day Scholar,Yes,Prof. G. Shalini,76.0,23it084@college.edu.in
+24CS085,Sowmya E,F,CSE,2024,3,C,Day Scholar,Yes,Dr. R. Lakshmi,65.8,24cs085@college.edu.in
+24CS012,Surya G,M,CSE,2024,3,A,Day Scholar,No,Prof. P. Rajesh,58.1,24cs012@college.edu.in
+23CS033,Imran E,M,CSE,2023,4,A,Day Scholar,No,Dr. M. Fathima,62.6,23cs033@college.edu.in
+24ME058,Bhavana P,F,MECH,2024,3,B,Day Scholar,No,Dr. S. Murugan,91.2,24me058@college.edu.in
+23ME035,RITIKA PILLAI  ,F,MECH,2023,4,B,Day Scholar,Yes,Prof. R. Balaji,65.4,23me035@college.edu.in
+24CS023,Meena Nair,F,CSE,2024,3,A,Day Scholar,Yes,Dr. K. Meenakshi,82.0,24cs023@college.edu.in
+24EC049,Ashwin P,M,ECE,2024,3,B,Day Scholar,No,Prof. D. Uma,95.3,24ec049@college.edu.in
+24CS086,Ayesha Reddy,F,CSE,2024,3,C,Hostel,No,Prof. S. Karthikeyan,74.4,24cs086@college.edu.in
+24CS013,Gayathri Iyer,F,CSE,2024,3,A,Day Scholar,No,Dr. R. Lakshmi,80.6,24cs013@college.edu.in
+24ME052,Priya L,F,MECH,2024,3,B,Hostel,No,Dr. S. Murugan,82.2,24me052@college.edu.in
+24IT065,Nandhini S,F,IT,2024,3,C,Hostel,No,Dr. B. Prakash,78.8,24it065@college.edu.in
+23CS004,Madhan P,M,CSE,2023,4,A,Day Scholar,No,Prof. V. Anand,77.6,23cs004@college.edu.in
+24IT076,Surya P,M,IT,2024,3,C,Hostel,No,Dr. A. Sundar,75.5,24it076@college.edu.in
+24CS070,Monisha K,F,CSE,2024,3,B,Hostel,No,Prof. V. Anand,74.6,24cs070@college.edu.in
+25CS013,Rahul Rao,M,CSE,2025,2,A,Hostel,No,Dr. R. Lakshmi,55.0,25cs013@college.edu.in
+25IT085,Praveen B,M,IT,2025,2,C,Hostel,No,Dr. B. Prakash,75.6,25it085@college.edu.in
+24CS086,Ayesha Reddy,F,CSE,2024,3,C,Hostel,No,Prof. S. Karthikeyan,74.4,24cs086@college.edu.in
+23CS042,Manoj R,M,CSE,2023,4,B,Day Scholar,No,Prof. P. Rajesh,83.1,23cs042@college.edu.in
+23EC013,Ashwin S,M,ECE,2023,4,A,Day Scholar,Yes,Dr. H. Mohan,76.5,23ec013@college.edu.in
+25CS033,Karthik J,M,CSE,2025,2,A,Hostel,No,Dr. M. Fathima,80.0,25cs033@college.edu.in
+24ME043,Santhosh E,M,MECH,2024,3,B,Hostel,Yes,Dr. S. Murugan,88.6,24me043@college.edu.in
+23CS114,Monisha Singh,F,CSE,2023,4,C,Day Scholar,No,Prof. P. Rajesh,70.5,23cs114@college.edu.in
+23CS049,Deepika Kumar,F,CSE,2023,4,B,Day Scholar,No,Dr. R. Lakshmi,70.1,23cs049@college.edu.in
+23EC080,Imran Joseph,M,ECE,2023,4,C,Day Scholar,Yes,Dr. C. Venkatesh,78.2,23ec080@college.edu.in
+23CS077,Aditya Singh,M,CSE,2023,4,B,Hostel,No,Dr. K. Meenakshi,72.5,23cs077@college.edu.in
+23IT087,Madhan Reddy,M,IT,2023,4,C,Day Scholar,Yes,Prof. N. Kavitha,78.2,23it087@college.edu.in
+24EC030,Pavithra C,F,ECE,2024,3,A,Day Scholar,No,Dr. C. Venkatesh,79.4,24ec030@college.edu.in
+23IT004,Tarun N,M,IT,2023,4,A,Day Scholar,No,Prof. G. Shalini,79.0,23it004@college.edu.in
+25ME055,Kavin T,M,MECH,2025,2,B,Hostel,No,Dr. S. Murugan,84.0,25me055@college.edu.in
+24CS027,Pooja N,F,cse,2024,3,A,Day Scholar,No,Dr. M. Fathima,83.6,24cs027@college.edu.in
+23EC016,Pavithra E,F,ECE,2023,4,A,Hostel,No,Dr. J. Srinivasan,67.6,23ec016@college.edu.in
+24ME024,VARSHA P  ,F,MECH,2024,3,A,Hostel,No,Dr. P. Selvi,66.1,24me024@college.edu.in
+24IT088,Ayesha D,F,IT,2024,3,C,Hostel,No,Dr. T. Ramesh,79.2,24it088@college.edu.in
+23EC012,MANOJ C  ,M,ECE,2023,4,A,Hostel,No,Prof. L. Revathi,93.7,23ec012@college.edu.in
+25IT070,Ramya Singh,F,IT,2025,2,C,Day Scholar,No,Dr. B. Prakash,73.9,25it070@college.edu.in
+25IT064,Tarun T,M,IT,2025,2,C,Day Scholar,No,Prof. G. Shalini,83.6,25it064@college.edu.in
+25IT008,Naveen K,M,IT,2025,2,A,Hostel,No,Dr. T. Ramesh,83.3,25it008@college.edu.in
+24EC010,Arun D,M,ECE,2024,3,A,Hostel,No,Dr. C. Venkatesh,83.3,24ec010@college.edu.in
+23IT042,Hari V,M,IT,2023,4,B,Hostel,No,Prof. N. Kavitha,89.5,23it042@college.edu.in
+25IT022,Praveen Kumar,M,IT,2025,2,A,Hostel,No,Prof. N. Kavitha,81.0,25it022@college.edu.in
+25CS038,Sushmitha L,F,Computer Science,2025,2,A,Day Scholar,Yes,Prof. S. Karthikeyan,69.8,25cs038@college.edu.in
+23ME026,Harini Menon,F,MECH,2023,4,A,Day Scholar,No,Prof. R. Balaji,83.1,23me026@college.edu.in
+25CS068,Kavya A,F,CSE,2025,2,B,Day Scholar,No,Prof. S. Karthikeyan,70.5,25cs068@college.edu.in
+24EC087,Fathima L,F,ECE,2024,3,C,Day Scholar,No,Prof. L. Revathi,71.6,24ec087@college.edu.in
+23IT020,Mukesh Iyer,M,IT,2023,4,A,Day Scholar,Yes,Dr. B. Prakash,76.5,23it020@college.edu.in
+24EC075,Ritika R,F,ECE,2024,3,C,Day Scholar,No,Dr. C. Venkatesh,88.9,24ec075@college.edu.in
+23ME053,Dhanush A,M,MECH,2023,4,B,Day Scholar,Yes,Prof. R. Balaji,75.3,23me053@college.edu.in
+23IT046,Manoj N,M,IT,2023,4,B,Day Scholar,No,Dr. A. Sundar,60.7,23it046@college.edu.in
+23EC005,Sushmitha Joseph,F,ECE,2023,4,A,Day Scholar,No,Dr. C. Venkatesh,83.2,23ec005@college.edu.in
+24EC048,Ganesh D,M,ECE,2024,3,B,Day Scholar,No,Dr. H. Mohan,87.0,24ec048@college.edu.in
+23EC088,Sandhya Singh,F,ECE,2023,4,C,Day Scholar,No,Dr. H. Mohan,81.7,23ec088@college.edu.in
+24CS035,SUSHMITHA V  ,F,CSE,2024,3,A,Hostel,Yes,Dr. K. Meenakshi,65.4,24cs035@college.edu.in
+23IT012,Tarun Iyer,M,IT,2023,4,A,Day Scholar,Yes,Prof. N. Kavitha,74.6,23it012@college.edu.in
+23ME015,Sneha Nair,F,MECH,2023,4,A,Day Scholar,No,Dr. P. Selvi,77.4,23me015@college.edu.in
+23IT019,Jeevan Menon,M,IT,2023,4,A,Day Scholar,No,Prof. G. Shalini,73.0,23it019@college.edu.in
+25IT018,Sahana L,F,IT,2025,2,A,Day Scholar,No,Dr. T. Ramesh,58.8,25it018@college.edu.in
+24CS057,Jeevan M,M,CSE,2024,3,B,Hostel,Yes,Dr. M. Fathima,67.2,24cs057@college.edu.in
+24EC089,Meena C,F,ECE,2024,3,C,Hostel,No,Prof. D. Uma,77.3,24ec089@college.edu.in
+23CS039,Ananya L,F,CSE,2023,4,A,Day Scholar,Yes,Dr. M. Fathima,75.3,23cs039@college.edu.in
+23EC040,Ritika C,F,ECE,2023,4,B,Day Scholar,No,Dr. C. Venkatesh,84.7,23ec040@college.edu.in
+24EC024,Kishore Patel,M,ECE,2024,3,A,Day Scholar,No,Prof. D. Uma,92.4,24ec024@college.edu.in
+23CS054,Deepak A,M,CSE,2023,4,B,Day Scholar,No,Prof. P. Rajesh,67.3,23cs054@college.edu.in
+23IT017,Janani Sharma,F,IT,2023,4,A,Day Scholar,Yes,Prof. N. Kavitha,70.9,23it017@college.edu.in
+25CS056,Sabari N,M,CSE,2025,2,B,Hostel,Yes,Prof. S. Karthikeyan,80.6,25cs056@college.edu.in
+25CS067,Fathima L,F,CSE,2025,2,B,Hostel,No,Dr. R. Lakshmi,57.1,25cs067@college.edu.in
+23CS036,Abishek S,M,CSE,2023,4,A,Hostel,Yes,Prof. P. Rajesh,59.5,23cs036@college.edu.in
+24EC071,RAHUL R  ,M,ECE,2024,3,C,Day Scholar,Yes,Dr. J. Srinivasan,84.4,24ec071@college.edu.in
+24CS019,Ritika Reddy,F,CSE,2024,3,A,Day Scholar,Yes,Dr. R. Lakshmi,75.2,24cs019@college.edu.in
+25IT026,Karthik Patel,M,IT,2025,2,A,Hostel,No,Dr. A. Sundar,80.9,25it026@college.edu.in
+24EC009,Jeevan T,M,ECE,2024,3,A,Hostel,Yes,Prof. D. Uma,71.2,24ec009@college.edu.in
+24ME005,Dharshini Sharma,F,MECH,2024,3,A,Day Scholar,No,Prof. R. Balaji,81.8,24me005@college.edu.in
+25IT056,Bhavana V,F,IT,2025,2,B,Hostel,No,Dr. A. Sundar,71.6,25it056@college.edu.in
+23CS053,Tarun Rao,M,CSE,2023,4,B,Day Scholar,No,Dr. K. Meenakshi,88.4,23cs053@college.edu.in
+24CS018,Arjun Das,M,CSE,2024,3,A,Day Scholar,No,Prof. P. Rajesh,71.0,24cs018@college.edu.in
+25CS114,Praveen L,M,CSE,2025,2,C,Hostel,Yes,Prof. P. Rajesh,64.7,25cs114@college.edu.in
+24ME045,Ganesh Rao,M,MECH,2024,3,B,Hostel,No,Dr. P. Selvi,66.4,24me045@college.edu.in
+23ME003,Divya Iyer,F,MECH,2023,4,A,Day Scholar,No,Dr. P. Selvi,87.7,23me003@college.edu.in
+23EC037,Arjun C,M,ECE,2023,4,B,Day Scholar,No,Prof. L. Revathi,99.5,23ec037@college.edu.in
+25ME042,Gokul Reddy,M,MECH,2025,2,B,Hostel,Yes,Dr. P. Selvi,74.1,25me042@college.edu.in
+24CS066,Janani P,F,CSE,2024,3,B,Hostel,No,Prof. P. Rajesh,67.9,24cs066@college.edu.in
+24ME029,Pavithra T,F,MECH,2024,3,A,Hostel,No,Prof. R. Balaji,92.1,24me029@college.edu.in
+23CS029,Vignesh B,M,CSE,2023,4,A,Hostel,No,Dr. K. Meenakshi,94.6,23cs029@college.edu.in
+25CS009,Anjali C,F,CSE,2025,2,A,Day Scholar,No,Dr. M. Fathima,84.0,25cs009@college.edu.in
+25ME037,Tarun S,M,MECH,2025,2,B,Day Scholar,Yes,Dr. S. Murugan,73.4,25me037@college.edu.in
+23EC035,Surya E,M,ECE,2023,4,B,Hostel,No,Dr. C. Venkatesh,74.8,23ec035@college.edu.in
+23CS104,Dhanush Pillai,M,CSE,2023,4,C,Day Scholar,No,Prof. S. Karthikeyan,55.5,23cs104@college.edu.in
+23EC067,Vaishnavi L,F,ECE,2023,4,C,Day Scholar,No,Prof. L. Revathi,81.1,23ec067@college.edu.in
+24CS034,Ganesh Nair,M,CSE,2024,3,A,Day Scholar,No,Prof. V. Anand,82.6,24cs034@college.edu.in
+23CS111,Harini Sharma,F,CSE,2023,4,C,Day Scholar,No,Dr. M. Fathima,55.0,23cs111@college.edu.in
+25ME043,Ganesh Menon,M,MECH,2025,2,B,Day Scholar,No,Dr. S. Murugan,88.5,25me043@college.edu.in
+23IT040,Hari Singh,M,IT,2023,4,B,Day Scholar,No,Dr. B. Prakash,89.6,23it040@college.edu.in
+23CS113,Monisha K,F,CSE,2023,4,C,Hostel,Yes,Dr. K. Meenakshi,92.4,23cs113@college.edu.in
+25ME010,Varsha E,F,MECH,2025,2,A,Day Scholar,No,Dr. S. Murugan,82.5,25me010@college.edu.in
+24EC073,Surya Reddy,M,ECE,2024,3,C,Day Scholar,No,Dr. H. Mohan,81.0,24ec073@college.edu.in
+23ME030,Lakshmi Reddy,F,MECH,2023,4,A,Hostel,No,Dr. P. Selvi,96.1,23me030@college.edu.in
+23EC053,VARSHA KUMAR  ,F,ECE,2023,4,B,Day Scholar,Yes,Dr. H. Mohan,82.1,23ec053@college.edu.in
+25IT063,Vijay D,M,IT,2025,2,C,Day Scholar,No,Dr. T. Ramesh,87.5,25it063@college.edu.in
+25CS047,Janani R,F,CSE,2025,2,B,Hostel,No,Dr. K. Meenakshi,76.5,25cs047@college.edu.in
+23IT048,Arun J,M,IT,2023,4,B,Day Scholar,Yes,Dr. T. Ramesh,62.0,23it048@college.edu.in
+25ME013,Imran Kumar,M,MECH,2025,2,A,Hostel,Yes,Dr. S. Murugan,93.8,25me013@college.edu.in
+23IT035,Sushmitha Menon,F,IT,2023,4,B,Day Scholar,No,Dr. B. Prakash,63.7,23it035@college.edu.in
+23CS051,Surya V,M,CSE,2023,4,B,Day Scholar,No,Dr. M. Fathima,82.3,23cs051@college.edu.in
+23CS025,Lokesh R,M,CSE,2023,4,A,Day Scholar,No,Dr. R. Lakshmi,93.7,23cs025@college.edu.in
+25EC079,Ragul Reddy,M,ECE,2025,2,C,Day Scholar,No,Prof. D. Uma,86.5,25ec079@college.edu.in
+24CS084,DEEPIKA REDDY  ,F,CSE,2024,3,C,Hostel,Yes,Prof. P. Rajesh,95.9,24cs084@college.edu.in
+23IT031,MADHAN SINGH  ,M,IT,2023,4,B,Hostel,No,Dr. A. Sundar,55.0,23it031@college.edu.in
+24IT074,DIVYA J  ,F,IT,2024,3,C,Hostel,No,Prof. G. Shalini,59.5,24it074@college.edu.in
+23CS095,Dinesh Menon,M,CSE,2023,4,C,Hostel,No,Dr. K. Meenakshi,71.5,23cs095@college.edu.in
+23EC008,Pranav L,M,ECE,2023,4,A,Day Scholar,Yes,Dr. H. Mohan,89.1,23ec008@college.edu.in
+24CS022,Bhavana G,F,CSE,2024,3,A,Day Scholar,Yes,Prof. V. Anand,69.5,24cs022@college.edu.in
+23CS024,Sushmitha L,F,CSE,2023,4,A,Day Scholar,Yes,Prof. P. Rajesh,79.5,23cs024@college.edu.in
+23EC083,Siddharth S,M,ECE,2023,4,C,Hostel,No,Dr. H. Mohan,71.6,23ec083@college.edu.in
+23IT054,Sahana P,F,IT,2023,4,B,Day Scholar,No,Prof. G. Shalini,69.9,23it054@college.edu.in
+23CS101,ANJALI A  ,F,CSE,2023,4,C,Day Scholar,No,Dr. K. Meenakshi,84.4,23cs101@college.edu.in
+23CS026,Bhavana D,F,CSE,2023,4,A,Hostel,No,Prof. S. Karthikeyan,75.6,23cs026@college.edu.in
+25EC089,Sanjay V,M,ECE,2025,2,C,Day Scholar,Yes,Prof. D. Uma,99.5,25ec089@college.edu.in
+25EC044,Surya V,M,ECE,2025,2,B,Day Scholar,No,Prof. D. Uma,81.6,25ec044@college.edu.in
+25CS024,Imran Menon,M,CSE,2025,2,A,Day Scholar,No,Prof. P. Rajesh,69.4,25cs024@college.edu.in
+24IT010,Hari P,M,IT,2024,3,A,Hostel,No,Dr. B. Prakash,93.6,24it010@college.edu.in
+24ME051,Dharshini Nair,F,MECH,2024,3,B,Day Scholar,No,Dr. P. Selvi,83.6,24me051@college.edu.in
+23ME055,Revathi A,F,MECH,2023,4,B,Day Scholar,No,Dr. S. Murugan,79.1,23me055@college.edu.in
+25CS036,Ramya C,F,CSE,2025,2,A,Hostel,No,Prof. P. Rajesh,85.5,25cs036@college.edu.in
+24EC019,GOKUL PATEL  ,M,ECE,2024,3,A,Day Scholar,No,Prof. D. Uma,69.5,24ec019@college.edu.in
+23EC033,Ramya D,F,ECE,2023,4,B,Day Scholar,Yes,Dr. H. Mohan,89.1,23ec033@college.edu.in
+23IT049,Hari R,M,IT,2023,4,B,Day Scholar,No,Prof. G. Shalini,68.1,23it049@college.edu.in
+23CS074,Santhosh D,M,CSE,2023,4,B,Day Scholar,No,Prof. S. Karthikeyan,77.0,23cs074@college.edu.in
+24IT080,Jeevan D,M,IT,2024,3,C,Hostel,No,Dr. B. Prakash,97.4,24it080@college.edu.in
+25IT038,Dharshini Rao,F,IT,2025,2,B,Day Scholar,No,Dr. T. Ramesh,73.7,25it038@college.edu.in
+25ME051,Yash A,M,MECH,2025,2,B,Hostel,No,Dr. P. Selvi,90.9,25me051@college.edu.in
+23CS119,Pooja Patel,F,CSE,2023,4,C,Day Scholar,Yes,Dr. K. Meenakshi,89.7,23cs119@college.edu.in
+23CS115,Sandhya T,F,CSE,2023,4,C,Day Scholar,No,Dr. R. Lakshmi,75.0,23cs115@college.edu.in
+24IT041,Jeevan D,M,IT,2024,3,B,Day Scholar,Yes,Dr. A. Sundar,63.0,24it041@college.edu.in
+23CS006,Rahul L,M,cse,2023,4,A,Hostel,No,Prof. P. Rajesh,74.5,23cs006@college.edu.in
+24CS116,Dinesh T,M,CSE,2024,3,C,Day Scholar,Yes,Prof. S. Karthikeyan,85.9,24cs116@college.edu.in
+25CS049,Dhanush K,M,CSE,2025,2,B,Day Scholar,Yes,Dr. R. Lakshmi,77.4,25cs049@college.edu.in
+24ME025,Sowmya A,F,MECH,2024,3,A,Hostel,No,Dr. S. Murugan,87.1,24me025@college.edu.in
+23CS070,Aditya L,M,C.S.E,2023,4,B,Hostel,No,Prof. V. Anand,74.8,23cs070@college.edu.in
+23CS015,Gayathri A,F,CSE,2023,4,A,Day Scholar,No,Dr. M. Fathima,94.3,23cs015@college.edu.in
+25IT029,Naveen M,M,IT,2025,2,A,Day Scholar,No,Prof. G. Shalini,71.9,25it029@college.edu.in
+25CS005,Kishore L,M,CSE,2025,2,A,Day Scholar,No,Dr. K. Meenakshi,69.5,25cs005@college.edu.in
+24CS010,Lokesh Nair,M,CSE,2024,3,A,Hostel,No,Prof. V. Anand,58.1,24cs010@college.edu.in
+23CS079,Janani Sharma,F,CSE,2023,4,B,Day Scholar,No,Dr. R. Lakshmi,86.1,23cs079@college.edu.in
+25ME007,Arjun T,M,MECH,2025,2,A,Day Scholar,No,Dr. S. Murugan,65.9,25me007@college.edu.in
+24CS120,Sowmya Iyer,F,CSE,2024,3,C,Day Scholar,No,Prof. P. Rajesh,70.9,24cs120@college.edu.in
+25EC063,Ishita Sharma,F,ECE,2025,2,C,Day Scholar,No,Dr. H. Mohan,70.4,25ec063@college.edu.in
+25EC046,Sabari T,M,Electronics & Comm,2025,2,B,Hostel,No,Dr. J. Srinivasan,76.3,25ec046@college.edu.in
+24EC083,Rahul S,M,ECE,2024,3,C,Hostel,No,Dr. H. Mohan,83.7,24ec083@college.edu.in
+23CS055,Gayathri T,F,CSE,2023,4,B,Hostel,No,Dr. R. Lakshmi,85.0,23cs055@college.edu.in
+24CS108,Hari Patel,M,CSE,2024,3,C,Hostel,No,Prof. P. Rajesh,80.9,24cs108@college.edu.in
+23EC057,Sandhya C,F,ECE,2023,4,B,Day Scholar,No,Prof. L. Revathi,80.2,23ec057@college.edu.in
+25IT087,BHARATH E  ,M,it,2025,2,C,Day Scholar,No,Prof. N. Kavitha,86.7,25it087@college.edu.in
+25IT047,Vaishnavi D,F,IT,2025,2,B,Day Scholar,No,Prof. N. Kavitha,84.3,25it047@college.edu.in
+24IT035,Madhan V,M,IT,2024,3,B,Hostel,No,Dr. B. Prakash,62.9,24it035@college.edu.in
+24IT058,Sanjay P,M,IT,2024,3,B,Day Scholar,Yes,Dr. T. Ramesh,91.7,24it058@college.edu.in
+23CS060,Lakshmi Kumar,F,CSE,2023,4,B,Hostel,Yes,Prof. P. Rajesh,73.5,23cs060@college.edu.in
+24IT024,Fathima Nair,F,IT,2024,3,A,Day Scholar,No,Prof. G. Shalini,91.4,24it024@college.edu.in
+24ME048,ARUN L  ,M,MECH,2024,3,B,Day Scholar,No,Dr. P. Selvi,99.5,24me048@college.edu.in
+23IT047,Gayathri L,F,IT,2023,4,B,Hostel,No,Prof. N. Kavitha,64.7,23it047@college.edu.in
+25CS090,Pranav K,M,CSE,2025,2,C,Hostel,No,Prof. P. Rajesh,78.3,25cs090@college.edu.in
+23ME032,Ritika Das,F,MECH,2023,4,B,Day Scholar,No,Prof. R. Balaji,87.0,23me032@college.edu.in
+25IT004,Varsha E,F,IT,2025,2,A,Hostel,No,Prof. G. Shalini,79.7,25it004@college.edu.in
+23EC038,Bhavana S,F,ECE,2023,4,B,Hostel,No,Dr. H. Mohan,87.6,23ec038@college.edu.in
+24CS014,Mukesh K,M,CSE,2024,3,A,Hostel,No,Prof. S. Karthikeyan,73.6,24cs014@college.edu.in
+25CS020,Ayesha B,F,CS,2025,2,A,Day Scholar,No,Prof. S. Karthikeyan,71.8,25cs020@college.edu.in
+24CS113,Fathima V,F,CSE,2024,3,C,Day Scholar,No,Dr. K. Meenakshi,81.7,24cs113@college.edu.in
+24IT020,Ramya J,F,IT,2024,3,A,Day Scholar,No,Dr. B. Prakash,76.5,24it020@college.edu.in
+25CS026,Sneha Iyer,F,CSE,2025,2,A,Hostel,Yes,Prof. S. Karthikeyan,71.8,25cs026@college.edu.in
+24IT050,Bharath M,M,IT,2024,3,B,Day Scholar,No,Dr. B. Prakash,96.4,24it050@college.edu.in
+24EC067,Lakshmi G,F,ECE,2024,3,C,Day Scholar,No,Prof. L. Revathi,70.1,24ec067@college.edu.in
+24EC047,Nandhini Joseph,F,ECE,2024,3,B,Day Scholar,Yes,Prof. L. Revathi,71.2,24ec047@college.edu.in
+24IT084,Yash B,M,IT,2024,3,C,Day Scholar,Yes,Prof. G. Shalini,85.3,24it084@college.edu.in
+25EC018,Ayesha L,F,ECE,2025,2,A,Day Scholar,No,Dr. H. Mohan,65.1,25ec018@college.edu.in
+23ME008,Nithish M,M,MECH,2023,4,A,Day Scholar,No,Prof. R. Balaji,71.1,23me008@college.edu.in
+25EC006,Sruthi Patel,F,ECE,2025,2,A,Hostel,Yes,Dr. J. Srinivasan,81.4,25ec006@college.edu.in
+24ME042,Hari C,M,MECH,2024,3,B,Hostel,No,Dr. P. Selvi,83.5,24me042@college.edu.in
+24IT087,Hema N,F,IT,2024,3,C,Day Scholar,No,Prof. N. Kavitha,72.3,24it087@college.edu.in
+24IT022,Surya D,M,IT,2024,3,A,Day Scholar,Yes,Prof. N. Kavitha,85.5,24it022@college.edu.in
+25CS091,Ritika Menon,F,CSE,2025,2,C,Day Scholar,No,Dr. R. Lakshmi,94.3,25cs091@college.edu.in
+23EC025,Nandhini R,F,ECE,2023,4,A,Day Scholar,Yes,Dr. C. Venkatesh,79.9,23ec025@college.edu.in
+24EC057,Vignesh Rao,M,ECE,2024,3,B,Day Scholar,No,Prof. L. Revathi,71.9,24ec057@college.edu.in
+25EC051,Bharath B,M,ECE,2025,2,B,Day Scholar,No,Dr. J. Srinivasan,79.5,25ec051@college.edu.in
+24CS071,Kavya A,F,CSE,2024,3,B,Hostel,No,Dr. K. Meenakshi,68.2,24cs071@college.edu.in
+25CS016,Ragul V,M,CSE,2025,2,A,Hostel,No,Prof. V. Anand,90.5,25cs016@college.edu.in
+23IT072,Harini R,F,IT,2023,4,C,Day Scholar,Yes,Prof. N. Kavitha,65.5,23it072@college.edu.in
+24ME060,Dhanush R,M,MECH,2024,3,B,Day Scholar,No,Dr. P. Selvi,79.4,24me060@college.edu.in
+23IT032,Lakshmi B,F,IT,2023,4,B,Day Scholar,No,Prof. N. Kavitha,74.9,23it032@college.edu.in
+24ME032,Ragul Pillai,M,MECH,2024,3,B,Day Scholar,No,Prof. R. Balaji,85.2,24me032@college.edu.in
+24CS076,Lokesh L,M,CSE,2024,3,B,Day Scholar,No,Prof. V. Anand,77.5,24cs076@college.edu.in
+24ME007,Harini Nair,F,MECH,2024,3,A,Hostel,No,Dr. S. Murugan,79.9,24me007@college.edu.in
+23EC047,KISHORE N  ,M,ECE,2023,4,B,Day Scholar,Yes,Prof. L. Revathi,78.8,23ec047@college.edu.in
+25ME030,Ishita Das,F,MECH,2025,2,A,Day Scholar,No,Dr. P. Selvi,76.6,25me030@college.edu.in
+25CS063,Lakshmi C,F,CSE,2025,2,B,Hostel,No,Dr. M. Fathima,73.0,25cs063@college.edu.in
+25IT076,Mohammed C,M,IT,2025,2,C,Day Scholar,No,Dr. A. Sundar,78.0,25it076@college.edu.in
+24ME028,Nandhini A,F,MECH,2024,3,A,Day Scholar,No,Dr. S. Murugan,78.6,24me028@college.edu.in
+24IT062,Arjun Singh,M,IT,2024,3,C,Hostel,No,Prof. N. Kavitha,71.7,24it062@college.edu.in
+24EC069,Kishore B,M,ECE,2024,3,C,Hostel,No,Prof. D. Uma,67.9,24ec069@college.edu.in
+24IT090,Pavithra Singh,F,IT,2024,3,C,Day Scholar,No,Dr. B. Prakash,90.5,24it090@college.edu.in
+24EC013,Rohan Sharma,M,ECE,2024,3,A,Day Scholar,No,Dr. H. Mohan,74.1,24ec013@college.edu.in
+24CS024,Surya B,M,CSE,2024,3,A,Hostel,No,Prof. P. Rajesh,71.1,24cs024@college.edu.in
+23IT026,LAKSHMI B  ,F,IT,2023,4,A,Hostel,No,Dr. A. Sundar,74.5,23it026@college.edu.in
+25EC017,SIDDHARTH REDDY  ,M,ECE,2025,2,A,Hostel,Yes,Prof. L. Revathi,92.9,25ec017@college.edu.in
+25ME014,Naveen N,M,Mech,2025,2,A,Day Scholar,Yes,Prof. R. Balaji,72.1,25me014@college.edu.in
+24IT054,Arun Joseph,M,IT,2024,3,B,Hostel,No,Prof. G. Shalini,95.2,24it054@college.edu.in
+23EC006,SOWMYA DAS  ,F,ECE,2023,4,A,Day Scholar,No,Dr. J. Srinivasan,71.7,23ec006@college.edu.in
+25IT057,Praveen J,M,IT,2025,2,B,Hostel,Yes,Prof. N. Kavitha,71.5,25it057@college.edu.in
+24ME030,Hema J,F,MECH,2024,3,A,Day Scholar,No,Dr. P. Selvi,74.3,24me030@college.edu.in
+25CS060,Rohan Joseph,M,CSE,2025,2,B,Hostel,No,Prof. P. Rajesh,83.7,25cs060@college.edu.in
+23IT077,Gokul M,M,IT,2023,4,C,Day Scholar,No,Prof. N. Kavitha,81.6,23it077@college.edu.in
+25EC065,Karthik B,M,ECE,2025,2,C,Day Scholar,Yes,Dr. C. Venkatesh,55.0,25ec065@college.edu.in
+24IT016,Vishal A,M,IT,2024,3,A,Hostel,Yes,Dr. A. Sundar,72.9,24it016@college.edu.in
+24EC022,Varsha E,F,ECE,2024,3,A,Hostel,No,Prof. L. Revathi,74.2,24ec022@college.edu.in
+23CS018,Mohammed Reddy,M,CSE,2023,4,A,Day Scholar,No,Prof. P. Rajesh,79.0,23cs018@college.edu.in
+24ME054,Ramya Joseph,F,MECH,2024,3,B,Hostel,No,Dr. P. Selvi,84.9,24me054@college.edu.in
+25EC001,Jeevan Rao,M,E.C.E,2025,2,A,Day Scholar,No,Dr. J. Srinivasan,91.3,25ec001@college.edu.in
+23CS028,Bhavana P,F,cse,2023,4,A,Day Scholar,Yes,Prof. V. Anand,81.0,23cs028@college.edu.in
+23EC068,Rohan C,M,ECE,2023,4,C,Day Scholar,Yes,Dr. H. Mohan,90.2,23ec068@college.edu.in
+24EC062,Manoj Reddy,M,ECE,2024,3,C,Day Scholar,No,Prof. L. Revathi,58.9,24ec062@college.edu.in
+24CS036,Dhanush P,M,CSE,2024,3,A,Day Scholar,No,Prof. P. Rajesh,80.4,24cs036@college.edu.in
+23EC019,Sneha Rao,F,ECE,2023,4,A,Day Scholar,Yes,Prof. D. Uma,69.7,23ec019@college.edu.in
+23ME021,Sandhya Sharma,F,MECH,2023,4,A,Day Scholar,No,Dr. P. Selvi,69.6,23me021@college.edu.in
+24ME022,Sruthi Menon,F,MECH,2024,3,A,Day Scholar,No,Dr. S. Murugan,71.7,24me022@college.edu.in
+23IT028,Tanvi Rao,F,IT,2023,4,A,Hostel,No,Dr. T. Ramesh,68.2,23it028@college.edu.in
+25CS007,Gokul Pillai,M,CSE,2025,2,A,Hostel,No,Dr. R. Lakshmi,93.6,25cs007@college.edu.in
+25IT005,Santhosh T,M,IT,2025,2,A,Day Scholar,No,Dr. B. Prakash,84.6,25it005@college.edu.in
+23EC029,Nandhini Sharma,F,EC,2023,4,A,Day Scholar,No,Prof. D. Uma,98.1,23ec029@college.edu.in
+24IT015,Bharath K,M,IT,2024,3,A,Day Scholar,Yes,Dr. B. Prakash,82.0,24it015@college.edu.in
+24EC029,Deepika Das,F,ECE,2024,3,A,Hostel,Yes,Prof. D. Uma,65.2,24ec029@college.edu.in
+24CS090,Ajith C,M,CSE,2024,3,C,Hostel,Yes,Prof. P. Rajesh,83.7,24cs090@college.edu.in
+25IT062,Ashwin K,M,IT,2025,2,C,Hostel,No,Prof. N. Kavitha,67.6,25it062@college.edu.in
+25CS115,Janani Iyer,F,CSE,2025,2,C,Hostel,No,Dr. R. Lakshmi,71.5,25cs115@college.edu.in
+23CS107,Aditya L,M,CSE,2023,4,C,Hostel,No,Dr. K. Meenakshi,85.2,23cs107@college.edu.in
+23ME051,Arun S,M,MECH,2023,4,B,Hostel,No,Dr. P. Selvi,84.5,23me051@college.edu.in
+24IT044,Ganesh G,M,IT,2024,3,B,Day Scholar,Yes,Prof. G. Shalini,68.6,24it044@college.edu.in
+24EC081,Anjali G,F,ECE,2024,3,C,Day Scholar,No,Dr. J. Srinivasan,75.2,24ec081@college.edu.in
+24CS030,Surya G,M,CSE,2024,3,A,Day Scholar,No,Prof. P. Rajesh,77.1,24cs030@college.edu.in
+24CS089,Naveen V,M,CSE,2024,3,C,Day Scholar,No,Dr. K. Meenakshi,79.2,24cs089@college.edu.in
+23CS094,Janani K,F,CSE,2023,4,C,Hostel,No,Prof. V. Anand,66.6,23cs094@college.edu.in
+23EC050,Naveen C,M,ECE,2023,4,B,Day Scholar,No,Dr. C. Venkatesh,75.6,23ec050@college.edu.in
+24IT075,Ramya Singh,F,Information Tech,2024,3,C,Hostel,No,Dr. B. Prakash,68.2,24it075@college.edu.in
+24ME016,Kavin E,M,Mech,2024,3,A,Hostel,No,Dr. S. Murugan,83.0,24me016@college.edu.in
+25ME016,Ajith V,M,Mech,2025,2,A,Hostel,No,Dr. S. Murugan,65.2,25me016@college.edu.in
+23IT051,Gayathri Menon,F,IT,2023,4,B,Day Scholar,No,Dr. A. Sundar,84.6,23it051@college.edu.in
+23EC045,Santhosh Patel,M,ECE,2023,4,B,Day Scholar,No,Dr. C. Venkatesh,64.6,23ec045@college.edu.in
+25CS012,Lokesh C,M,CSE,2025,2,A,Day Scholar,No,Prof. P. Rajesh,76.6,25cs012@college.edu.in
+24EC033,ARUN K  ,M,ECE,2024,3,B,Hostel,Yes,Dr. H. Mohan,73.8,24ec033@college.edu.in
+23EC043,Sanjay G,M,ECE,2023,4,B,Day Scholar,Yes,Dr. H. Mohan,99.5,23ec043@college.edu.in
+23ME007,Ganesh Patel,M,MECH,2023,4,A,Day Scholar,No,Dr. S. Murugan,90.2,23me007@college.edu.in
+24IT068,Bharath L,M,IT,2024,3,C,Hostel,No,Dr. T. Ramesh,71.9,24it068@college.edu.in
+25ME056,Pranav V,M,MECH,2025,2,B,Hostel,No,Prof. R. Balaji,94.9,25me056@college.edu.in
+25ME048,Shreya S,F,MECH,2025,2,B,Hostel,Yes,Dr. P. Selvi,83.3,25me048@college.edu.in
+25IT009,Keerthana M,F,IT,2025,2,A,Day Scholar,No,Prof. G. Shalini,65.8,25it009@college.edu.in
+24CS069,Janani K,F,CSE,2024,3,B,Hostel,Yes,Dr. M. Fathima,92.7,24cs069@college.edu.in
+23IT067,Vishal R,M,IT,2023,4,C,Day Scholar,No,Prof. N. Kavitha,81.3,23it067@college.edu.in
+23EC060,Sushmitha V,F,ECE,2023,4,B,Day Scholar,No,Dr. C. Venkatesh,63.7,23ec060@college.edu.in
+24ME040,PRIYA T  ,F,MECH,2024,3,B,Day Scholar,Yes,Dr. S. Murugan,87.6,24me040@college.edu.in
+24EC061,Shreya L,F,ECE,2024,3,C,Day Scholar,No,Dr. J. Srinivasan,69.3,24ec061@college.edu.in
+23IT043,Ajith S,M,IT,2023,4,B,Day Scholar,No,Dr. T. Ramesh,69.5,23it043@college.edu.in
+24CS054,Deepak T,M,CSE,2024,3,B,Day Scholar,No,Prof. P. Rajesh,83.4,24cs054@college.edu.in
+25IT071,Dinesh D,M,IT,2025,2,C,Day Scholar,Yes,Dr. A. Sundar,75.8,25it071@college.edu.in
+25EC002,Ganesh A,M,ECE,2025,2,A,Day Scholar,No,Prof. L. Revathi,78.0,25ec002@college.edu.in
+23CS099,Bhavana Reddy,F,CSE,2023,4,C,Hostel,No,Dr. M. Fathima,79.4,23cs099@college.edu.in
+23CS007,Praveen Patel,M,CSE,2023,4,A,Day Scholar,No,Dr. R. Lakshmi,68.8,23cs007@college.edu.in
+25EC014,YASH G  ,M,ECE,2025,2,A,Day Scholar,Yes,Prof. D. Uma,81.6,25ec014@college.edu.in
+24ME027,Naveen S,M,MECH,2024,3,A,Day Scholar,No,Dr. P. Selvi,73.5,24me027@college.edu.in
+25EC090,Tarun D,M,ECE,2025,2,C,Hostel,Yes,Dr. C. Venkatesh,77.8,25ec090@college.edu.in
+24EC042,Sowmya Singh,F,ECE,2024,3,B,Day Scholar,No,Prof. L. Revathi,77.0,24ec042@college.edu.in
+23EC020,Gayathri C,F,ECE,2023,4,A,Hostel,No,Dr. C. Venkatesh,90.8,23ec020@college.edu.in
+23EC055,Varsha B,F,ECE,2023,4,B,Day Scholar,No,Dr. C. Venkatesh,91.2,23ec055@college.edu.in
+24CS009,Rahul A,M,CSE,2024,3,A,Day Scholar,No,Dr. M. Fathima,81.5,24cs009@college.edu.in
+25CS096,RAHUL D  ,M,CSE,2025,2,C,Day Scholar,No,Prof. P. Rajesh,87.8,25cs096@college.edu.in
+25EC084,Arjun A,M,ECE,2025,2,C,Hostel,Yes,Prof. D. Uma,63.4,25ec084@college.edu.in
+25EC067,Bhavana E,F,ECE,2025,2,C,Day Scholar,No,Prof. L. Revathi,77.7,25ec067@college.edu.in
+25CS010,Rohan L,M,CSE,2025,2,A,Day Scholar,No,Prof. V. Anand,72.9,25cs010@college.edu.in
+25ME022,Vaishnavi N,F,MECH,2025,2,A,Day Scholar,No,Dr. S. Murugan,82.7,25me022@college.edu.in
+25CS080,KEERTHANA V  ,F,CSE,2025,2,B,Hostel,Yes,Prof. S. Karthikeyan,88.9,25cs080@college.edu.in
+24CS044,Madhan E,M,Computer Science,2024,3,B,Day Scholar,No,Prof. S. Karthikeyan,63.8,24cs044@college.edu.in
+25IT017,Ragul Pillai,M,IT,2025,2,A,Hostel,No,Prof. N. Kavitha,76.2,25it017@college.edu.in
+25CS117,SHREYA G  ,F,CSE,2025,2,C,Day Scholar,No,Dr. M. Fathima,86.3,25cs117@college.edu.in
+24EC041,Imran Reddy,M,ECE,2024,3,B,Day Scholar,Yes,Dr. J. Srinivasan,80.4,24ec041@college.edu.in
+23IT070,Gokul E,M,IT,2023,4,C,Hostel,No,Dr. B. Prakash,73.5,23it070@college.edu.in
+23ME033,Kavya J,F,MECH,2023,4,B,Day Scholar,No,Dr. P. Selvi,88.8,23me033@college.edu.in
+23ME004,Ayesha B,F,MECH,2023,4,A,Day Scholar,No,Dr. S. Murugan,75.0,23me004@college.edu.in
+23EC051,Surya V,M,ECE,2023,4,B,Day Scholar,No,Dr. J. Srinivasan,64.7,23ec051@college.edu.in
+23IT025,Sanjay Reddy,M,IT,2023,4,A,Day Scholar,No,Dr. B. Prakash,82.5,23it025@college.edu.in
+24EC058,SAHANA C  ,F,ECE,2024,3,B,Hostel,No,Dr. H. Mohan,88.0,24ec058@college.edu.in
+24ME039,Sruthi Reddy,F,MECH,2024,3,B,Day Scholar,No,Dr. P. Selvi,98.6,24me039@college.edu.in
+23EC074,Sanjay E,M,ECE,2023,4,C,Hostel,No,Prof. D. Uma,89.5,23ec074@college.edu.in
+25EC075,Lakshmi C,F,ECE,2025,2,C,Day Scholar,Yes,Dr. C. Venkatesh,79.8,25ec075@college.edu.in
+23CS012,Siddharth R,M,Computer Science,2023,4,A,Day Scholar,No,Prof. P. Rajesh,76.6,23cs012@college.edu.in
+25EC029,Ayesha C,F,ECE,2025,2,A,Day Scholar,No,Prof. D. Uma,55.0,25ec029@college.edu.in
+24EC025,Swathi L,F,ECE,2024,3,A,Day Scholar,Yes,Dr. C. Venkatesh,89.3,24ec025@college.edu.in
+24ME034,Priya Das,F,Mech,2024,3,B,Day Scholar,No,Dr. S. Murugan,70.9,24me034@college.edu.in
+24IT052,Abishek Patel,M,IT,2024,3,B,Hostel,No,Prof. N. Kavitha,87.8,24it052@college.edu.in
+24CS110,Kishore Kumar,M,CSE,2024,3,C,Hostel,Yes,Prof. S. Karthikeyan,72.2,24cs110@college.edu.in
+23IT008,VIJAY J  ,M,IT,2023,4,A,Day Scholar,No,Dr. T. Ramesh,68.0,23it008@college.edu.in
+25CS017,Sowmya T,F,CSE,2025,2,A,Hostel,Yes,Dr. K. Meenakshi,85.9,25cs017@college.edu.in
+25IT023,Manoj J,M,IT,2025,2,A,Day Scholar,No,Dr. T. Ramesh,77.8,25it023@college.edu.in
+23CS058,Gokul Singh,M,CSE,2023,4,B,Hostel,Yes,Prof. V. Anand,81.4,23cs058@college.edu.in
+23CS034,Nikita Joseph,F,CSE,2023,4,A,Day Scholar,Yes,Prof. V. Anand,66.4,23cs034@college.edu.in
+23EC028,Meena L,F,ECE,2023,4,A,Hostel,Yes,Dr. H. Mohan,64.7,23ec028@college.edu.in
+25ME033,Rohan C,M,MECH,2025,2,B,Hostel,No,Dr. P. Selvi,71.3,25me033@college.edu.in
+23EC073,Pranav Joseph,M,ECE,2023,4,C,Day Scholar,No,Dr. H. Mohan,62.4,23ec073@college.edu.in
+24EC017,Sabari G,M,ECE,2024,3,A,Day Scholar,No,Prof. L. Revathi,84.8,24ec017@college.edu.in
+24CS003,Yash P,M,CSE,2024,3,A,Hostel,No,Dr. M. Fathima,66.6,24cs003@college.edu.in
+23EC034,Arjun Sharma,M,ECE,2023,4,B,Hostel,No,Prof. D. Uma,79.9,23ec034@college.edu.in
+24EC034,Monisha Reddy,F,ECE,2024,3,B,Hostel,No,Prof. D. Uma,93.5,24ec034@college.edu.in
+23CS093,Kishore C,M,CSE,2023,4,C,Day Scholar,No,Dr. M. Fathima,85.9,23cs093@college.edu.in
+23EC001,Imran C,M,ECE,2023,4,A,Hostel,No,Dr. J. Srinivasan,88.0,23ec001@college.edu.in
+23ME038,Keerthana G,F,MECH,2023,4,B,Day Scholar,No,Prof. R. Balaji,70.4,23me038@college.edu.in
+25ME018,Ritika K,F,MECH,2025,2,A,Day Scholar,No,Dr. P. Selvi,96.1,25me018@college.edu.in
+25CS072,Sruthi Reddy,F,CSE,2025,2,B,Day Scholar,No,Prof. P. Rajesh,96.3,25cs072@college.edu.in
+24ME009,Hari M,M,MECH,2024,3,A,Hostel,No,Dr. P. Selvi,72.0,24me009@college.edu.in
+23ME002,Ramya Das,F,MECH,2023,4,A,Day Scholar,Yes,Prof. R. Balaji,87.8,23me002@college.edu.in
+25EC023,Kavin L,M,ECE,2025,2,A,Hostel,Yes,Dr. H. Mohan,78.9,25ec023@college.edu.in
+23CS086,Deepika C,F,CSE,2023,4,C,Day Scholar,No,Prof. S. Karthikeyan,83.0,23cs086@college.edu.in
+23IT071,Sneha G,F,IT,2023,4,C,Day Scholar,No,Dr. A. Sundar,91.2,23it071@college.edu.in
+23CS040,Sruthi D,F,CSE,2023,4,A,Hostel,Yes,Prof. V. Anand,86.2,23cs040@college.edu.in
+24IT021,Surya L,M,IT,2024,3,A,Hostel,Yes,Dr. A. Sundar,71.5,24it021@college.edu.in
+24EC054,Priya Kumar,F,ECE,2024,3,B,Day Scholar,Yes,Prof. D. Uma,76.0,24ec054@college.edu.in
+25EC080,Nithish J,M,ECE,2025,2,C,Hostel,No,Dr. C. Venkatesh,73.8,25ec080@college.edu.in
+24IT028,Dinesh P,M,IT,2024,3,A,Hostel,No,Dr. T. Ramesh,80.9,24it028@college.edu.in
+24EC065,GANESH IYER  ,M,ECE,2024,3,C,Day Scholar,No,Dr. C. Venkatesh,84.0,24ec065@college.edu.in
+25CS045,Nikita S,F,CSE,2025,2,B,Hostel,No,Dr. M. Fathima,78.9,25cs045@college.edu.in
+25CS103,Jeevan Singh,M,CSE,2025,2,C,Day Scholar,No,Dr. R. Lakshmi,79.5,25cs103@college.edu.in
+24IT037,Vignesh D,M,IT,2024,3,B,Hostel,Yes,Prof. N. Kavitha,83.8,24it037@college.edu.in
+25CS004,Vaishnavi V,F,CSE,2025,2,A,Day Scholar,Yes,Prof. V. Anand,59.4,25cs004@college.edu.in
+23CS105,Vijay K,M,CSE,2023,4,C,Day Scholar,No,Dr. M. Fathima,86.2,23cs105@college.edu.in
+25EC019,Dinesh B,M,ECE,2025,2,A,Hostel,No,Prof. D. Uma,71.4,25ec019@college.edu.in
+23EC024,Sruthi Pillai,F,ECE,2023,4,A,Hostel,No,Prof. D. Uma,89.7,23ec024@college.edu.in
+24ME017,Hari D,M,MECH,2024,3,A,Day Scholar,No,Prof. R. Balaji,83.1,24me017@college.edu.in
+23CS106,Kishore G,M,CSE,2023,4,C,Day Scholar,No,Prof. V. Anand,76.2,23cs106@college.edu.in
+23ME042,Kavya J,F,MECH,2023,4,B,Hostel,Yes,Dr. P. Selvi,62.3,23me042@college.edu.in
+25CS034,Deepak Kumar,M,CSE,2025,2,A,Hostel,No,Prof. V. Anand,80.4,25cs034@college.edu.in
+24ME038,Tarun G,M,MECH,2024,3,B,Day Scholar,No,Prof. R. Balaji,66.4,24me038@college.edu.in
+23EC044,Nithish G,M,ECE,2023,4,B,Day Scholar,No,Prof. D. Uma,78.7,23ec044@college.edu.in
+24CS049,Kavya K,F,CSE,2024,3,B,Hostel,Yes,Dr. R. Lakshmi,75.7,24cs049@college.edu.in
+24CS063,Ajith E,M,CSE,2024,3,B,Hostel,No,Dr. M. Fathima,90.2,24cs063@college.edu.in
+25CS055,Mukesh Das,M,CSE,2025,2,B,Day Scholar,No,Dr. R. Lakshmi,85.6,25cs055@college.edu.in
+23IT089,Pooja M,F,IT,2023,4,C,Day Scholar,No,Prof. G. Shalini,64.0,23it089@college.edu.in
+25IT081,Yash Menon,M,IT,2025,2,C,Day Scholar,No,Dr. A. Sundar,82.7,25it081@college.edu.in
+24CS068,Gokul N,M,CSE,2024,3,B,Day Scholar,No,Prof. S. Karthikeyan,78.8,24cs068@college.edu.in
+25IT067,Yash Iyer,M,IT,2025,2,C,Day Scholar,No,Prof. N. Kavitha,75.4,25it067@college.edu.in
+23CS083,Pooja K,F,CSE,2023,4,C,Hostel,No,Dr. K. Meenakshi,70.1,23cs083@college.edu.in
+24IT018,Dinesh E,M,IT,2024,3,A,Day Scholar,No,Dr. T. Ramesh,85.7,24it018@college.edu.in
+25ME032,Hema E,F,MECH,2025,2,B,Day Scholar,No,Prof. R. Balaji,81.3,25me032@college.edu.in
+24EC014,Pooja K,F,ECE,2024,3,A,Day Scholar,No,Prof. D. Uma,76.3,24ec014@college.edu.in
+25IT078,Ayesha G,F,IT,2025,2,C,Day Scholar,Yes,Dr. T. Ramesh,73.6,25it078@college.edu.in
+25CS082,Vignesh D,M,CSE,2025,2,C,Day Scholar,No,Prof. V. Anand,93.8,25cs082@college.edu.in
+23CS088,Sowmya N,F,CSE,2023,4,C,Day Scholar,No,Prof. V. Anand,79.2,23cs088@college.edu.in
+23CS065,Ganesh K,M,CSE,2023,4,B,Day Scholar,No,Dr. K. Meenakshi,89.6,23cs065@college.edu.in
+23EC061,Divya E,F,ECE,2023,4,C,Hostel,No,Dr. J. Srinivasan,88.2,23ec061@college.edu.in
+24EC036,Surya K,M,ECE,2024,3,B,Day Scholar,Yes,Dr. J. Srinivasan,75.8,24ec036@college.edu.in
+25CS071,Siddharth Sharma,M,CSE,2025,2,B,Day Scholar,No,Dr. K. Meenakshi,90.8,25cs071@college.edu.in
+23EC065,Sahana A,F,ECE,2023,4,C,Hostel,No,Dr. C. Venkatesh,78.0,23ec065@college.edu.in
+24IT054,Arun Joseph,M,IT,2024,3,B,Hostel,No,Prof. G. Shalini,95.2,24it054@college.edu.in
+25ME005,KAVYA S  ,F,MECH,2025,2,A,Day Scholar,No,Prof. R. Balaji,78.7,25me005@college.edu.in
+25EC005,Deepika P,F,ECE,2025,2,A,Day Scholar,Yes,Dr. C. Venkatesh,76.0,25ec005@college.edu.in
+23IT006,Meena Patel,F,IT,2023,4,A,Day Scholar,No,Dr. A. Sundar,72.5,23it006@college.edu.in
+23IT034,Sahana E,F,IT,2023,4,B,Day Scholar,No,Prof. G. Shalini,80.8,23it034@college.edu.in
+24EC044,Santhosh V,M,ECE,2024,3,B,Day Scholar,No,Prof. D. Uma,84.0,24ec044@college.edu.in
+25IT032,Ritika L,F,IT,2025,2,B,Day Scholar,No,Prof. N. Kavitha,83.7,25it032@college.edu.in
+25IT082,Deepak D,M,IT,2025,2,C,Day Scholar,Yes,Prof. N. Kavitha,65.2,25it082@college.edu.in
+24CS051,Bhavana N,F,CSE,2024,3,B,Day Scholar,Yes,Dr. M. Fathima,76.5,24cs051@college.edu.in
+25CS111,Jeevan D,M,CSE,2025,2,C,Day Scholar,No,Dr. M. Fathima,59.7,25cs111@college.edu.in
+25IT049,Priya Joseph,F,IT,2025,2,B,Day Scholar,No,Prof. G. Shalini,87.3,25it049@college.edu.in
+25ME015,Rahul J,M,MECH,2025,2,A,Day Scholar,No,Dr. P. Selvi,79.0,25me015@college.edu.in
+25EC021,Aditya Sharma,M,ECE,2025,2,A,Day Scholar,No,Dr. J. Srinivasan,79.2,25ec021@college.edu.in
+24IT038,Varsha S,F,IT,2024,3,B,Day Scholar,No,Dr. T. Ramesh,72.0,24it038@college.edu.in
+23CS045,Dhanush Patel,M,CSE,2023,4,B,Day Scholar,Yes,Dr. M. Fathima,92.1,23cs045@college.edu.in
+24EC056,Ritika Singh,F,ECE,2024,3,B,Day Scholar,No,Dr. J. Srinivasan,69.0,24ec056@college.edu.in
+24CS031,Vaishnavi B,F,CSE,2024,3,A,Day Scholar,No,Dr. R. Lakshmi,69.8,24cs031@college.edu.in
+23EC011,Sanjay M,M,ECE,2023,4,A,Hostel,No,Dr. J. Srinivasan,66.5,23ec011@college.edu.in
+23IT021,Dinesh V,M,IT,2023,4,A,Day Scholar,No,Dr. A. Sundar,81.8,23it021@college.edu.in
+23ME050,Praveen K,M,MECH,2023,4,B,Day Scholar,No,Prof. R. Balaji,72.1,23me050@college.edu.in
+23ME058,Priya B,F,MECH,2023,4,B,Hostel,No,Dr. S. Murugan,79.6,23me058@college.edu.in
+25CS003,Tanvi Sharma,F,CSE,2025,2,A,Day Scholar,No,Dr. M. Fathima,72.0,25cs003@college.edu.in
+23IT014,Vaishnavi Patel,F,IT,2023,4,A,Hostel,Yes,Prof. G. Shalini,75.3,23it014@college.edu.in
+23EC052,Ganesh Joseph,M,ECE,2023,4,B,Hostel,No,Prof. L. Revathi,76.2,23ec052@college.edu.in
+23EC069,Karthik Nair,M,ECE,2023,4,C,Day Scholar,No,Prof. D. Uma,81.0,23ec069@college.edu.in
+25IT059,Vijay Singh,M,IT,2025,2,B,Day Scholar,No,Prof. G. Shalini,79.4,25it059@college.edu.in
+23CS080,Rahul Menon,M,CSE,2023,4,B,Hostel,No,Prof. S. Karthikeyan,70.7,23cs080@college.edu.in
+23IT076,Vishal N,M,IT,2023,4,C,Day Scholar,No,Dr. A. Sundar,79.0,23it076@college.edu.in
+23CS116,Varsha Kumar,F,CSE,2023,4,C,Hostel,Yes,Prof. S. Karthikeyan,84.1,23cs116@college.edu.in
+25EC031,Sandhya N,F,ECE,2025,2,B,Day Scholar,No,Dr. J. Srinivasan,77.7,25ec031@college.edu.in
+25EC056,Divya K,F,ECE,2025,2,B,Day Scholar,Yes,Dr. J. Srinivasan,76.0,25ec056@college.edu.in
+25IT046,Sruthi N,F,IT,2025,2,B,Day Scholar,No,Dr. A. Sundar,79.8,25it046@college.edu.in
+24ME059,Kavin Rao,M,MECH,2024,3,B,Day Scholar,No,Prof. R. Balaji,64.7,24me059@college.edu.in
+24CS021,Ganesh K,M,CSE,2024,3,A,Hostel,No,Dr. M. Fathima,68.1,24cs021@college.edu.in
+25ME040,Keerthana Reddy,F,MECH,2025,2,B,Day Scholar,Yes,Dr. S. Murugan,68.6,25me040@college.edu.in
+23IT065,Madhumitha Joseph,F,IT,2023,4,C,Day Scholar,Yes,Dr. B. Prakash,80.2,23it065@college.edu.in
+25EC003,Ishita G,F,ECE,2025,2,A,Day Scholar,No,Dr. H. Mohan,89.6,25ec003@college.edu.in
+23ME059,Kishore Kumar,M,MECH,2023,4,B,Day Scholar,No,Prof. R. Balaji,82.7,23me059@college.edu.in
+25ME029,Monisha D,F,MECH,2025,2,A,Hostel,Yes,Prof. R. Balaji,83.1,25me029@college.edu.in
+23CS037,Sneha Rao,F,CSE,2023,4,A,Day Scholar,Yes,Dr. R. Lakshmi,73.6,23cs037@college.edu.in
+25IT019,Imran K,M,IT,2025,2,A,Day Scholar,No,Prof. G. Shalini,67.8,25it019@college.edu.in
+23ME040,Sandhya Menon,F,MECH,2023,4,B,Day Scholar,No,Dr. S. Murugan,79.0,23me040@college.edu.in
+25EC057,Ishita V,F,ECE,2025,2,B,Hostel,Yes,Prof. L. Revathi,68.8,25ec057@college.edu.in
+25CS035,Santhosh K,M,CSE,2025,2,A,Hostel,No,Dr. K. Meenakshi,73.2,25cs035@college.edu.in
+24CS061,Mukesh C,M,CSE,2024,3,B,Day Scholar,No,Dr. R. Lakshmi,75.7,24cs061@college.edu.in
+23IT030,Meena Menon,F,IT,2023,4,A,Hostel,No,Dr. B. Prakash,70.1,23it030@college.edu.in
+23CS010,Deepak Reddy,M,CSE,2023,4,A,Day Scholar,No,Prof. V. Anand,70.6,23cs010@college.edu.in
+25ME059,Vignesh Menon,M,MECH,2025,2,B,Hostel,Yes,Prof. R. Balaji,99.5,25me059@college.edu.in
+25IT001,Hari J,M,IT,2025,2,A,Day Scholar,No,Dr. A. Sundar,83.0,25it001@college.edu.in
+23CS046,Aishwarya T,F,CSE,2023,4,B,Hostel,No,Prof. V. Anand,88.4,23cs046@college.edu.in
+25IT074,Sushmitha N,F,IT,2025,2,C,Hostel,No,Prof. G. Shalini,74.8,25it074@college.edu.in
+23CS096,Rahul Kumar,M,CSE,2023,4,C,Day Scholar,Yes,Prof. P. Rajesh,79.9,23cs096@college.edu.in
+25ME024,Rohan Reddy,M,MECH,2025,2,A,Hostel,No,Dr. P. Selvi,80.7,25me024@college.edu.in
+24IT055,Nikita K,F,IT,2024,3,B,Hostel,No,Dr. B. Prakash,78.8,24it055@college.edu.in
+24IT069,Pavithra Rao,F,IT,2024,3,C,Day Scholar,Yes,Prof. G. Shalini,81.5,24it069@college.edu.in
+24IT081,Dharshini R,F,IT,2024,3,C,Hostel,No,Dr. A. Sundar,75.7,24it081@college.edu.in
+23EC089,Mohammed N,M,ECE,2023,4,C,Day Scholar,No,Prof. D. Uma,80.9,23ec089@college.edu.in
+23EC081,Sahana B,F,ECE,2023,4,C,Day Scholar,No,Dr. J. Srinivasan,72.8,23ec081@college.edu.in
+24CS056,Kishore Reddy,M,CSE,2024,3,B,Hostel,No,Prof. S. Karthikeyan,92.0,24cs056@college.edu.in
+23ME014,Kavya Sharma,F,MECH,2023,4,A,Day Scholar,No,Prof. R. Balaji,81.4,23me014@college.edu.in
+24CS062,Arjun A,M,CSE,2024,3,B,Day Scholar,No,Prof. S. Karthikeyan,75.9,24cs062@college.edu.in
+24EC088,Lokesh R,M,ECE,2024,3,C,Day Scholar,No,Dr. H. Mohan,73.1,24ec088@college.edu.in
+23IT003,Lokesh Kumar,M,IT,2023,4,A,Day Scholar,No,Dr. T. Ramesh,85.1,23it003@college.edu.in
+25EC061,Varsha E,F,ECE,2025,2,C,Hostel,Yes,Dr. J. Srinivasan,79.0,25ec061@college.edu.in
+25EC032,Ganesh N,M,ECE,2025,2,B,Day Scholar,No,Prof. L. Revathi,81.1,25ec032@college.edu.in
+24CS002,Praveen M,M,CSE,2024,3,A,Day Scholar,No,Prof. S. Karthikeyan,88.5,24cs002@college.edu.in
+23ME037,Surya E,M,MECH,2023,4,B,Day Scholar,No,Dr. S. Murugan,62.2,23me037@college.edu.in
+23IT016,Dhanush B,M,IT,2023,4,A,Hostel,Yes,Dr. A. Sundar,88.9,23it016@college.edu.in
+25EC071,Mohammed J,M,ECE,2025,2,C,Day Scholar,Yes,Dr. J. Srinivasan,70.7,25ec071@college.edu.in
+25CS108,SAHANA K  ,F,CSE,2025,2,C,Day Scholar,No,Prof. P. Rajesh,77.6,25cs108@college.edu.in
+24ME050,Bhavana B,F,MECH,2024,3,B,Day Scholar,No,Prof. R. Balaji,75.5,24me050@college.edu.in
+25EC041,Sahana G,F,ECE,2025,2,B,Day Scholar,Yes,Dr. J. Srinivasan,80.2,25ec041@college.edu.in
+25CS050,Yamini L,F,CSE,2025,2,B,Hostel,Yes,Prof. S. Karthikeyan,59.8,25cs050@college.edu.in
+24EC082,Sahana Iyer,F,ECE,2024,3,C,Day Scholar,No,Prof. L. Revathi,88.7,24ec082@college.edu.in
+24CS008,Nikita J,F,CSE,2024,3,A,Day Scholar,Yes,Prof. S. Karthikeyan,69.4,24cs008@college.edu.in
+23CS089,Vijay G,M,CSE,2023,4,C,Day Scholar,No,Dr. K. Meenakshi,69.4,23cs089@college.edu.in
+23CS087,Dinesh C,M,CSE,2023,4,C,Hostel,No,Dr. M. Fathima,68.6,23cs087@college.edu.in
+24EC050,Vaishnavi Pillai,F,ECE,2024,3,B,Hostel,Yes,Dr. C. Venkatesh,80.7,24ec050@college.edu.in
+23CS009,Siddharth Nair,M,CSE,2023,4,A,Day Scholar,No,Dr. M. Fathima,58.1,23cs009@college.edu.in
+23CS098,Swathi Reddy,F,CSE,2023,4,C,Hostel,No,Prof. S. Karthikeyan,61.4,23cs098@college.edu.in
+25ME054,Gayathri B,F,MECH,2025,2,B,Hostel,No,Dr. P. Selvi,84.6,25me054@college.edu.in
+23ME049,Mohammed Nair,M,MECH,2023,4,B,Hostel,No,Dr. S. Murugan,76.3,23me049@college.edu.in
+24IT030,Sneha Rao,F,IT,2024,3,A,Hostel,No,Dr. B. Prakash,74.8,24it030@college.edu.in
+23EC002,Mukesh A,M,ECE,2023,4,A,Day Scholar,No,Prof. L. Revathi,61.8,23ec002@college.edu.in
+24ME044,Vaishnavi A,F,MECH,2024,3,B,Day Scholar,No,Prof. R. Balaji,98.1,24me044@college.edu.in
+25EC016,Ayesha Sharma,F,ECE,2025,2,A,Day Scholar,No,Dr. J. Srinivasan,73.1,25ec016@college.edu.in
+25CS027,Shreya Das,F,CSE,2025,2,A,Day Scholar,No,Dr. M. Fathima,82.6,25cs027@college.edu.in
+23CS022,Ramya Sharma,F,CSE,2023,4,A,Hostel,No,Prof. V. Anand,99.5,23cs022@college.edu.in
+24IT003,Bhavana S,F,IT,2024,3,A,Day Scholar,No,Dr. T. Ramesh,81.5,24it003@college.edu.in
+24EC001,RITIKA P  ,F,ECE,2024,3,A,Day Scholar,No,Dr. J. Srinivasan,90.3,24ec001@college.edu.in
+25EC010,Sushmitha M,F,ECE,2025,2,A,Day Scholar,No,Dr. C. Venkatesh,76.0,25ec010@college.edu.in
+24CS046,Sruthi D,F,CSE,2024,3,B,Day Scholar,No,Prof. V. Anand,73.8,24cs046@college.edu.in
+25CS065,Ramya Sharma,F,CSE,2025,2,B,Day Scholar,Yes,Dr. K. Meenakshi,86.7,25cs065@college.edu.in
+25IT048,Rohan P,M,IT,2025,2,B,Day Scholar,No,Dr. T. Ramesh,82.8,25it048@college.edu.in
+25ME031,Abishek Kumar,M,MECH,2025,2,B,Hostel,No,Dr. S. Murugan,65.6,25me031@college.edu.in
+23CS074,Santhosh D,M,CSE,2023,4,B,Day Scholar,No,Prof. S. Karthikeyan,77.0,23cs074@college.edu.in
+25EC069,Harini Iyer,F,ECE,2025,2,C,Hostel,No,Prof. D. Uma,84.1,25ec069@college.edu.in
+24CS119,Tarun S,M,CSE,2024,3,C,Day Scholar,No,Dr. K. Meenakshi,85.4,24cs119@college.edu.in
+24EC021,Kavin G,M,ECE,2024,3,A,Hostel,No,Dr. J. Srinivasan,76.6,24ec021@college.edu.in
+24IT012,Tanvi P,F,IT,2024,3,A,Day Scholar,No,Prof. N. Kavitha,69.0,24it012@college.edu.in
+25IT002,Ajith P,M,IT,2025,2,A,Day Scholar,Yes,Prof. N. Kavitha,81.4,25it002@college.edu.in
+25EC026,Meena Menon,F,ECE,2025,2,A,Hostel,No,Dr. J. Srinivasan,94.1,25ec026@college.edu.in
+23CS047,Mohammed Rao,M,CSE,2023,4,B,Hostel,No,Dr. K. Meenakshi,63.5,23cs047@college.edu.in
+24CS005,Manoj J,M,CSE,2024,3,A,Hostel,Yes,Dr. K. Meenakshi,75.3,24cs005@college.edu.in
+23EC087,Sahana E,F,ECE,2023,4,C,Day Scholar,Yes,Prof. L. Revathi,79.0,23ec087@college.edu.in
+23CS050,Jeevan Pillai,M,CSE,2023,4,B,Day Scholar,No,Prof. S. Karthikeyan,78.9,23cs050@college.edu.in
+24IT008,Vaishnavi Singh,F,IT,2024,3,A,Day Scholar,No,Dr. T. Ramesh,71.6,24it008@college.edu.in
+23EC015,Ritika L,F,ECE,2023,4,A,Day Scholar,No,Dr. C. Venkatesh,57.4,23ec015@college.edu.in
+25CS031,Sowmya R,F,CSE,2025,2,A,Day Scholar,No,Dr. R. Lakshmi,76.8,25cs031@college.edu.in
+23EC010,Deepak B,M,ECE,2023,4,A,Day Scholar,No,Dr. C. Venkatesh,85.4,23ec010@college.edu.in
+23IT088,Yash N,M,IT,2023,4,C,Day Scholar,Yes,Dr. T. Ramesh,75.8,23it088@college.edu.in
+25IT058,Sushmitha C,F,IT,2025,2,B,Day Scholar,No,Dr. T. Ramesh,68.6,25it058@college.edu.in
+25IT011,Sandhya A,F,IT,2025,2,A,Hostel,No,Dr. A. Sundar,75.4,25it011@college.edu.in
+25CS042,Arun E,M,CSE,2025,2,B,Hostel,No,Prof. P. Rajesh,99.5,25cs042@college.edu.in
+23ME059,Kishore Kumar,M,MECH,2023,4,B,Day Scholar,No,Prof. R. Balaji,82.7,23me059@college.edu.in
+24EC078,RAHUL P  ,M,ECE,2024,3,C,Hostel,Yes,Dr. H. Mohan,77.9,24ec078@college.edu.in
+23IT082,Ajith N,M,IT,2023,4,C,Day Scholar,No,Prof. N. Kavitha,88.6,23it082@college.edu.in
+24IT083,Madhumitha V,F,IT,2024,3,C,Hostel,Yes,Dr. T. Ramesh,87.1,24it083@college.edu.in
+24EC053,Harini B,F,ECE,2024,3,B,Hostel,No,Dr. H. Mohan,79.5,24ec053@college.edu.in
+23CS076,Kishore B,M,CSE,2023,4,B,Hostel,No,Prof. V. Anand,64.6,23cs076@college.edu.in
+23CS064,Ashwin D,M,CSE,2023,4,B,Day Scholar,No,Prof. V. Anand,81.0,23cs064@college.edu.in
+25CS085,Arjun E,M,CSE,2025,2,C,Day Scholar,No,Dr. R. Lakshmi,56.8,25cs085@college.edu.in
+24EC035,Ishita T,F,E.C.E,2024,3,B,Hostel,No,Dr. C. Venkatesh,72.4,24ec035@college.edu.in
+23EC036,Ajith Singh,M,ECE,2023,4,B,Day Scholar,No,Dr. J. Srinivasan,62.0,23ec036@college.edu.in
+24CS083,Abishek A,M,CSE,2024,3,C,Day Scholar,No,Dr. K. Meenakshi,71.2,24cs083@college.edu.in
+25ME008,Deepika B,F,MECH,2025,2,A,Hostel,No,Prof. R. Balaji,55.7,25me008@college.edu.in
+24EC005,Arun Rao,M,ECE,2024,3,A,Day Scholar,No,Dr. C. Venkatesh,75.5,24ec005@college.edu.in
+23CS001,Santhosh Pillai,M,CSE,2023,4,A,Hostel,No,Dr. R. Lakshmi,85.1,23cs001@college.edu.in
+24IT060,Shreya S,F,IT,2024,3,B,Day Scholar,Yes,Dr. B. Prakash,95.4,24it060@college.edu.in
+25CS048,Surya E,M,CSE,2025,2,B,Hostel,No,Prof. P. Rajesh,62.7,25cs048@college.edu.in
+25CS043,Monisha Rao,F,CSE,2025,2,B,Day Scholar,Yes,Dr. R. Lakshmi,86.0,25cs043@college.edu.in
+25IT029,Naveen M,M,IT,2025,2,A,Day Scholar,No,Prof. G. Shalini,71.9,25it029@college.edu.in
+24ME030,Hema J,F,MECH,2024,3,A,Day Scholar,No,Dr. P. Selvi,74.3,24me030@college.edu.in
+23IT068,Kavin S,M,IT,2023,4,C,Day Scholar,No,Dr. T. Ramesh,90.0,23it068@college.edu.in
+24CS047,Jeevan N,M,CSE,2024,3,B,Day Scholar,Yes,Dr. K. Meenakshi,71.2,24cs047@college.edu.in
+25EC082,Swathi Sharma,F,ECE,2025,2,C,Day Scholar,No,Prof. L. Revathi,72.3,25ec082@college.edu.in
+23IT029,Naveen M,M,IT,2023,4,A,Day Scholar,Yes,Prof. G. Shalini,65.1,23it029@college.edu.in
+25CS032,Lokesh Singh,M,CSE,2025,2,A,Day Scholar,No,Prof. S. Karthikeyan,85.7,25cs032@college.edu.in
+23ME029,Lakshmi Menon,F,MECH,2023,4,A,Day Scholar,No,Prof. R. Balaji,73.1,23me029@college.edu.in
+25EC074,Ritika Menon,F,ECE,2025,2,C,Hostel,No,Prof. D. Uma,84.2,25ec074@college.edu.in
+25CS088,Nandhini J,F,CSE,2025,2,C,Day Scholar,No,Prof. V. Anand,82.4,25cs088@college.edu.in
+23CS027,Dhanush Das,M,CSE,2023,4,A,Day Scholar,No,Dr. M. Fathima,75.3,23cs027@college.edu.in
+24CS102,Jeevan L,M,CSE,2024,3,C,Day Scholar,No,Prof. P. Rajesh,70.8,24cs102@college.edu.in
+24ME011,Swathi E,F,MECH,2024,3,A,Hostel,No,Prof. R. Balaji,70.1,24me011@college.edu.in
+24EC086,Ragul C,M,ECE,2024,3,C,Day Scholar,No,Dr. J. Srinivasan,71.6,24ec086@college.edu.in
+25CS066,Arun Singh,M,CSE,2025,2,B,Day Scholar,No,Prof. P. Rajesh,55.0,25cs066@college.edu.in
+24ME055,Anjali Sharma,F,MECH,2024,3,B,Day Scholar,No,Dr. S. Murugan,67.4,24me055@college.edu.in
+24CS065,Anjali A,F,CSE,2024,3,B,Day Scholar,No,Dr. K. Meenakshi,72.6,24cs065@college.edu.in
+23CS044,Mohammed Nair,M,CSE,2023,4,B,Day Scholar,No,Prof. S. Karthikeyan,72.0,23cs044@college.edu.in
+24ME002,Lakshmi M,F,MECH,2024,3,A,Hostel,No,Prof. R. Balaji,79.6,24me002@college.edu.in
+24EC066,Shreya Reddy,F,ECE,2024,3,C,Hostel,No,Dr. J. Srinivasan,89.4,24ec066@college.edu.in
+24IT049,Pranav Rao,M,it,2024,3,B,Hostel,Yes,Prof. G. Shalini,80.6,24it049@college.edu.in
+25EC058,Shreya C,F,ECE,2025,2,B,Hostel,Yes,Dr. H. Mohan,74.7,25ec058@college.edu.in
+23EC009,Vijay Rao,M,ECE,2023,4,A,Day Scholar,No,Prof. D. Uma,97.5,23ec009@college.edu.in
+25CS101,Aishwarya K,F,CSE,2025,2,C,Hostel,No,Dr. K. Meenakshi,85.5,25cs101@college.edu.in
+23EC018,Mohammed Pillai,M,ECE,2023,4,A,Day Scholar,No,Dr. H. Mohan,76.6,23ec018@college.edu.in
+25ME038,Bharath C,M,Mech,2025,2,B,Day Scholar,Yes,Prof. R. Balaji,81.2,25me038@college.edu.in
+25IT016,Mukesh M,M,IT,2025,2,A,Hostel,No,Dr. A. Sundar,90.6,25it016@college.edu.in
+24EC040,Gokul L,M,ECE,2024,3,B,Day Scholar,No,Dr. C. Venkatesh,72.5,24ec040@college.edu.in
+24IT006,Kavin M,M,IT,2024,3,A,Day Scholar,Yes,Dr. A. Sundar,73.0,24it006@college.edu.in
+25EC088,Shreya Sharma,F,ECE,2025,2,C,Hostel,No,Dr. H. Mohan,92.5,25ec088@college.edu.in
+23CS082,Kavya R,F,CSE,2023,4,C,Day Scholar,No,Prof. V. Anand,70.6,23cs082@college.edu.in
+23ME025,Mohammed K,M,MECH,2023,4,A,Hostel,Yes,Dr. S. Murugan,73.5,23me025@college.edu.in
+23CS020,Imran Menon,M,CSE,2023,4,A,Hostel,Yes,Prof. S. Karthikeyan,75.2,23cs020@college.edu.in
+24CS095,Lokesh C,M,CSE,2024,3,C,Hostel,No,Dr. K. Meenakshi,64.9,24cs095@college.edu.in
+25CS119,Siddharth Nair,M,CSE,2025,2,C,Day Scholar,No,Dr. K. Meenakshi,82.1,25cs119@college.edu.in
+25CS039,Divya Kumar,F,CSE,2025,2,A,Day Scholar,No,Dr. M. Fathima,63.9,25cs039@college.edu.in
+23CS035,Vishal A,M,CSE,2023,4,A,Hostel,No,Dr. K. Meenakshi,65.2,23cs035@college.edu.in
+25CS089,Shreya J,F,CSE,2025,2,C,Hostel,No,Dr. K. Meenakshi,64.7,25cs089@college.edu.in
+25IT065,Anjali P,F,IT,2025,2,C,Hostel,No,Dr. B. Prakash,80.9,25it065@college.edu.in
+25CS081,Pranav A,M,CSE,2025,2,C,Hostel,Yes,Dr. M. Fathima,86.2,25cs081@college.edu.in
+23CS097,KISHORE NAIR  ,M,CSE,2023,4,C,Day Scholar,No,Dr. R. Lakshmi,78.5,23cs097@college.edu.in
+24CS087,Varsha J,F,CSE,2024,3,C,Day Scholar,Yes,Dr. M. Fathima,89.4,24cs087@college.edu.in
+24CS115,Priya A,F,CSE,2024,3,C,Day Scholar,No,Dr. R. Lakshmi,83.2,24cs115@college.edu.in
+24CS007,Santhosh Kumar,M,CSE,2024,3,A,Day Scholar,No,Dr. R. Lakshmi,78.3,24cs007@college.edu.in
+25ME041,Nithish T,M,MECH,2025,2,B,Day Scholar,Yes,Prof. R. Balaji,87.8,25me041@college.edu.in
+25CS041,Yash R,M,CSE,2025,2,B,Hostel,No,Dr. K. Meenakshi,94.1,25cs041@college.edu.in
+25IT079,Meena Reddy,F,IT,2025,2,C,Hostel,Yes,Prof. G. Shalini,61.3,25it079@college.edu.in
+25CS040,Sabari Joseph,M,cse,2025,2,A,Day Scholar,Yes,Prof. V. Anand,78.3,25cs040@college.edu.in
+24CS033,Santhosh Reddy,M,CSE,2024,3,A,Day Scholar,No,Dr. M. Fathima,70.1,24cs033@college.edu.in
+24IT027,Revathi Joseph,F,it,2024,3,A,Day Scholar,No,Prof. N. Kavitha,85.4,24it027@college.edu.in
+24CS075,Varsha R,F,CSE,2024,3,B,Day Scholar,Yes,Dr. M. Fathima,89.0,24cs075@college.edu.in
+24EC079,Divya Singh,F,ECE,2024,3,C,Day Scholar,No,Prof. D. Uma,76.7,24ec079@college.edu.in
+25EC013,Vijay G,M,ECE,2025,2,A,Hostel,Yes,Dr. H. Mohan,82.6,25ec013@college.edu.in
+25IT032,Ritika L,F,IT,2025,2,B,Day Scholar,No,Prof. N. Kavitha,83.7,25it032@college.edu.in
+23IT013,TANVI NAIR  ,F,IT,2023,4,A,Hostel,No,Dr. T. Ramesh,68.8,23it013@college.edu.in
+25EC043,Sabari Iyer,M,ECE,2025,2,B,Day Scholar,No,Dr. H. Mohan,83.3,25ec043@college.edu.in
+24CS091,Sushmitha L,F,CSE,2024,3,C,Day Scholar,Yes,Dr. R. Lakshmi,79.2,24cs091@college.edu.in
+23CS032,Nikita Joseph,F,CSE,2023,4,A,Day Scholar,Yes,Prof. S. Karthikeyan,99.5,23cs032@college.edu.in
+23IT002,Monisha K,F,IT,2023,4,A,Day Scholar,No,Prof. N. Kavitha,71.5,23it002@college.edu.in
+23EC046,Gokul Reddy,M,ECE,2023,4,B,Day Scholar,No,Dr. J. Srinivasan,94.4,23ec046@college.edu.in
+25IT053,Mukesh Sharma,M,IT,2025,2,B,Day Scholar,No,Dr. T. Ramesh,74.4,25it053@college.edu.in
+23ME060,Kishore B,M,MECH,2023,4,B,Day Scholar,Yes,Dr. P. Selvi,84.1,23me060@college.edu.in
+23CS052,Hari Iyer,M,CSE,2023,4,B,Hostel,No,Prof. V. Anand,63.3,23cs052@college.edu.in
+25IT036,MADHUMITHA V  ,F,IT,2025,2,B,Day Scholar,Yes,Dr. A. Sundar,68.5,25it036@college.edu.in
+25EC009,Tarun P,M,ECE,2025,2,A,Day Scholar,No,Prof. D. Uma,89.9,25ec009@college.edu.in
+25CS053,Praveen V,M,CSE,2025,2,B,Hostel,No,Dr. K. Meenakshi,80.3,25cs053@college.edu.in
+24ME020,Sandhya J,F,MECH,2024,3,A,Day Scholar,No,Prof. R. Balaji,95.5,24me020@college.edu.in
+25CS086,Ajith B,M,CSE,2025,2,C,Day Scholar,No,Prof. S. Karthikeyan,89.8,25cs086@college.edu.in
+23IT005,Monisha P,F,IT,2023,4,A,Hostel,No,Dr. B. Prakash,70.8,23it005@college.edu.in
+24CS045,Ramya V,F,CSE,2024,3,B,Day Scholar,No,Dr. M. Fathima,98.1,24cs045@college.edu.in
+25CS011,Rohan B,M,CSE,2025,2,A,Day Scholar,No,Dr. K. Meenakshi,70.3,25cs011@college.edu.in
+25CS112,Gayathri Singh,F,CSE,2025,2,C,Day Scholar,Yes,Prof. V. Anand,85.7,25cs112@college.edu.in
+25ME052,Nithish L,M,MECH,2025,2,B,Day Scholar,No,Dr. S. Murugan,76.9,25me052@college.edu.in
+25CS006,Yash Kumar,M,CSE,2025,2,A,Day Scholar,No,Prof. P. Rajesh,82.5,25cs006@college.edu.in
+24EC018,Deepika P,F,ECE,2024,3,A,Day Scholar,No,Dr. H. Mohan,79.1,24ec018@college.edu.in
+24EC038,Imran J,M,ECE,2024,3,B,Hostel,No,Dr. H. Mohan,69.1,24ec038@college.edu.in
+24CS074,Dharshini T,F,CSE,2024,3,B,Hostel,No,Prof. S. Karthikeyan,64.7,24cs074@college.edu.in
+24ME015,Mohammed Pillai,M,MECH,2024,3,A,Day Scholar,Yes,Dr. P. Selvi,79.3,24me015@college.edu.in
+24CS001,Santhosh Reddy,M,CSE,2024,3,A,Hostel,No,Dr. R. Lakshmi,86.5,24cs001@college.edu.in
+24CS107,JANANI L  ,F,CSE,2024,3,C,Hostel,No,Dr. K. Meenakshi,70.5,24cs107@college.edu.in
+23EC090,Vaishnavi S,F,ECE,2023,4,C,Day Scholar,No,Dr. C. Venkatesh,91.4,23ec090@college.edu.in
+24IT014,Gayathri V,F,IT,2024,3,A,Hostel,No,Prof. G. Shalini,86.7,24it014@college.edu.in
+24IT048,Ritika Kumar,F,IT,2024,3,B,Day Scholar,No,Dr. T. Ramesh,86.2,24it048@college.edu.in

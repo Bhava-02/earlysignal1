@@ -1,0 +1,19 @@
+# generated at run time (rebuilt automatically)
+__pycache__/
+*.pyc
+.ruff_cache/
+data/processed/
+data/processed_backup/
+data/uploads/
+data/demo_server/
+data/settings.json
+data/settings_previous.json
+data/connection.json
+data/last_sync.json
+# never commit passwords or keys
+.streamlit/secrets.toml
+.env
+
+# EarlySignal web server: background job results and the assembled Hugging Face Space
+data/jobs/
+deploy/space/

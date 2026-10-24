@@ -1,0 +1,5 @@
+# Extra database drivers, only needed to connect to a college server of that type.
+# MySQL / MariaDB works out of the box (pymysql is in requirements.txt).
+psycopg2-binary>=2.9   # PostgreSQL
+pymssql>=2.2           # Microsoft SQL Server
+oracledb>=1.0          # Oracle

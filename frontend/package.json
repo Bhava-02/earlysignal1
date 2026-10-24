@@ -1,0 +1,27 @@
+{
+  "name": "earlysignal-web",
+  "private": true,
+  "version": "3.0.0",
+  "type": "module",
+  "scripts": {
+    "data": "cd .. && python -m src.pipeline --web",
+    "dev": "vite",
+    "build": "vite build",
+    "build:single": "vite build --mode single",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "11.10.0",
+    "jspdf": "2.5.2",
+    "jspdf-autotable": "3.8.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.28.0",
+    "recharts": "2.15.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "vite": "5.4.11",
+    "vite-plugin-singlefile": "2.0.3"
+  }
+}

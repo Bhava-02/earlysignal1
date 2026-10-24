@@ -1,0 +1,15 @@
+# EarlySignal web server for a Hugging Face Docker Space (port 7860): the React dashboard, Data sources (server sync
+# and Excel upload), emailed sign-in codes, and the settings for Google sign-in and SMS codes.
+# The React app is built beforehand (frontend/dist), so this image needs only Python.
+FROM python:3.12-slim
+RUN useradd -m -u 1000 user
+USER user
+ENV HOME=/home/user PATH=/home/user/.local/bin:$PATH PYTHONUNBUFFERED=1 EARLYSIGNAL_WEB=1
+WORKDIR /home/user/app
+COPY --chown=user requirements-web.txt .
+RUN pip install --no-cache-dir --upgrade pip && pip install --no-cache-dir -r requirements-web.txt
+COPY --chown=user . .
+# Score the sample college once while building, so the app opens straight away
+RUN python -m src.pipeline --web
+EXPOSE 7860
+CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "7860"]

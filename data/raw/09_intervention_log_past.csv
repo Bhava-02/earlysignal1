@@ -1,0 +1,625 @@
+roll_no,semester,week,action,owner
+23CS004,2026-EVEN,7,Remedial classes,Subject faculty
+23CS007,2025-ODD,6,Remedial classes,Subject faculty
+23CS008,2026-EVEN,11,Parent call,Mentor
+23CS009,2026-EVEN,15,Counselling referral,Counsellor
+23CS010,2026-EVEN,7,Remedial classes,Subject faculty
+23CS013,2026-EVEN,8,Mentor meeting,Mentor
+23CS018,2025-ODD,6,Parent call,Mentor
+23CS020,2025-ODD,9,Parent call,Mentor
+23CS021,2025-ODD,12,Counselling referral,Counsellor
+23CS021,2026-EVEN,10,Counselling referral,Counsellor
+23CS022,2026-EVEN,14,Counselling referral,Counsellor
+23CS028,2025-ODD,6,Parent call,Mentor
+23CS028,2026-EVEN,7,Mentor meeting,Mentor
+23CS035,2026-EVEN,11,Counselling referral,Counsellor
+23CS036,2025-ODD,6,Counselling referral,Counsellor
+23CS039,2025-ODD,10,Parent call,Mentor
+23CS040,2026-EVEN,5,Mentor meeting,Mentor
+23CS044,2025-ODD,5,Remedial classes,Subject faculty
+23CS047,2025-ODD,11,Mentor meeting,Mentor
+23CS050,2026-EVEN,10,Mentor meeting,Mentor
+23CS052,2026-EVEN,9,Peer tutoring,Subject faculty
+23CS053,2025-ODD,14,Parent call,Mentor
+23CS057,2025-ODD,7,Counselling referral,Counsellor
+23CS057,2026-EVEN,8,Parent call,Mentor
+23CS058,2025-ODD,5,Counselling referral,Counsellor
+23CS058,2026-EVEN,6,Peer tutoring,Subject faculty
+23CS062,2026-EVEN,15,Counselling referral,Counsellor
+23CS063,2026-EVEN,6,Peer tutoring,Subject faculty
+23CS064,2025-ODD,9,Peer tutoring,Subject faculty
+23CS071,2025-ODD,6,Counselling referral,Counsellor
+23CS071,2026-EVEN,5,Parent call,Mentor
+23CS076,2025-ODD,14,Counselling referral,Counsellor
+23CS084,2026-EVEN,9,Parent call,Mentor
+23CS085,2025-ODD,7,Parent call,Mentor
+23CS087,2025-ODD,9,Mentor meeting,Mentor
+23CS087,2026-EVEN,13,Counselling referral,Counsellor
+23CS090,2025-ODD,12,Parent call,Mentor
+23CS091,2025-ODD,6,Parent call,Mentor
+23CS094,2026-EVEN,10,Remedial classes,Subject faculty
+23CS096,2025-ODD,9,Parent call,Mentor
+23CS096,2026-EVEN,8,Peer tutoring,Subject faculty
+23CS097,2025-ODD,16,Remedial classes,Subject faculty
+23CS097,2026-EVEN,5,Remedial classes,Subject faculty
+23CS099,2025-ODD,13,Parent call,Mentor
+23CS101,2025-ODD,7,Mentor meeting,Mentor
+23CS101,2026-EVEN,8,Mentor meeting,Mentor
+23CS103,2025-ODD,6,Counselling referral,Counsellor
+23CS104,2026-EVEN,6,Counselling referral,Counsellor
+23CS105,2026-EVEN,16,Mentor meeting,Mentor
+23CS107,2025-ODD,5,Parent call,Mentor
+23CS107,2026-EVEN,7,Parent call,Mentor
+23CS108,2025-ODD,6,Mentor meeting,Mentor
+23CS108,2026-EVEN,8,Remedial classes,Subject faculty
+23CS112,2025-ODD,13,Peer tutoring,Subject faculty
+23CS116,2026-EVEN,7,Parent call,Mentor
+23IT004,2026-EVEN,8,Mentor meeting,Mentor
+23IT010,2026-EVEN,14,Counselling referral,Counsellor
+23IT012,2025-ODD,16,Parent call,Mentor
+23IT014,2026-EVEN,5,Mentor meeting,Mentor
+23IT015,2026-EVEN,9,Remedial classes,Subject faculty
+23IT017,2026-EVEN,7,Counselling referral,Counsellor
+23IT018,2026-EVEN,9,Mentor meeting,Mentor
+23IT021,2025-ODD,12,Counselling referral,Counsellor
+23IT021,2026-EVEN,6,Peer tutoring,Subject faculty
+23IT024,2026-EVEN,6,Mentor meeting,Mentor
+23IT025,2025-ODD,7,Mentor meeting,Mentor
+23IT025,2026-EVEN,14,Peer tutoring,Subject faculty
+23IT026,2026-EVEN,5,Remedial classes,Subject faculty
+23IT027,2025-ODD,9,Mentor meeting,Mentor
+23IT027,2026-EVEN,5,Mentor meeting,Mentor
+23IT028,2026-EVEN,8,Counselling referral,Counsellor
+23IT029,2025-ODD,7,Mentor meeting,Mentor
+23IT031,2026-EVEN,10,Peer tutoring,Subject faculty
+23IT033,2025-ODD,7,Parent call,Mentor
+23IT033,2026-EVEN,6,Parent call,Mentor
+23IT037,2026-EVEN,5,Parent call,Mentor
+23IT038,2025-ODD,10,Remedial classes,Subject faculty
+23IT039,2025-ODD,6,Remedial classes,Subject faculty
+23IT041,2025-ODD,6,Remedial classes,Subject faculty
+23IT041,2026-EVEN,5,Mentor meeting,Mentor
+23IT042,2025-ODD,11,Mentor meeting,Mentor
+23IT043,2025-ODD,12,Mentor meeting,Mentor
+23IT046,2025-ODD,10,Peer tutoring,Subject faculty
+23IT046,2026-EVEN,6,Remedial classes,Subject faculty
+23IT047,2025-ODD,11,Counselling referral,Counsellor
+23IT049,2025-ODD,11,Remedial classes,Subject faculty
+23IT050,2025-ODD,13,Counselling referral,Counsellor
+23IT050,2026-EVEN,6,Parent call,Mentor
+23IT052,2025-ODD,6,Parent call,Mentor
+23IT053,2025-ODD,8,Counselling referral,Counsellor
+23IT056,2026-EVEN,5,Counselling referral,Counsellor
+23IT057,2026-EVEN,6,Parent call,Mentor
+23IT058,2026-EVEN,16,Parent call,Mentor
+23IT061,2026-EVEN,15,Mentor meeting,Mentor
+23IT063,2025-ODD,15,Counselling referral,Counsellor
+23IT066,2025-ODD,10,Peer tutoring,Subject faculty
+23IT068,2026-EVEN,9,Counselling referral,Counsellor
+23IT069,2025-ODD,6,Parent call,Mentor
+23IT069,2026-EVEN,16,Parent call,Mentor
+23IT071,2025-ODD,6,Remedial classes,Subject faculty
+23IT073,2025-ODD,5,Parent call,Mentor
+23IT075,2026-EVEN,11,Peer tutoring,Subject faculty
+23IT078,2025-ODD,6,Mentor meeting,Mentor
+23IT078,2026-EVEN,11,Parent call,Mentor
+23IT079,2025-ODD,5,Mentor meeting,Mentor
+23IT079,2026-EVEN,6,Peer tutoring,Subject faculty
+23IT081,2025-ODD,11,Parent call,Mentor
+23IT084,2026-EVEN,10,Counselling referral,Counsellor
+23IT085,2026-EVEN,8,Mentor meeting,Mentor
+23IT086,2025-ODD,5,Counselling referral,Counsellor
+23IT087,2025-ODD,9,Parent call,Mentor
+23IT088,2026-EVEN,8,Peer tutoring,Subject faculty
+23IT090,2025-ODD,7,Peer tutoring,Subject faculty
+23IT090,2026-EVEN,9,Parent call,Mentor
+23EC002,2025-ODD,12,Peer tutoring,Subject faculty
+23EC002,2026-EVEN,6,Peer tutoring,Subject faculty
+23EC016,2025-ODD,7,Peer tutoring,Subject faculty
+23EC017,2026-EVEN,13,Remedial classes,Subject faculty
+23EC018,2026-EVEN,10,Counselling referral,Counsellor
+23EC019,2026-EVEN,6,Mentor meeting,Mentor
+23EC020,2025-ODD,7,Parent call,Mentor
+23EC021,2025-ODD,10,Remedial classes,Subject faculty
+23EC023,2025-ODD,16,Peer tutoring,Subject faculty
+23EC024,2026-EVEN,15,Mentor meeting,Mentor
+23EC028,2026-EVEN,5,Remedial classes,Subject faculty
+23EC029,2025-ODD,9,Remedial classes,Subject faculty
+23EC036,2025-ODD,13,Mentor meeting,Mentor
+23EC039,2026-EVEN,9,Mentor meeting,Mentor
+23EC042,2026-EVEN,6,Parent call,Mentor
+23EC046,2025-ODD,16,Mentor meeting,Mentor
+23EC048,2026-EVEN,7,Counselling referral,Counsellor
+23EC049,2025-ODD,16,Mentor meeting,Mentor
+23EC049,2026-EVEN,8,Mentor meeting,Mentor
+23EC050,2025-ODD,6,Counselling referral,Counsellor
+23EC054,2026-EVEN,12,Parent call,Mentor
+23EC058,2025-ODD,7,Mentor meeting,Mentor
+23EC060,2026-EVEN,5,Peer tutoring,Subject faculty
+23EC061,2025-ODD,12,Peer tutoring,Subject faculty
+23EC062,2026-EVEN,12,Peer tutoring,Subject faculty
+23EC063,2025-ODD,16,Counselling referral,Counsellor
+23EC063,2026-EVEN,6,Peer tutoring,Subject faculty
+23EC066,2026-EVEN,7,Peer tutoring,Subject faculty
+23EC067,2025-ODD,6,Mentor meeting,Mentor
+23EC068,2025-ODD,12,Counselling referral,Counsellor
+23EC068,2026-EVEN,5,Parent call,Mentor
+23EC070,2025-ODD,6,Parent call,Mentor
+23EC070,2026-EVEN,15,Mentor meeting,Mentor
+23EC077,2025-ODD,6,Counselling referral,Counsellor
+23EC077,2026-EVEN,11,Counselling referral,Counsellor
+23EC078,2025-ODD,12,Parent call,Mentor
+23EC079,2025-ODD,10,Parent call,Mentor
+23EC079,2026-EVEN,6,Parent call,Mentor
+23EC083,2026-EVEN,5,Counselling referral,Counsellor
+23EC084,2026-EVEN,6,Counselling referral,Counsellor
+23EC086,2025-ODD,16,Counselling referral,Counsellor
+23EC087,2026-EVEN,5,Parent call,Mentor
+23EC088,2026-EVEN,6,Counselling referral,Counsellor
+23EC089,2026-EVEN,8,Mentor meeting,Mentor
+23EC090,2025-ODD,6,Peer tutoring,Subject faculty
+23ME002,2025-ODD,7,Mentor meeting,Mentor
+23ME003,2026-EVEN,7,Remedial classes,Subject faculty
+23ME005,2025-ODD,6,Parent call,Mentor
+23ME011,2026-EVEN,10,Mentor meeting,Mentor
+23ME013,2025-ODD,5,Peer tutoring,Subject faculty
+23ME013,2026-EVEN,13,Mentor meeting,Mentor
+23ME015,2025-ODD,10,Parent call,Mentor
+23ME017,2025-ODD,8,Parent call,Mentor
+23ME018,2026-EVEN,12,Counselling referral,Counsellor
+23ME020,2025-ODD,13,Remedial classes,Subject faculty
+23ME023,2026-EVEN,11,Mentor meeting,Mentor
+23ME024,2025-ODD,6,Remedial classes,Subject faculty
+23ME024,2026-EVEN,9,Mentor meeting,Mentor
+23ME028,2025-ODD,11,Mentor meeting,Mentor
+23ME028,2026-EVEN,7,Remedial classes,Subject faculty
+23ME029,2025-ODD,7,Parent call,Mentor
+23ME030,2025-ODD,11,Counselling referral,Counsellor
+23ME031,2025-ODD,6,Mentor meeting,Mentor
+23ME033,2026-EVEN,9,Counselling referral,Counsellor
+23ME034,2025-ODD,7,Counselling referral,Counsellor
+23ME034,2026-EVEN,7,Peer tutoring,Subject faculty
+23ME037,2025-ODD,6,Peer tutoring,Subject faculty
+23ME037,2026-EVEN,12,Remedial classes,Subject faculty
+23ME041,2026-EVEN,15,Remedial classes,Subject faculty
+23ME042,2025-ODD,7,Parent call,Mentor
+23ME043,2026-EVEN,6,Parent call,Mentor
+23ME045,2025-ODD,6,Counselling referral,Counsellor
+23ME046,2025-ODD,7,Parent call,Mentor
+23ME046,2026-EVEN,10,Parent call,Mentor
+23ME051,2025-ODD,12,Peer tutoring,Subject faculty
+23ME052,2025-ODD,9,Counselling referral,Counsellor
+23ME054,2025-ODD,5,Peer tutoring,Subject faculty
+23ME055,2026-EVEN,11,Parent call,Mentor
+23ME057,2025-ODD,10,Mentor meeting,Mentor
+23ME057,2026-EVEN,11,Remedial classes,Subject faculty
+24CS002,2026-EVEN,8,Remedial classes,Subject faculty
+24CS003,2026-EVEN,6,Parent call,Mentor
+24CS004,2026-EVEN,9,Parent call,Mentor
+24CS007,2025-ODD,12,Parent call,Mentor
+24CS008,2025-ODD,9,Counselling referral,Counsellor
+24CS009,2025-ODD,6,Counselling referral,Counsellor
+24CS009,2026-EVEN,6,Parent call,Mentor
+24CS010,2026-EVEN,5,Parent call,Mentor
+24CS011,2025-ODD,11,Remedial classes,Subject faculty
+24CS014,2026-EVEN,9,Remedial classes,Subject faculty
+24CS019,2026-EVEN,13,Remedial classes,Subject faculty
+24CS021,2025-ODD,12,Remedial classes,Subject faculty
+24CS022,2026-EVEN,11,Mentor meeting,Mentor
+24CS026,2025-ODD,13,Peer tutoring,Subject faculty
+24CS027,2025-ODD,11,Mentor meeting,Mentor
+24CS027,2026-EVEN,7,Counselling referral,Counsellor
+24CS031,2025-ODD,15,Remedial classes,Subject faculty
+24CS032,2026-EVEN,10,Parent call,Mentor
+24CS033,2026-EVEN,13,Parent call,Mentor
+24CS035,2025-ODD,11,Counselling referral,Counsellor
+24CS035,2026-EVEN,6,Parent call,Mentor
+24CS036,2025-ODD,9,Peer tutoring,Subject faculty
+24CS040,2025-ODD,11,Mentor meeting,Mentor
+24CS040,2026-EVEN,14,Peer tutoring,Subject faculty
+24CS043,2026-EVEN,8,Counselling referral,Counsellor
+24CS044,2026-EVEN,5,Peer tutoring,Subject faculty
+24CS045,2025-ODD,10,Mentor meeting,Mentor
+24CS045,2026-EVEN,12,Mentor meeting,Mentor
+24CS046,2026-EVEN,8,Parent call,Mentor
+24CS048,2025-ODD,16,Mentor meeting,Mentor
+24CS049,2025-ODD,5,Mentor meeting,Mentor
+24CS050,2025-ODD,7,Mentor meeting,Mentor
+24CS052,2026-EVEN,13,Mentor meeting,Mentor
+24CS053,2025-ODD,8,Mentor meeting,Mentor
+24CS053,2026-EVEN,12,Counselling referral,Counsellor
+24CS055,2025-ODD,6,Mentor meeting,Mentor
+24CS056,2025-ODD,16,Mentor meeting,Mentor
+24CS058,2026-EVEN,9,Counselling referral,Counsellor
+24CS060,2025-ODD,6,Peer tutoring,Subject faculty
+24CS060,2026-EVEN,8,Remedial classes,Subject faculty
+24CS062,2025-ODD,12,Parent call,Mentor
+24CS064,2025-ODD,12,Parent call,Mentor
+24CS064,2026-EVEN,12,Parent call,Mentor
+24CS065,2025-ODD,16,Peer tutoring,Subject faculty
+24CS065,2026-EVEN,9,Counselling referral,Counsellor
+24CS066,2025-ODD,8,Parent call,Mentor
+24CS068,2025-ODD,10,Parent call,Mentor
+24CS070,2025-ODD,10,Remedial classes,Subject faculty
+24CS071,2026-EVEN,10,Counselling referral,Counsellor
+24CS072,2025-ODD,10,Parent call,Mentor
+24CS072,2026-EVEN,10,Remedial classes,Subject faculty
+24CS073,2026-EVEN,6,Counselling referral,Counsellor
+24CS081,2026-EVEN,16,Parent call,Mentor
+24CS082,2025-ODD,9,Mentor meeting,Mentor
+24CS082,2026-EVEN,16,Mentor meeting,Mentor
+24CS083,2025-ODD,16,Counselling referral,Counsellor
+24CS083,2026-EVEN,10,Peer tutoring,Subject faculty
+24CS088,2025-ODD,6,Remedial classes,Subject faculty
+24CS094,2025-ODD,16,Mentor meeting,Mentor
+24CS096,2025-ODD,6,Peer tutoring,Subject faculty
+24CS096,2026-EVEN,5,Parent call,Mentor
+24CS097,2026-EVEN,10,Mentor meeting,Mentor
+24CS098,2025-ODD,15,Remedial classes,Subject faculty
+24CS099,2026-EVEN,9,Remedial classes,Subject faculty
+24CS102,2026-EVEN,10,Peer tutoring,Subject faculty
+24CS108,2025-ODD,10,Mentor meeting,Mentor
+24CS110,2025-ODD,5,Parent call,Mentor
+24CS110,2026-EVEN,6,Peer tutoring,Subject faculty
+24CS112,2025-ODD,9,Remedial classes,Subject faculty
+24CS112,2026-EVEN,7,Counselling referral,Counsellor
+24CS113,2025-ODD,11,Counselling referral,Counsellor
+24CS116,2025-ODD,10,Counselling referral,Counsellor
+24CS116,2026-EVEN,6,Mentor meeting,Mentor
+24IT005,2025-ODD,11,Remedial classes,Subject faculty
+24IT006,2026-EVEN,9,Parent call,Mentor
+24IT011,2025-ODD,6,Mentor meeting,Mentor
+24IT011,2026-EVEN,5,Mentor meeting,Mentor
+24IT014,2025-ODD,8,Mentor meeting,Mentor
+24IT015,2025-ODD,9,Peer tutoring,Subject faculty
+24IT019,2025-ODD,8,Mentor meeting,Mentor
+24IT019,2026-EVEN,10,Mentor meeting,Mentor
+24IT024,2025-ODD,14,Remedial classes,Subject faculty
+24IT026,2025-ODD,9,Parent call,Mentor
+24IT027,2025-ODD,12,Counselling referral,Counsellor
+24IT028,2026-EVEN,12,Counselling referral,Counsellor
+24IT030,2025-ODD,7,Counselling referral,Counsellor
+24IT030,2026-EVEN,16,Remedial classes,Subject faculty
+24IT031,2025-ODD,13,Parent call,Mentor
+24IT032,2025-ODD,8,Parent call,Mentor
+24IT032,2026-EVEN,14,Counselling referral,Counsellor
+24IT033,2025-ODD,8,Remedial classes,Subject faculty
+24IT033,2026-EVEN,6,Mentor meeting,Mentor
+24IT035,2025-ODD,9,Mentor meeting,Mentor
+24IT036,2025-ODD,7,Mentor meeting,Mentor
+24IT038,2025-ODD,13,Parent call,Mentor
+24IT039,2026-EVEN,5,Remedial classes,Subject faculty
+24IT043,2026-EVEN,10,Counselling referral,Counsellor
+24IT044,2026-EVEN,9,Peer tutoring,Subject faculty
+24IT045,2025-ODD,12,Peer tutoring,Subject faculty
+24IT049,2026-EVEN,10,Mentor meeting,Mentor
+24IT051,2025-ODD,14,Remedial classes,Subject faculty
+24IT057,2026-EVEN,10,Counselling referral,Counsellor
+24IT059,2026-EVEN,5,Mentor meeting,Mentor
+24IT061,2025-ODD,11,Counselling referral,Counsellor
+24IT063,2026-EVEN,7,Counselling referral,Counsellor
+24IT066,2026-EVEN,11,Counselling referral,Counsellor
+24IT069,2025-ODD,16,Mentor meeting,Mentor
+24IT069,2026-EVEN,16,Peer tutoring,Subject faculty
+24IT070,2025-ODD,15,Mentor meeting,Mentor
+24IT073,2025-ODD,11,Remedial classes,Subject faculty
+24IT073,2026-EVEN,14,Mentor meeting,Mentor
+24IT074,2026-EVEN,9,Remedial classes,Subject faculty
+24IT075,2025-ODD,16,Mentor meeting,Mentor
+24IT075,2026-EVEN,5,Peer tutoring,Subject faculty
+24IT077,2025-ODD,14,Parent call,Mentor
+24IT079,2026-EVEN,5,Parent call,Mentor
+24IT081,2025-ODD,11,Remedial classes,Subject faculty
+24IT082,2025-ODD,9,Peer tutoring,Subject faculty
+24IT082,2026-EVEN,13,Counselling referral,Counsellor
+24IT083,2025-ODD,6,Parent call,Mentor
+24IT083,2026-EVEN,14,Parent call,Mentor
+24IT084,2026-EVEN,12,Parent call,Mentor
+24IT085,2025-ODD,5,Parent call,Mentor
+24IT085,2026-EVEN,7,Parent call,Mentor
+24IT086,2026-EVEN,6,Mentor meeting,Mentor
+24IT087,2025-ODD,15,Parent call,Mentor
+24IT087,2026-EVEN,6,Mentor meeting,Mentor
+24IT088,2025-ODD,11,Parent call,Mentor
+24IT089,2025-ODD,7,Remedial classes,Subject faculty
+24IT089,2026-EVEN,8,Parent call,Mentor
+24EC001,2026-EVEN,16,Counselling referral,Counsellor
+24EC002,2026-EVEN,11,Peer tutoring,Subject faculty
+24EC003,2026-EVEN,9,Mentor meeting,Mentor
+24EC005,2025-ODD,7,Counselling referral,Counsellor
+24EC005,2026-EVEN,12,Parent call,Mentor
+24EC006,2025-ODD,10,Counselling referral,Counsellor
+24EC009,2025-ODD,8,Parent call,Mentor
+24EC009,2026-EVEN,6,Mentor meeting,Mentor
+24EC010,2025-ODD,11,Remedial classes,Subject faculty
+24EC012,2026-EVEN,6,Parent call,Mentor
+24EC014,2026-EVEN,7,Parent call,Mentor
+24EC016,2025-ODD,10,Remedial classes,Subject faculty
+24EC017,2025-ODD,10,Mentor meeting,Mentor
+24EC024,2026-EVEN,15,Counselling referral,Counsellor
+24EC028,2026-EVEN,13,Counselling referral,Counsellor
+24EC029,2025-ODD,9,Remedial classes,Subject faculty
+24EC029,2026-EVEN,8,Peer tutoring,Subject faculty
+24EC030,2025-ODD,13,Parent call,Mentor
+24EC032,2025-ODD,7,Mentor meeting,Mentor
+24EC034,2025-ODD,6,Counselling referral,Counsellor
+24EC036,2026-EVEN,12,Parent call,Mentor
+24EC038,2026-EVEN,10,Peer tutoring,Subject faculty
+24EC040,2026-EVEN,11,Peer tutoring,Subject faculty
+24EC042,2026-EVEN,6,Counselling referral,Counsellor
+24EC043,2026-EVEN,12,Mentor meeting,Mentor
+24EC045,2025-ODD,10,Parent call,Mentor
+24EC047,2025-ODD,16,Remedial classes,Subject faculty
+24EC053,2026-EVEN,9,Counselling referral,Counsellor
+24EC055,2025-ODD,9,Remedial classes,Subject faculty
+24EC056,2025-ODD,5,Counselling referral,Counsellor
+24EC056,2026-EVEN,6,Peer tutoring,Subject faculty
+24EC061,2026-EVEN,13,Remedial classes,Subject faculty
+24EC062,2025-ODD,10,Parent call,Mentor
+24EC062,2026-EVEN,5,Remedial classes,Subject faculty
+24EC063,2025-ODD,10,Counselling referral,Counsellor
+24EC063,2026-EVEN,7,Peer tutoring,Subject faculty
+24EC064,2026-EVEN,14,Parent call,Mentor
+24EC067,2025-ODD,6,Mentor meeting,Mentor
+24EC067,2026-EVEN,11,Parent call,Mentor
+24EC068,2025-ODD,12,Counselling referral,Counsellor
+24EC068,2026-EVEN,8,Mentor meeting,Mentor
+24EC069,2025-ODD,16,Peer tutoring,Subject faculty
+24EC069,2026-EVEN,6,Peer tutoring,Subject faculty
+24EC071,2025-ODD,7,Parent call,Mentor
+24EC073,2026-EVEN,14,Mentor meeting,Mentor
+24EC074,2025-ODD,14,Remedial classes,Subject faculty
+24EC074,2026-EVEN,16,Peer tutoring,Subject faculty
+24EC075,2026-EVEN,10,Mentor meeting,Mentor
+24EC077,2025-ODD,6,Peer tutoring,Subject faculty
+24EC078,2026-EVEN,14,Counselling referral,Counsellor
+24EC080,2025-ODD,7,Counselling referral,Counsellor
+24EC084,2025-ODD,16,Remedial classes,Subject faculty
+24EC086,2025-ODD,8,Remedial classes,Subject faculty
+24EC087,2025-ODD,9,Counselling referral,Counsellor
+24EC088,2025-ODD,13,Peer tutoring,Subject faculty
+24EC088,2026-EVEN,12,Remedial classes,Subject faculty
+24EC089,2025-ODD,9,Remedial classes,Subject faculty
+24EC090,2026-EVEN,11,Parent call,Mentor
+24ME001,2025-ODD,14,Counselling referral,Counsellor
+24ME001,2026-EVEN,16,Remedial classes,Subject faculty
+24ME002,2026-EVEN,9,Peer tutoring,Subject faculty
+24ME004,2025-ODD,6,Parent call,Mentor
+24ME004,2026-EVEN,12,Parent call,Mentor
+24ME009,2026-EVEN,7,Remedial classes,Subject faculty
+24ME012,2025-ODD,15,Mentor meeting,Mentor
+24ME014,2025-ODD,14,Peer tutoring,Subject faculty
+24ME019,2025-ODD,6,Parent call,Mentor
+24ME020,2025-ODD,13,Peer tutoring,Subject faculty
+24ME022,2026-EVEN,8,Counselling referral,Counsellor
+24ME023,2025-ODD,5,Counselling referral,Counsellor
+24ME025,2026-EVEN,13,Peer tutoring,Subject faculty
+24ME026,2025-ODD,16,Counselling referral,Counsellor
+24ME026,2026-EVEN,11,Counselling referral,Counsellor
+24ME032,2025-ODD,14,Peer tutoring,Subject faculty
+24ME035,2026-EVEN,8,Mentor meeting,Mentor
+24ME038,2026-EVEN,5,Parent call,Mentor
+24ME041,2026-EVEN,6,Remedial classes,Subject faculty
+24ME042,2026-EVEN,9,Mentor meeting,Mentor
+24ME045,2025-ODD,6,Parent call,Mentor
+24ME046,2025-ODD,5,Remedial classes,Subject faculty
+24ME046,2026-EVEN,5,Counselling referral,Counsellor
+24ME047,2026-EVEN,14,Mentor meeting,Mentor
+24ME048,2025-ODD,5,Counselling referral,Counsellor
+24ME049,2025-ODD,9,Counselling referral,Counsellor
+24ME051,2025-ODD,11,Parent call,Mentor
+24ME053,2025-ODD,6,Counselling referral,Counsellor
+24ME054,2025-ODD,7,Counselling referral,Counsellor
+24ME054,2026-EVEN,9,Counselling referral,Counsellor
+24ME055,2025-ODD,6,Mentor meeting,Mentor
+24ME055,2026-EVEN,7,Remedial classes,Subject faculty
+24ME056,2025-ODD,5,Remedial classes,Subject faculty
+24ME057,2026-EVEN,6,Remedial classes,Subject faculty
+24ME058,2026-EVEN,15,Peer tutoring,Subject faculty
+24ME059,2025-ODD,13,Counselling referral,Counsellor
+24ME059,2026-EVEN,7,Peer tutoring,Subject faculty
+25CS001,2025-ODD,12,Remedial classes,Subject faculty
+25CS005,2026-EVEN,12,Mentor meeting,Mentor
+25CS007,2026-EVEN,13,Parent call,Mentor
+25CS012,2025-ODD,10,Mentor meeting,Mentor
+25CS013,2025-ODD,13,Peer tutoring,Subject faculty
+25CS013,2026-EVEN,11,Parent call,Mentor
+25CS015,2026-EVEN,11,Remedial classes,Subject faculty
+25CS016,2026-EVEN,10,Peer tutoring,Subject faculty
+25CS018,2025-ODD,6,Mentor meeting,Mentor
+25CS021,2025-ODD,10,Counselling referral,Counsellor
+25CS022,2025-ODD,12,Remedial classes,Subject faculty
+25CS022,2026-EVEN,11,Mentor meeting,Mentor
+25CS025,2026-EVEN,15,Remedial classes,Subject faculty
+25CS028,2026-EVEN,12,Peer tutoring,Subject faculty
+25CS030,2026-EVEN,11,Parent call,Mentor
+25CS034,2025-ODD,6,Parent call,Mentor
+25CS035,2025-ODD,6,Peer tutoring,Subject faculty
+25CS035,2026-EVEN,6,Remedial classes,Subject faculty
+25CS036,2025-ODD,15,Peer tutoring,Subject faculty
+25CS036,2026-EVEN,6,Peer tutoring,Subject faculty
+25CS037,2026-EVEN,6,Remedial classes,Subject faculty
+25CS039,2025-ODD,5,Parent call,Mentor
+25CS042,2025-ODD,16,Counselling referral,Counsellor
+25CS044,2025-ODD,11,Counselling referral,Counsellor
+25CS044,2026-EVEN,8,Counselling referral,Counsellor
+25CS045,2025-ODD,12,Remedial classes,Subject faculty
+25CS048,2026-EVEN,5,Counselling referral,Counsellor
+25CS050,2026-EVEN,8,Counselling referral,Counsellor
+25CS051,2026-EVEN,6,Parent call,Mentor
+25CS052,2026-EVEN,5,Peer tutoring,Subject faculty
+25CS054,2026-EVEN,12,Mentor meeting,Mentor
+25CS057,2026-EVEN,11,Remedial classes,Subject faculty
+25CS058,2025-ODD,10,Parent call,Mentor
+25CS065,2025-ODD,6,Peer tutoring,Subject faculty
+25CS067,2026-EVEN,5,Parent call,Mentor
+25CS068,2025-ODD,16,Mentor meeting,Mentor
+25CS071,2025-ODD,12,Peer tutoring,Subject faculty
+25CS072,2026-EVEN,7,Mentor meeting,Mentor
+25CS074,2025-ODD,6,Peer tutoring,Subject faculty
+25CS075,2026-EVEN,10,Remedial classes,Subject faculty
+25CS076,2025-ODD,5,Peer tutoring,Subject faculty
+25CS076,2026-EVEN,5,Parent call,Mentor
+25CS078,2025-ODD,9,Mentor meeting,Mentor
+25CS079,2026-EVEN,8,Counselling referral,Counsellor
+25CS080,2026-EVEN,11,Mentor meeting,Mentor
+25CS083,2025-ODD,12,Remedial classes,Subject faculty
+25CS083,2026-EVEN,10,Mentor meeting,Mentor
+25CS085,2025-ODD,6,Peer tutoring,Subject faculty
+25CS085,2026-EVEN,5,Parent call,Mentor
+25CS094,2026-EVEN,9,Parent call,Mentor
+25CS097,2025-ODD,6,Parent call,Mentor
+25CS098,2026-EVEN,11,Mentor meeting,Mentor
+25CS099,2026-EVEN,10,Mentor meeting,Mentor
+25CS102,2026-EVEN,12,Mentor meeting,Mentor
+25CS103,2026-EVEN,7,Mentor meeting,Mentor
+25CS104,2025-ODD,13,Mentor meeting,Mentor
+25CS107,2025-ODD,9,Parent call,Mentor
+25CS107,2026-EVEN,9,Parent call,Mentor
+25CS109,2025-ODD,5,Parent call,Mentor
+25CS109,2026-EVEN,5,Mentor meeting,Mentor
+25CS110,2025-ODD,6,Peer tutoring,Subject faculty
+25CS110,2026-EVEN,10,Remedial classes,Subject faculty
+25CS113,2026-EVEN,7,Remedial classes,Subject faculty
+25CS117,2026-EVEN,6,Mentor meeting,Mentor
+25CS119,2025-ODD,6,Counselling referral,Counsellor
+25CS119,2026-EVEN,6,Mentor meeting,Mentor
+25IT002,2025-ODD,13,Counselling referral,Counsellor
+25IT003,2025-ODD,7,Remedial classes,Subject faculty
+25IT005,2026-EVEN,10,Remedial classes,Subject faculty
+25IT006,2025-ODD,11,Remedial classes,Subject faculty
+25IT007,2025-ODD,5,Parent call,Mentor
+25IT008,2025-ODD,8,Peer tutoring,Subject faculty
+25IT008,2026-EVEN,10,Parent call,Mentor
+25IT012,2025-ODD,13,Mentor meeting,Mentor
+25IT013,2026-EVEN,10,Remedial classes,Subject faculty
+25IT018,2025-ODD,11,Mentor meeting,Mentor
+25IT019,2026-EVEN,11,Parent call,Mentor
+25IT020,2026-EVEN,8,Peer tutoring,Subject faculty
+25IT021,2025-ODD,11,Parent call,Mentor
+25IT026,2026-EVEN,9,Counselling referral,Counsellor
+25IT029,2026-EVEN,16,Peer tutoring,Subject faculty
+25IT030,2025-ODD,16,Peer tutoring,Subject faculty
+25IT030,2026-EVEN,10,Parent call,Mentor
+25IT031,2026-EVEN,7,Counselling referral,Counsellor
+25IT032,2025-ODD,8,Mentor meeting,Mentor
+25IT032,2026-EVEN,12,Counselling referral,Counsellor
+25IT034,2025-ODD,13,Counselling referral,Counsellor
+25IT038,2026-EVEN,8,Parent call,Mentor
+25IT039,2026-EVEN,5,Peer tutoring,Subject faculty
+25IT041,2026-EVEN,12,Mentor meeting,Mentor
+25IT047,2026-EVEN,7,Parent call,Mentor
+25IT050,2025-ODD,7,Parent call,Mentor
+25IT052,2026-EVEN,7,Mentor meeting,Mentor
+25IT053,2026-EVEN,10,Counselling referral,Counsellor
+25IT054,2026-EVEN,16,Peer tutoring,Subject faculty
+25IT057,2026-EVEN,10,Peer tutoring,Subject faculty
+25IT059,2025-ODD,14,Peer tutoring,Subject faculty
+25IT059,2026-EVEN,8,Counselling referral,Counsellor
+25IT060,2025-ODD,10,Peer tutoring,Subject faculty
+25IT061,2026-EVEN,12,Counselling referral,Counsellor
+25IT062,2025-ODD,6,Counselling referral,Counsellor
+25IT062,2026-EVEN,7,Peer tutoring,Subject faculty
+25IT064,2026-EVEN,11,Peer tutoring,Subject faculty
+25IT065,2025-ODD,11,Peer tutoring,Subject faculty
+25IT065,2026-EVEN,9,Parent call,Mentor
+25IT067,2026-EVEN,13,Parent call,Mentor
+25IT068,2025-ODD,14,Mentor meeting,Mentor
+25IT069,2025-ODD,7,Parent call,Mentor
+25IT072,2025-ODD,10,Remedial classes,Subject faculty
+25IT072,2026-EVEN,6,Mentor meeting,Mentor
+25IT073,2026-EVEN,8,Counselling referral,Counsellor
+25IT074,2026-EVEN,9,Mentor meeting,Mentor
+25IT076,2026-EVEN,10,Counselling referral,Counsellor
+25IT079,2026-EVEN,10,Parent call,Mentor
+25IT080,2025-ODD,14,Remedial classes,Subject faculty
+25IT080,2026-EVEN,10,Mentor meeting,Mentor
+25IT083,2025-ODD,10,Peer tutoring,Subject faculty
+25IT083,2026-EVEN,6,Peer tutoring,Subject faculty
+25IT086,2026-EVEN,9,Remedial classes,Subject faculty
+25IT087,2026-EVEN,6,Mentor meeting,Mentor
+25IT090,2026-EVEN,7,Peer tutoring,Subject faculty
+25EC004,2025-ODD,6,Mentor meeting,Mentor
+25EC004,2026-EVEN,9,Counselling referral,Counsellor
+25EC006,2025-ODD,7,Remedial classes,Subject faculty
+25EC006,2026-EVEN,15,Mentor meeting,Mentor
+25EC007,2025-ODD,10,Counselling referral,Counsellor
+25EC008,2025-ODD,5,Counselling referral,Counsellor
+25EC009,2025-ODD,10,Remedial classes,Subject faculty
+25EC011,2025-ODD,10,Mentor meeting,Mentor
+25EC014,2026-EVEN,16,Counselling referral,Counsellor
+25EC015,2026-EVEN,5,Counselling referral,Counsellor
+25EC017,2026-EVEN,6,Peer tutoring,Subject faculty
+25EC018,2026-EVEN,16,Counselling referral,Counsellor
+25EC024,2026-EVEN,7,Peer tutoring,Subject faculty
+25EC025,2025-ODD,10,Counselling referral,Counsellor
+25EC027,2025-ODD,6,Peer tutoring,Subject faculty
+25EC027,2026-EVEN,10,Peer tutoring,Subject faculty
+25EC029,2026-EVEN,12,Peer tutoring,Subject faculty
+25EC030,2025-ODD,5,Remedial classes,Subject faculty
+25EC030,2026-EVEN,5,Mentor meeting,Mentor
+25EC033,2026-EVEN,5,Remedial classes,Subject faculty
+25EC034,2025-ODD,10,Mentor meeting,Mentor
+25EC035,2026-EVEN,5,Peer tutoring,Subject faculty
+25EC038,2026-EVEN,6,Peer tutoring,Subject faculty
+25EC041,2025-ODD,6,Remedial classes,Subject faculty
+25EC042,2026-EVEN,16,Mentor meeting,Mentor
+25EC044,2026-EVEN,6,Parent call,Mentor
+25EC046,2025-ODD,6,Mentor meeting,Mentor
+25EC046,2026-EVEN,15,Peer tutoring,Subject faculty
+25EC047,2026-EVEN,8,Parent call,Mentor
+25EC050,2025-ODD,9,Peer tutoring,Subject faculty
+25EC052,2025-ODD,16,Parent call,Mentor
+25EC054,2026-EVEN,6,Remedial classes,Subject faculty
+25EC055,2026-EVEN,9,Mentor meeting,Mentor
+25EC057,2026-EVEN,5,Counselling referral,Counsellor
+25EC059,2026-EVEN,8,Mentor meeting,Mentor
+25EC061,2026-EVEN,7,Remedial classes,Subject faculty
+25EC062,2025-ODD,5,Remedial classes,Subject faculty
+25EC062,2026-EVEN,5,Remedial classes,Subject faculty
+25EC063,2025-ODD,12,Parent call,Mentor
+25EC063,2026-EVEN,14,Mentor meeting,Mentor
+25EC064,2026-EVEN,15,Peer tutoring,Subject faculty
+25EC067,2026-EVEN,13,Counselling referral,Counsellor
+25EC068,2026-EVEN,9,Mentor meeting,Mentor
+25EC073,2025-ODD,6,Parent call,Mentor
+25EC073,2026-EVEN,5,Counselling referral,Counsellor
+25EC075,2026-EVEN,8,Counselling referral,Counsellor
+25EC076,2025-ODD,6,Mentor meeting,Mentor
+25EC076,2026-EVEN,12,Mentor meeting,Mentor
+25EC079,2026-EVEN,12,Peer tutoring,Subject faculty
+25EC080,2025-ODD,16,Mentor meeting,Mentor
+25EC082,2025-ODD,14,Parent call,Mentor
+25EC085,2025-ODD,6,Counselling referral,Counsellor
+25EC087,2025-ODD,11,Remedial classes,Subject faculty
+25EC087,2026-EVEN,11,Peer tutoring,Subject faculty
+25EC088,2026-EVEN,10,Peer tutoring,Subject faculty
+25ME001,2025-ODD,8,Peer tutoring,Subject faculty
+25ME002,2025-ODD,7,Mentor meeting,Mentor
+25ME004,2025-ODD,14,Mentor meeting,Mentor
+25ME006,2025-ODD,16,Mentor meeting,Mentor
+25ME007,2025-ODD,12,Peer tutoring,Subject faculty
+25ME008,2026-EVEN,6,Parent call,Mentor
+25ME013,2026-EVEN,9,Mentor meeting,Mentor
+25ME019,2026-EVEN,8,Peer tutoring,Subject faculty
+25ME020,2025-ODD,7,Counselling referral,Counsellor
+25ME022,2025-ODD,9,Counselling referral,Counsellor
+25ME023,2026-EVEN,8,Remedial classes,Subject faculty
+25ME024,2026-EVEN,6,Parent call,Mentor
+25ME028,2025-ODD,10,Peer tutoring,Subject faculty
+25ME028,2026-EVEN,10,Parent call,Mentor
+25ME029,2025-ODD,10,Counselling referral,Counsellor
+25ME031,2026-EVEN,12,Remedial classes,Subject faculty
+25ME036,2025-ODD,13,Peer tutoring,Subject faculty
+25ME040,2025-ODD,6,Remedial classes,Subject faculty
+25ME041,2025-ODD,10,Mentor meeting,Mentor
+25ME042,2026-EVEN,6,Peer tutoring,Subject faculty
+25ME045,2025-ODD,7,Mentor meeting,Mentor
+25ME046,2025-ODD,6,Mentor meeting,Mentor
+25ME048,2026-EVEN,13,Remedial classes,Subject faculty
+25ME053,2026-EVEN,14,Remedial classes,Subject faculty
+25ME055,2025-ODD,6,Counselling referral,Counsellor
+25ME055,2026-EVEN,6,Peer tutoring,Subject faculty
+25ME056,2026-EVEN,14,Remedial classes,Subject faculty
+25ME057,2025-ODD,12,Counselling referral,Counsellor
+25ME060,2025-ODD,11,Peer tutoring,Subject faculty

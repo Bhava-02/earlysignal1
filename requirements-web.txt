@@ -1,0 +1,12 @@
+# The EarlySignal web server (api.py + the React app). Install with: pip install -r requirements-web.txt
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+pyarrow>=10
+openpyxl>=3.0
+sqlalchemy>=1.4
+pymysql>=1.0
+# PostgreSQL, SQL Server and Oracle colleges also need one line from requirements-server.txt

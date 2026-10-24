@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ruff_cache/
+.git/
+data/processed/
+data/processed_backup/
+data/uploads/
+data/demo_server/
+data/settings.json
+data/settings_previous.json
+data/connection.json
+data/last_sync.json
